@@ -11,6 +11,7 @@ JSPS Postdoctoral Research fellow
 Quatnum Topology, Knot theory, Mapping class groups, etc.
 
 ## Bio
+
 |||
 |:--|:--|
 |Apr. 2019 -- present|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University*|
@@ -25,6 +26,7 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |Apr. 2006 -- Mar. 2010|Bachelor of Science in Mathematics, *Department of Mathematics Osaka University*|
 
 ## Grants
+
 |||
 |:--|:--|
 |Apr. 2019 -- Mar. 2023|Grant-in-Aid for Early-Career Scientists [19K14528](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14528/)|
