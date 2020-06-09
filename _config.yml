@@ -49,10 +49,11 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - CV.md
- - Puclificaitons.md
+ - Publificaitons.md
  - Talks.md
+ - Misc.md
  - TikZ-tips.md
- 
+ - Blog.md
 
 # Build settings
 theme: minima
