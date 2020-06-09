@@ -3,7 +3,7 @@ author:
   name: Wataru YUASA
   email: wyuasa@kurims.kyoto-u.ac.jp
 description: > # this means to ignore newlines until "show_excerpts:"
-  Research Institute of Mathematical Sciences
+  Research Institute of Mathematical Sciences, Kyoto University, Kyoto 606-8502 JAPAN
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -56,7 +56,7 @@ minima:
 # Build settings
 theme: minima
 minima: 
-  skin: dark
+  skin: solarized
 
 plugins:
  - jekyll-feed
