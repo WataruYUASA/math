@@ -1,19 +1,14 @@
-title: website
-description: a
-lang: ja
-baseurl: ""
-url: "https://wataruyuasa.github.io"
-twitter_username: wyuasa
-twitter:
-  username: wyuasa
-# Theme settings
-minima:
-  date_format: "%Y/%m/%d %H:%M"
+title: Wataru Yuasa
+author:
+  name: Wataru YUASA
+  email: wyuasa@kurims.kyoto-u.ac.jp
+description: Research Institute for Mathematical Sciences
+show_excerpts: true
+
+social_links:
+  twitter: wyuasa
 
 # Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
 theme: minima
 plugins:
   - jekyll-feed
