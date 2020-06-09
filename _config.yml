@@ -1,7 +1,7 @@
-title: Wataru Yuasa
+title: Your awesome title
 author:
-  name: Wataru YUASA
-  email: wyuasa@kurims.kyoto-u.ca.jp
+  name: GitHub User
+  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -58,11 +58,3 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- 
- #minima:
-  #skin: solarized-dark
-  
- header_pages:
-  - index.md
- # - Research.md
- # - TikZ tips
