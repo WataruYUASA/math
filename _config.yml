@@ -1,7 +1,7 @@
 title: Wataru Yuasa
 author:
   name: Wataru YUASA
-  email: wyuasa@kurims.kyoto-u.ac.jp
+  email: "wyuasa@kurims.kyoto-u.ac.jp"
 description: > # this means to ignore newlines until "show_excerpts:"
  Research Institute for Mathematical Science, Kyoto University
 
@@ -61,3 +61,6 @@ header_pages:
   - Publifications.md
   - Talks.md
   - TikZ-tips.md
+  
+minima:
+  skin: dark
