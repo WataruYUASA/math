@@ -1,8 +1,13 @@
-﻿<a id="top"></a>  
+---
+layout: page
+title: Curriculum Vitae
+permalink: /CV/
+---
+<a id="top"></a>  
 # **Wataru Yuasa**
 
 JSPS Postdoctoral Research fellow  
-[Research Institute for Mathematical](http://www.kurims.kyoto-u.ac.jp/en/index.html) Sciences, Kyoto University, Kyoto 606-8502 JAPAN  
+[Research Institute for Mathematical Sciences](http://www.kurims.kyoto-u.ac.jp/en/index.html), Kyoto University, Kyoto 606-8502 JAPAN  
 *mail*: wyuasa(at)kurims.koyto-u.ac.jp  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568)
 
