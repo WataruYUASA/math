@@ -48,9 +48,10 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
- #- CV.md
- #- Talks.md
- #- TikZ-tips.md
+ - CV.md
+ - Puclificaitons.md
+ - Talks.md
+ - TikZ-tips.md
  
 
 # Build settings
