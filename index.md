@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-# *Curriculum Vitae*
 
 ## Wataru Yuasa
 JSPS Postdoctoral Research fellow  
