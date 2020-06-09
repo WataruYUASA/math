@@ -52,11 +52,11 @@ minima:
  #- Talks.md
  #- TikZ-tips.md
  
-#minima: 
-  #skin: solarized-dark
 
 # Build settings
 theme: minima
+minima: 
+  skin: solarized-dark
 
 plugins:
  - jekyll-feed
