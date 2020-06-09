@@ -63,6 +63,6 @@ plugins:
   skin: solarized-dark
   
  header_pages:
-  - about.md
-  - Research.md
-  - TikZ tips
+  - index.md
+ # - Research.md
+ # - TikZ tips
