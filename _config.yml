@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: wyuasa
-    #github:  jekyll
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -48,7 +48,6 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - CV.md
  - Publifications.md
  - Talks.md
  - Misc.md
