@@ -14,11 +14,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: wyuasa
-    github:  jekyll
-     devto: jekyll
-     dribbble: jekyll
-     facebook: jekyll
+    # twitter: wyuasa
+    # github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
