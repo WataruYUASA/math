@@ -8,6 +8,10 @@ show_excerpts: true
 social_links:
   twitter: wyuasa
 
+header_pages:
+ - CV.md
+ - Talks.md
+
 # Build settings
 theme: minima
 plugins:
