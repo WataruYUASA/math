@@ -59,8 +59,8 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
- minima:
-  skin: solarized-dark
+ #minima:
+  #skin: solarized-dark
   
  header_pages:
   - index.md
