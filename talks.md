@@ -38,6 +38,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[9]|Representatoin Theory Seminar<br>*TBA.*|July 09, 2020<br>RIMS, Kyoto University **(ONLINE)**|
 |[8]|Friday Seminar on Knot Theory<br>*TBA.*|June 26, 2020<br>Osaka City University **(ONLINE)**|
 |[7]|ToKoDai Topology seminar<br>*TBA*|June 24, 2020<br>Tokyo Institute of Technology **(ONLINE)**|
 |[6]|Differential Topology Seminar<br>*On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|July 24, 2018<br>Kyoto University|
