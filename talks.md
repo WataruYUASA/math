@@ -14,7 +14,7 @@ permalink: /talk/
 |[21]|Mathematical Science on Knots <br> *Categorification of two-variable Chebyshev polynomials via linear skein theory.*|December 19, 2019<br> Nihon University|
 |[20]|MSJ Spring Meeting 2019 <br> *On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|March 18, 2019<br>Tokyo Institute of Technology|
 |[19]|Low dimensional topology and number theory XI <br> *Andrews-Gordon type identities for $A_2$ with one-row Young diagrams.*|March 12, 2019<br>Osaka University|
-|[18]|Topology and Geometry of Low-dimensional Manifolds <br> *On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|October 29, 2018<br>Nara Women's University||
+|[18]|Topology and Geometry of Low-dimensional Manifolds <br> *On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|October 29, 2018<br>Nara Women's University|
 |[17]|MSJ Autumn Meeting 2018<br>*$A_2$ skein representations of pure braid groups.*<br>*$A_2$ colored polynomials of rigid vertex graphs.*|September 24, 2018<br>Okayama University|
 |[16]|Conference on Topology related to Riemann surfaces<br>*On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|August 10, 2018<br>University of Tokyo|
 |[15]|MSJ Spring Meeting 2018<br>*A $q$-series identity via the $\mathfrak{sl}_3$ colored Jones polynomials for the $(2,2m)$-torus link.*<br>*The $\mathfrak{sl}_3$ colored Jones polynomials for $2$-bridge links.*|March 20, 2018<br>University of Tokyo|
