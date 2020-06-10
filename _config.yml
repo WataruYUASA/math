@@ -59,7 +59,7 @@ header_pages:
 
 # Build settings
 theme: minima
-  minima:
+minima: 
   skin: solarized
 
 plugins:
