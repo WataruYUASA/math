@@ -8,7 +8,7 @@
 layout: home
 ---
 
-## Wataru Yuasa
+**Wataru Yuasa**
 JSPS Postdoctoral Research fellow  
 [Research Institute for Mathematical Sciences](http://www.kurims.kyoto-u.ac.jp/en/index.html), Kyoto University, Kyoto 606-8502 JAPAN  
 *mail*: wyuasa(at)kurims.koyto-u.ac.jp  
