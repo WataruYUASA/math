@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "tsuka-lettuce"
-categories: misc
+categories: lettuce
 ---
 # tottemo tsukalettuce
-
+疲レタス
 ## tottemo tsukalettuce
 
 ### tottemo tsukalettuce
