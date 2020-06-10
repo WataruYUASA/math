@@ -59,7 +59,8 @@ header_pages:
 
 # Build settings
 theme: minima
-skin: solarized
+  minima:
+  skin: solarized
 
 plugins:
  - jekyll-feed
