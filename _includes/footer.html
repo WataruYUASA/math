@@ -2,10 +2,10 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
+    
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        
+        {% comment %}
         <p class="feed-subscribe">
          <a href="{{ 'feed.xml' | relative_url }}">
            <svg class="svg-icon orange">
@@ -13,7 +13,7 @@
            </svg><span>Subscribe</span>
          </a>
         </p>
-        
+        {% endcomment %}
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
