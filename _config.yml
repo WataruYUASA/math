@@ -61,7 +61,7 @@ header_pages:
 # Build settings
 theme: minima
 minima: 
-  skin: classical
+  skin: classic
 
 plugins:
  - jekyll-feed
