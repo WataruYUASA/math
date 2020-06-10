@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
 
-
+{% comment %}
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
@@ -57,5 +57,5 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
-
+{% endcomment %}
 </div>
