@@ -14,7 +14,6 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-minima:
   social_links:
     twitter: wyuasa
     # github:  jekyll
@@ -61,7 +60,7 @@ header_pages:
 # Build settings
 theme: minima
 minima: 
-  skin: classic
+  skin: solarized
 
 plugins:
  - jekyll-feed
