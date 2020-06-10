@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tsuka-lettuce"
+title: "疲レタス"
 categories: lettuce
 ---
 # tottemo tsukalettuce
