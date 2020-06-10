@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publifications
-permalink: /papers/
+permalink: /pub/
 ---
 
 ## Research paper
