@@ -38,9 +38,9 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[9]|Representatoin Theory Seminar<br>*TBA.*|July 09, 2020<br>RIMS, Kyoto University **(ONLINE)**|
-|[8]|Friday Seminar on Knot Theory<br>*TBA.*|June 26, 2020<br>Osaka City University **(ONLINE)**|
-|[7]|ToKoDai Topology seminar<br>*TBA*|June 24, 2020<br>Tokyo Institute of Technology **(ONLINE)**|
+|[9]|Representatoin Theory Seminar<br>*The tail of the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial and the Andrews-Gordon type identity.*|July 09, 2020<br>RIMS, Kyoto University **(ONLINE)**|
+|[8]|Friday Seminar on Knot Theory<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial.*|June 26, 2020<br>Osaka City University **(ONLINE)**|
+|[7]|ToKoDai Topology seminar<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial*|June 24, 2020<br>Tokyo Institute of Technology **(ONLINE)**|
 |[6]|Differential Topology Seminar<br>*On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|July 24, 2018<br>Kyoto University|
 |[5]|Friday Seminar on Knot Theory<br>*$A_2$ colored polynomials of rigid vertex graphs.*|June 22, 2018<br>Osaka City University|
 |[4]|Low-dimensional Topology Seminar<br>*$A_2$ colored polynomials of rigid vertex graphs.*|April 26, 2018<br>RIMS, Kyoto University|
