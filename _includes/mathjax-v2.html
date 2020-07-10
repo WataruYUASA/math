@@ -3,9 +3,12 @@
     tex2jax: {
       inlineMath: [['$','$'], ['\\(','\\)']],
       processEscapes: true
+      processEnvironments: true
+      digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,
+      useLabelIds: true
     },
     CommonHTML: { matchFontHeight: false },
-    displayAlign: "left",
+    displayAlign: "center",
     displayIndent: "2em",
     TeX: {
       equationNumbers: { autoNumber: "AMS" },
