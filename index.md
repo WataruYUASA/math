@@ -25,9 +25,9 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |||
 |:--|:--|
 |Apr. 2019 -- present|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University*|
-|Apr. 2018 -- Mar. 2019|Research associate, *Department of Mathematics, Graduate School of Science, Kyoto University*|
-|Oct. 2017 -- Mar. 2018|Tokyo Institute of Technology Postdoctoral Researcher,*Department of Mathematics, School of Science, Tokyo Institute of Technology*|
-|Apr. 2012 -- Mar.2015|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology*|  
+|Apr. 2018 -- Mar. 2019|Research associate, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
+|Oct. 2017 -- Mar. 2018|Tokyo Institute of Technology Postdoctoral Researcher,*Department of Mathematics, School of Science, Tokyo Institute of Technology, (Mentor: Koji Fujiwara)*|
+|Apr. 2012 -- Mar.2015|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|  
 
 
 |||
