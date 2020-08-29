@@ -4,7 +4,7 @@ title: MISC
 permalink: /misc/
 ---
 
-## Template for background of slides
+## 手書き用スライドのテンプレート (Template PDF files for background)
 
 - [lightgray](material/lightgray.pdf)
 - [lightgreen](material/lightgreen.pdf)
