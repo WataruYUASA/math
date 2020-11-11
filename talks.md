@@ -38,7 +38,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[10]|Friday Tea Time Zoom Seminar<br>*色付きジョーンズ多項式のtailとq-級数.* [slide(Japanese)](material/20201113_Tea_time_seminar_handout.pdf)|November 13, 2020<br>RIMS, Kyoto University **(ONLINE)**|
+|[10]|Friday Tea Time Zoom Seminar<br>*色付きジョーンズ多項式のtailとq-級数.* [slide(Japanese)](material/20201113_Tea_time_seminar_handout.pdf)|November 13, 2020<br> Nagoya University **(ONLINE)**|
 |[9]|Representatoin Theory Seminar<br>*The tail of the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial and the Andrews-Gordon type identity.*|July 09, 2020<br>RIMS, Kyoto University **(ONLINE)**|
 |[8]|Friday Seminar on Knot Theory<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial.*|June 26, 2020<br>Osaka City University **(ONLINE)**|
 |[7]|ToKoDai Topology seminar<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial*|June 24, 2020<br>Tokyo Institute of Technology **(ONLINE)**|
