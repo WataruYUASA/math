@@ -51,7 +51,7 @@ google_analytics: UA-129678431-1
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - publifications.md
+ - publications.md
  - talks.md
  - misc.md
  - tikz.md
