@@ -25,8 +25,8 @@ permalink: /pub/
 
 ||||
 |--:|:--|:--:|
-|[4]|*Twist formulas for one-row colored $A_{2}$ webs and $\mathfrak{sl}_{3}$ tails of $(2,2m)$-torus links.*|to appear in Sûrikaisekikenkyûsho Kôkyûroku|
-|[3]|*A skein categorification of the two-variable Chebyshev polynomials of type $A_{2}$.*|[Musubime no Sûri (2020) **Japanese**](http://www.math.chs.nihon-u.ac.jp/~ichihara/Knots2019/Proceedings/191219_9_Yuasa.pdf)|
-|[2]|*Quantum invariants of knots and the Andrews-Gordon identities for $A_{2}$.*|[Sûrikaisekikenkyûsho Kôkyûroku (2018) **Japanese**](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2075.html)|
-|[1]|*Hyperelliptic Goldman Lie algebra and its abelianization.*|[Sûrikaisekikenkyûsho Kôkyûroku (2015)](http://ci.nii.ac.jp/naid/110009905818/)|
+|[4]|*Twist formulas for one-row colored $A_{2}$ webs and $\mathfrak{sl}_{3}$ tails of $(2,2m)$-torus links.*|[数理解析研究所講究録 (2020)](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2163-05.pdf)|
+|[3]|*A skein categorification of the two-variable Chebyshev polynomials of type $A_{2}$.*|[結び目の数理 (2020) **Japanese**](http://www.math.chs.nihon-u.ac.jp/~ichihara/Knots2019/Proceedings/191219_9_Yuasa.pdf)|
+|[2]|*Quantum invariants of knots and the Andrews-Gordon identities for $A_{2}$.*|[数理解析研究所講究録 (2018) **Japanese**](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2075.html)|
+|[1]|*Hyperelliptic Goldman Lie algebra and its abelianization.*|[数理解析研究所講究録 (2015)](http://ci.nii.ac.jp/naid/110009905818/)|
 
