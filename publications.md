@@ -9,6 +9,7 @@ permalink: /pub/
 
 |||||
 |--:|:--|:--:|:--:|
+|[10]|*Cluster and Skein algebra of marked surfaces without punctures for $\mathfrak{sl}_{3}$* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home))||[arXiv](https://arxiv.org/abs/2101.00643)|
 |[9]|*The zero stability for the one-row colored $\mathfrak{sl} _ 3$ Jones polynomial.*||[arXiv](https://arxiv.org/abs/2007.15621)|
 |[8]|*Twist formulas for one-row colored $A _ {2}$ webs and $\mathfrak{sl} _ {3}$ tails of $(2,2m)$-torus links.*|to appear in Acta Mathematica Vietnamica|[arXiv](https://arxiv.org/abs/2003.12278)|
 |[7]|*A graphical categorification of the two-variable Chebyshev polynomials of the second kind.*||[arXiv](https://arxiv.org/abs/1903.01099)|
