@@ -8,7 +8,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[25]|Hurwitz action online 〜フルビッツ作用とその周辺〜<br>*Filtered and graded $\mathfrak{sl}_{3}$-skein algebra of marked surface without punctures*|Jan 10, 2021<br> **(ONLINE)**|
+|[25]|Hurwitz action online 〜フルビッツ作用とその周辺〜<br>*Filtered and graded $\mathfrak{sl}_{3}$-skein algebras of marked surfaces without punctures*|Jan 10, 2021<br> **(ONLINE)**|
 |[24]|Intelligence of Low-dimensional Topology<br>*Twist formulas for one-row colored $A_{2}$ webs and $\mathfrak{sl}_{3}$ tails of $(2,2m)$-torus links*|May 14, 2020<br> RIMS, Kyoto University **(ONLINE)**|
 |[23]|The 15th East Asian Conference on Geometric Topology <br> *The $\mathfrak{sl}_3$ colored Jones polynomial of  $(2,m)$-torus links and its tails.*|February 12, 2020<br> RIMS, Kyoto University|
 |[22]|Hurwitz action 8 <br> *A full twist formula for the $A_2$ skein colored with $(m,n)$ and $(k,0)$.*|Janualy 12, 2020<br> Okayama University|
