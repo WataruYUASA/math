@@ -11,7 +11,7 @@ permalink: /pub/
 |--:|:--|:--:|:--:|
 |[10]|*Cluster and Skein algebra of marked surfaces without punctures for $\mathfrak{sl}_{3}$* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home))||[arXiv](https://arxiv.org/abs/2101.00643)|
 |[9]|*The zero stability for the one-row colored $\mathfrak{sl} _ 3$ Jones polynomial.*||[arXiv](https://arxiv.org/abs/2007.15621)|
-|[8]|*Twist formulas for one-row colored $A _ {2}$ webs and $\mathfrak{sl} _ {3}$ tails of $(2,2m)$-torus links.*|[Acta Mathematica Vietnamica (2021)](https://doi.org/10.1007/s40306-020-00397-9)|[arXiv](https://arxiv.org/abs/2003.12278)|
+|[8]|*Twist formulas for one-row colored $A _ {2}$ webs and $\mathfrak{sl} _ {3}$ tails of $(2,2m)$-torus links.*|[Acta Mathematica Vietnamica (2021)](https://doi.org/10.1007/s40306-020-00397-9){:target="_blank"}|[arXiv](https://arxiv.org/abs/2003.12278){:target="_blank"}|
 |[7]|*A graphical categorification of the two-variable Chebyshev polynomials of the second kind.*||[arXiv](https://arxiv.org/abs/1903.01099)|
 |[6]|*On power subgroups of Dehn twists in hyperelliptic mapping class groups.*||[arXiv](https://arxiv.org/abs/1801.06026)|
 |[5]|*$A _ {2}$ skein representations of pure braid groups.*||[arXiv](https://arxiv.org/abs/1711.05931)|
