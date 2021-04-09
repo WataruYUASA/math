@@ -21,7 +21,6 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 
 ## Bio
 
-
 |||
 |:--|:--|
 |Apr. 2019 -- present|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
@@ -36,12 +35,19 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |Apr. 2010 -- Mar. 2012|Master of Science in mathematics, *Department of Mathematics, Osaka University* (advisor: Hisaaki Endo)|
 |Apr. 2006 -- Mar. 2010|Bachelor of Science in Mathematics, *Department of Mathematics Osaka University*|
 
-
 ## Grants
-
 
 |||
 |:--|:--|
 |Apr. 2019 -- Mar. 2023|Grant-in-Aid for Early-Career Scientists [19K14528](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14528/)|
 |Apr. 2019 -- Mar. 2022|Grant-in-Aid for JSPS Research Fellow [19J00252](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J00252/)|
 |Apr. 2012 -- Mar. 2015|Grant-in-Aid for JSPS Research Fellow [12J01252](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-12J01252/)|
+
+## 教育活動
+
+|||
+|:--|:--|
+|Apr. 2021 -- present|関西大学化学生命工学部 非常勤講師 (線形代数)|
+|Apr. 2018 -- Mar. 2019|京都大学理学部 教務補佐員 (幾何学入門演習の答案解説等)|
+|Oct. 2011 -- Feb. 2012|大阪大学 日韓共同理工系学部留学生予備教育数学担当 TA （高校数学程度の予備教育）|
+|Apr. 2010 -- Mar. 2012|大阪大学共通教育TA (線形代数学・基礎解析学)|
