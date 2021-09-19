@@ -8,6 +8,8 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|September 28, 2021<br>**ONLINE**<br>[slide](material/slide_QGRT2021.pdf)|
+|[27]|拡大 KOOK セミナー 2021<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|August 31, 2021<br>**ONLINE**<br>[slide](material/slide_EKOOK2021.pdf)|
 |[26]|Quantum Geometry and Representation Theory<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|March 04, 2021<br>**ONLINE**|
 |[25]|Hurwitz action online 〜フルビッツ作用とその周辺〜<br>*Filtered and graded $\mathfrak{sl}_{3}$-skein algebras of marked surfaces without punctures*|Jan 10, 2021<br>**ONLINE**|
 |[24]|Intelligence of Low-dimensional Topology<br>*Twist formulas for one-row colored $A_{2}$ webs and $\mathfrak{sl}_{3}$ tails of $(2,2m)$-torus links*|May 14, 2020<br>**ONLINE**|
@@ -40,10 +42,10 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[11]|広島大学 トポロジー・幾何セミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$.*|June 15, 2021<br>RIMS, Kyoto University **(ONLINE)**|
-|[10]|Friday Tea Time Zoom Seminar<br>*色付きジョーンズ多項式のtailとq-級数.* [slide(Japanese)](material/20201113_Tea_time_seminar_handout.pdf)|November 13, 2020<br> **(ONLINE)**|
-|[9]|Representatoin Theory Seminar<br>*The tail of the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial and the Andrews-Gordon type identity.*|July 09, 2020<br>RIMS, Kyoto University **(ONLINE)**|
-|[8]|Friday Seminar on Knot Theory<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial.*|June 26, 2020<br>Osaka City University **(ONLINE)**|
+|[11]|広島大学 トポロジー・幾何セミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$.*|June 15, 2021<br>RIMS, Kyoto University **(ONLINE)**<br>[slide](material/slide_HitoshimaGeoTop2021.pdf)|
+|[10]|Friday Tea Time Zoom Seminar<br>*色付きジョーンズ多項式のtailとq-級数.*|November 13, 2020<br>**(ONLINE)**<br>[slide(Japanese)](material/slide_TeaTimeSeminar2020.pdf)|
+|[9]|Representatoin Theory Seminar<br>*The tail of the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial and the Andrews-Gordon type identity.*|July 09, 2020<br>RIMS, Kyoto University **(ONLINE)**<br>[slide](material/slide_KyotoRep2020.pdf)|
+|[8]|Friday Seminar on Knot Theory<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial.*|June 26, 2020<br>Osaka City University **(ONLINE)**<br>[slide](material/slide_FridayKnot2020.pdf)|
 |[7]|東工大トポロジーセミナー<br>*Zero stability for the one-row colored $\mathfrak{sl}_{3}$ Jones polynomial*|June 24, 2020<br>Tokyo Institute of Technology **(ONLINE)**|
 |[6]|微分トポロジーセミナー<br>*On power subgroups of Dehn twists in hyperelliptic mapping class groups.*|July 24, 2018<br>Kyoto University|
 |[5]|Friday Seminar on Knot Theory<br>*$A_2$ colored polynomials of rigid vertex graphs.*|June 22, 2018<br>Osaka City University|
