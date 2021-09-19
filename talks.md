@@ -8,9 +8,9 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|September 28, 2021<br>**ONLINE**<br>[slide](material/slide_QGRT2021.pdf)|
+|[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|September 28, 2021<br>**ONLINE**|
 |[27]|拡大 KOOK セミナー 2021<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|August 31, 2021<br>**ONLINE**<br>[slide](material/slide_EKOOK2021.pdf)|
-|[26]|Quantum Geometry and Representation Theory<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|March 04, 2021<br>**ONLINE**|
+|[26]|Quantum Geometry and Representation Theory<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|March 04, 2021<br>**ONLINE**<br>[slide](material/slide_QGRT2021.pdf)|
 |[25]|Hurwitz action online 〜フルビッツ作用とその周辺〜<br>*Filtered and graded $\mathfrak{sl}_{3}$-skein algebras of marked surfaces without punctures*|Jan 10, 2021<br>**ONLINE**|
 |[24]|Intelligence of Low-dimensional Topology<br>*Twist formulas for one-row colored $A_{2}$ webs and $\mathfrak{sl}_{3}$ tails of $(2,2m)$-torus links*|May 14, 2020<br>**ONLINE**|
 |[23]|The 15th East Asian Conference on Geometric Topology <br> *The $\mathfrak{sl}_3$ colored Jones polynomial of  $(2,m)$-torus links and its tails.*|February 12, 2020<br> RIMS, Kyoto University|
