@@ -8,7 +8,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|2021-09-28<br>**ONLINE**|
+|[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|2021-09-28<br>**ONLINE**<br>[slide](material/slide_IA2021.pdf)|
 |[27]|拡大 KOOK セミナー 2021<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|2021-08-31<br>**ONLINE**<br>[slide](material/slide_EKOOK2021.pdf)|
 |[26]|Quantum Geometry and Representation Theory<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|2021-03-04<br>**ONLINE**<br>[slide](material/slide_QGRT2021.pdf)|
 |[25]|Hurwitz action online 〜フルビッツ作用とその周辺〜<br>*Filtered and graded $\mathfrak{sl}_{3}$-skein algebras of marked surfaces without punctures*|2021-01-10<br>**ONLINE**|
