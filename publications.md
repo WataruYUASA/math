@@ -9,9 +9,9 @@ permalink: /pub/
 
 |||||
 |--:|:--|:--:|:--:|
-|[11]|*Stated and marked skein algebras* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"})||[arXiv]()<br>[Note](material/calc_stated_marked.pdf)|
-|[10]|*Cluster and Skein algebra of marked surfaces without punctures for $\mathfrak{sl}_{3}$* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"})||[arXiv](https://arxiv.org/abs/2101.00643)|
-|[9]|*The zero stability for the one-row colored $\mathfrak{sl} _ 3$ Jones polynomial.*||[arXiv](https://arxiv.org/abs/2007.15621){:target="_blank"}|
+|[11]|*Stated and marked skein algebras* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"})||<br>[Note](material/calc_stated_marked.pdf)|
+|[10]|*Cluster and Skein algebra of marked surfaces without punctures for $\mathfrak{sl}_{3}$* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"})|submitted|[arXiv](https://arxiv.org/abs/2101.00643)|
+|[9]|*The zero stability for the one-row colored $\mathfrak{sl} _ 3$ Jones polynomial.*|submitted|[arXiv](https://arxiv.org/abs/2007.15621){:target="_blank"}|
 |[8]|*Twist formulas for one-row colored $A _ {2}$ webs and $\mathfrak{sl} _ {3}$ tails of $(2,2m)$-torus links.*|[Acta Mathematica Vietnamica (2021)](https://doi.org/10.1007/s40306-020-00397-9){:target="_blank"}|[arXiv](https://arxiv.org/abs/2003.12278){:target="_blank"}|
 |[7]|*A graphical categorification of the two-variable Chebyshev polynomials of the second kind.*||[arXiv](https://arxiv.org/abs/1903.01099){:target="_blank"}|
 |[6]|*On power subgroups of Dehn twists in hyperelliptic mapping class groups.*||[arXiv](https://arxiv.org/abs/1801.06026){:target="_blank"}|
