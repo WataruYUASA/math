@@ -42,6 +42,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[13]|大阪大学トポロジーセミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$ and $\mathfrak{sp}_4$.*|2022-05-18<br>Osaka University|
 |[12]|トポロジー火曜セミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$.*|2021-11-16<br>University of Tokyo<br>**(ONLINE)**<br>[slide](material/slide_TuesdayTop2021.pdf)|
 |[11]|広島大学 トポロジー・幾何セミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$.*|2021-06-15<br>Hiroshima University<br>**(ONLINE)**<br>[slide](material/slide_HitoshimaGeoTop2021.pdf)|
 |[10]|Friday Tea Time Zoom Seminar<br>*色付きジョーンズ多項式のtailとq-級数.*|2020-11-13<br>**(ONLINE)**<br>[slide(Japanese)](material/slide_TeaTimeSeminar2020.pdf)|
