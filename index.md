@@ -7,10 +7,11 @@
 #
 layout: home
 ---
+(update:2022-04-07)
 
-**Wataru Yuasa**  
-JSPS Postdoctoral Research fellow  
-[Research Institute for Mathematical Sciences](http://www.kurims.kyoto-u.ac.jp/en/index.html), Osaka Central Advanced Mathematical Institute, Osaka Metropolitan University, 3-3-138 Sugimoto, Sumiyoshi-ku Osaka 558-8585 JAPAN
+**Wataru Yuasa**
+Postdoctoral Researcher at
+[Osaka Central Advanced Mathematical Institute](http://www.sci.osaka-cu.ac.jp/OCAMI/index_e.html), Osaka Metropolitan University, 3-3-138 Sugimoto, Sumiyoshi-ku Osaka 558-8585 JAPAN
 
 *mail*: wyuasa(at)kurims.kyoto-u.ac.jp  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568),
@@ -26,8 +27,9 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |||
 |:--|:--|
 |Apr. 2022 -- present| Postdoctoral researcher, *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
+|Apr. 2022 -- present| Part-time researcher, **Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
 |Apr. 2019 -- Mar. 2022|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
-|Apr. 2018 -- Mar. 2019|Part-time reseacher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara)*|
+|Apr. 2018 -- Mar. 2019|Part-time researcher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara [15H05739](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05739/))*|
 |Oct. 2017 -- Mar. 2018|Tokyo Institute of Technology postdoctoral researcher, *Department of Mathematics, School of Science, Tokyo Institute of Technology*|
 |Apr. 2012 -- Mar.2015|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|  
 
