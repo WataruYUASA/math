@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-(update:2022-05-18)
+(update:2022-06-14)
 
 **Wataru Yuasa**
 
@@ -16,7 +16,7 @@ Postdoctoral Researcher at
 
 *mail*: wyuasa(at)kurims.kyoto-u.ac.jp  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568),
-[Google Scholar](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568)
+[Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=WXyFD1wAAAAJ)
 
 ---
 
@@ -27,12 +27,13 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 
 |||
 |:--|:--|
-|Apr. 2022 -- present| Postdoctoral researcher, *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
-|Apr. 2022 -- present| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
-|Apr. 2019 -- Mar. 2022|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
-|Apr. 2018 -- Mar. 2019|Part-time researcher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara [15H05739](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05739/))*|
-|Oct. 2017 -- Mar. 2018|Tokyo Institute of Technology postdoctoral researcher, *Department of Mathematics, School of Science, Tokyo Institute of Technology*|
-|Apr. 2012 -- Mar.2015|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|  
+|2022-06 -- present| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University*|
+|2022-04 -- present| Postdoctoral researcher, *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
+|2022-04 -- 2022-05| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
+|2019-04 -- 2022-03|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
+|2018-04 -- 2019-03|Part-time researcher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara [15H05739](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05739/))*|
+|2017-10 -- 2018-03|Tokyo Institute of Technology postdoctoral researcher, *Department of Mathematics, School of Science, Tokyo Institute of Technology*|
+|2012-04 -- 2015-03|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|  
 
 
 |||
@@ -45,9 +46,9 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 
 |||
 |:--|:--|
-|Apr. 2019 -- Mar. 2023|Grant-in-Aid for Early-Career Scientists [19K14528](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14528/)|
-|Apr. 2019 -- Mar. 2022|Grant-in-Aid for JSPS Research Fellow [19J00252](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J00252/)|
-|Apr. 2012 -- Mar. 2015|Grant-in-Aid for JSPS Research Fellow [12J01252](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-12J01252/)|
+|2019-04 -- 2023-03|Grant-in-Aid for Early-Career Scientists [19K14528](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14528/)|
+|2019-04 -- 2022-03|Grant-in-Aid for JSPS Research Fellow [19J00252](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J00252/)|
+|2012-04 -- 2015-03|Grant-in-Aid for JSPS Research Fellow [12J01252](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-12J01252/)|
 
 ## 教育活動
 
@@ -55,6 +56,6 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |:--|:--|
 |2022-04-01 -- present|関西大学化学生命工学部 非常勤講師 (線形代数)|
 |2021-04-01 -- 2021-09-20|関西大学化学生命工学部 非常勤講師 (線形代数)|
-|Apr. 2018 -- Mar. 2019|京都大学理学部 教務補佐員 (幾何学入門演習の答案解説等)|
-|Oct. 2011 -- Feb. 2012|大阪大学 日韓共同理工系学部留学生予備教育数学担当 TA （高校数学程度の予備教育）|
-|Apr. 2010 -- Mar. 2012|大阪大学共通教育TA (線形代数学・基礎解析学)|
+|2018-04 -- 2019-03|京都大学理学部 教務補佐員 (幾何学入門演習の答案解説等)|
+|2011-10 -- 2012-02|大阪大学 日韓共同理工系学部留学生予備教育数学担当 TA （高校数学程度の予備教育）|
+|2010-04 -- 2012-03|大阪大学共通教育TA (線形代数学・基礎解析学)|
