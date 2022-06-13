@@ -38,9 +38,9 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 
 |||
 |:--|:--|
-|Apr. 2012 -- Sep. 2017|Doctor of Science in Mathematics, *Department of Mathematics, Tokyo Institute of Technology* (supervisor: Hisaaki Endo)|
-|Apr. 2010 -- Mar. 2012|Master of Science in mathematics, *Department of Mathematics, Osaka University* (supervisor: Hisaaki Endo)|
-|Apr. 2006 -- Mar. 2010|Bachelor of Science in Mathematics, *Department of Mathematics Osaka University*|
+|2012-04-01 -- 2017-09-20|Doctor of Science in Mathematics, *Department of Mathematics, Tokyo Institute of Technology* (supervisor: Hisaaki Endo)|
+|2010-04-01 -- 2012-03-22|Master of Science in mathematics, *Department of Mathematics, Osaka University* (supervisor: Hisaaki Endo)|
+|2006-04 -- 2010-03|Bachelor of Science in Mathematics, *Department of Mathematics Osaka University*|
 
 ## Grants
 
