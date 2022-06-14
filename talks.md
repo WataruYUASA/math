@@ -8,7 +8,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[30]|トポロジーシンポジウム2022<br>*曲面のスケイン代数と量子クラスター代数*|2022-08-18<br>Muroran Institute of Technology|
+|[30]|トポロジーシンポジウム2022<br>*曲面のスケイン代数と量子クラスター代数*|2022-08-17<br>Muroran Institute of Technology|
 |[29]|The 13th KOOK-TAPU Joint Seminar on Knots and Related Topics<br>*TBA*|2022-07<br>**ONLINE**|
 |[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|2021-09-28<br>**ONLINE**<br>[slide](material/slide_IA2021.pdf)|
 |[27]|拡大 KOOK セミナー 2021<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$*|2021-08-31<br>**ONLINE**<br>[slide](material/slide_EKOOK2021.pdf)|
