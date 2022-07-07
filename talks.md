@@ -44,6 +44,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[14]|南大阪代数セミナー<br>*Skein and cluster algebras of unpunctured surfaces for $\mathfrak{sp}_4$.*|2022-07-19<br>Osaka Metropolitan University<br>**(ONLINE)**|
 |[13]|大阪大学トポロジーセミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sp}_4$.*|2022-05-18<br>Osaka University<br>**(ONLINE)**<br>[slide](material/slide_OsakaUnivTop20220.pdf)|
 |[12]|トポロジー火曜セミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$.*|2021-11-16<br>University of Tokyo<br>**(ONLINE)**<br>[slide](material/slide_TuesdayTop2021.pdf)|
 |[11]|広島大学 トポロジー・幾何セミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_3$.*|2021-06-15<br>Hiroshima University<br>**(ONLINE)**<br>[slide](material/slide_HitoshimaGeoTop2021.pdf)|
