@@ -7,12 +7,13 @@
 #
 layout: home
 ---
-(update:2022-12-06)
+(update:2023-01-09)
 
 **Wataru Yuasa**
 
 Postdoctoral Researcher at
-[Osaka Central Advanced Mathematical Institute](http://www.sci.osaka-cu.ac.jp/OCAMI/index_e.html), Osaka Metropolitan University, 3-3-138 Sugimoto, Sumiyoshi-ku Osaka 558-8585 JAPAN
+[OCAMI](http://www.sci.osaka-cu.ac.jp/OCAMI/index_e.html), Osaka Metropolitan University, 3-3-138 Sugimoto, Sumiyoshi-ku Osaka 558-8585 JAPAN; at [RIMS](http://www.sci.osaka-cu.ac.jp/OCAMI/index_e.html), Kyoto University, Kitashirakawa Oiwake-cho, Sakyo-ku, Kyoto 606-8502, JAPAN
+
 
 *mail*: wyuasa(at)kurims.kyoto-u.ac.jp  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568),
