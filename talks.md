@@ -6,10 +6,12 @@ permalink: /talk/
 
 ## Conference talks
 
+<!-- |[32]|Geometry, Algebra and Physics Seminar at KIAS<br>*State-clasp correpondence for skein algebras*|2023-??<br>KIAS (**ONLINE**)|
+|[31]|Geometry, Algebra and Physics Seminar at KIAS<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_{3}$ and $\mathfrak{sp}_{4}$*|2023-??<br>KIAS (**ONLINE**)| -->
+
 ||||
 |--:|:--|:--:|
-|[32]|Geometry, Algebra and Physics Seminar at KIAS<br>*State-clasp correpondence for skein algebras*|2023-??<br>KIAS (**ONLINE**)|
-|[31]|Geometry, Algebra and Physics Seminar at KIAS<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sl}_{3}$ and $\mathfrak{sp}_{4}$*|2023-??<br>KIAS (**ONLINE**)|
+|[31]|Mapping class groups and Quantum topology<br>*Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$*|2023-03-10<br>東広島市市民文化センター|
 |[30]|トポロジーシンポジウム2022<br>*曲面のスケイン代数と量子クラスター代数*|2022-08-17<br>Kitami Institute of Technology (**ONLINE**)<br>[slide](material/slide_toposympo.pdf)|
 |[29]|The 13th KOOK-TAPU Joint Seminar on Knots and Related Topics<br>*State-clasp correpondence for skein algebras*|2022-07<br>Osaka Metropolitan University (**ONLINE**)<br>[slide](material/slide_KOOK-TAPU2022.pdf)|
 |[28]|Infinite Analysis 21 workshop Around Cluster Algebras<br>*Skein realization of cluster algebras with coefficients from marked surface*|2021-09-28<br>**ONLINE**<br>[slide](material/slide_IA2021.pdf)|
