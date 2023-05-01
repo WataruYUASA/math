@@ -11,7 +11,7 @@ layout: home
 
 **Wataru Yuasa**
 
-Program-Specific Assistant Professor at [Graduate School of Science, Division of Mathematics and Mathematical Sciences](https://www.math.kyoto-u.ac.jp/en), Kyoto University, Kitashirakawa Oiwake-cho, Sakyo-ku, Kyoto 606-8502, JAPAN.
+Program-Specific Assistant Professor at [Graduate School of Science, Division of Mathematics and Mathematical Sciences](https://www.math.kyoto-u.ac.jp/en), Kyoto University
 
 *mail*: yuasa.wataru.6m(at)kyoto-u.ac.jp  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568),
