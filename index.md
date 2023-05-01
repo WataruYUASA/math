@@ -28,7 +28,7 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |:--|:--|
 |2023-05 -- present| Program-Specific Assistant Professor, *Graduate School of Science, Division of Mathematics and Mathematical Sciences, Kyoto University*|
 |2022-04 -- present| Postdoctoral researcher (additional post member), *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
-|2023-04 -- 2023-05| Part-time researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
+|2023-04 -- 2023-04| Part-time researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
 |2022-06 -- 2023-05| Part-time researcher (拠点担当), *Research Institute of  Mathematical Sciences, Kyoto University*|
 |2022-04 -- 2022-05| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
 |2019-04 -- 2022-03|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
