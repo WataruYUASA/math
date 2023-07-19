@@ -7,14 +7,14 @@
 #
 layout: home
 ---
-(update:2023-05-01)
+(update:2023-07-20)
 
 **Wataru Yuasa**
 
 Program-Specific Assistant Professor at [Graduate School of Science, Division of Mathematics and Mathematical Sciences](https://www.math.kyoto-u.ac.jp/en), Kyoto University
 
 *mail*: yuasa.wataru.6m(at)kyoto-u.ac.jp  
-[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1215568),
+[MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1215568),
 [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=WXyFD1wAAAAJ)
 
 ---
