@@ -47,6 +47,7 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 
 |||
 |:--|:--|
+|2023-04 -- 2028-03|Grant-in-Aid for Early-Career Scientists [23K12972](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K12972/)|
 |2019-04 -- 2023-03|Grant-in-Aid for Early-Career Scientists [19K14528](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14528/)|
 |2019-04 -- 2022-03|Grant-in-Aid for JSPS Research Fellow [19J00252](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J00252/)|
 |2012-04 -- 2015-03|Grant-in-Aid for JSPS Research Fellow [12J01252](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-12J01252/)|
