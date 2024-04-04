@@ -11,6 +11,10 @@ tags: ["参考文献"]
 # スケイン代数
 - [CottaRamusino-Rinaldi 1991a, 1991b, 1991c]
   - 曲面上のスケイン代数の余代数構造や multi-parameter 量子群.
+- [JonsonFreyd 2021]
+  - Heisenberg-picture field theory, skein category and factrization algebra を用いる.
+- [AlQasimi-Stokman 2021]
+  - Skein category, affine TL algebra のアニュラスによる実現や [Roger-Yang 2014] のスケインとの関係が書かれている.
 
 # TQFT, モノイダル圏
 - [Turaev 2016]
@@ -18,7 +22,7 @@ tags: ["参考文献"]
 - [Turaev-Virelizier 2017]
   - Monoidal category, TQFT, Hopf monad の教科書. string diagram による表示.
 - [Barrett-Meusburger-Schaumann 2018]
-  - Gray category の diagrammatic 圏, TQFT への応用を見込んでいる.
+  - Gray category のダイアグラム圏, TQFT への応用を見込んでいる.
 - [Bruguieres-Virelizier 2005]
   - Hopf diagram というモノイダル圏とそれを用いた $3$-manifolds の量子不変量. [Habiro 2006] と独立だが被ってる部分あり.
 - [Bruguieres-Virelizier 2007]
@@ -36,7 +40,17 @@ tags: ["参考文献"]
 - [Habiro 2006]
   - Bottom tangle, リボンホップ代数から得られる universal invariant.
 
-# web 圏, diagrammatic 圏, string-net, spin network
+# Temperley-Lieb 代数, Temperley-Lieb 圏
+- [Murtin-Saleur 1993]
+  - 高次の統計力学に対する代数的アプローチ. TL 代数を用いる. annulus の TL 代数らしきものが出てきている.
+- [Alvarez-Martin 2007]
+  - 高次のセルを使った TL 圏の一般化.
+- [Biagioli-Fatabbi-Sasso 2022+]
+  - $\tilde{B}$, $\tilde{D}$ 型の affine Coxeter system に対応する TL 代数に対応するダイアグラム圏を構成.  $\tilde{B}$, $\tilde{D}$ 型の blob 代数かな.
+- [Hazi-Martin-Parker 2021]
+  - blob 代数に対して indecomposable tilting module を構成. KLR 代数も出てきている.
+
+# web 圏, ダイアグラム圏, string-net, spin network
 - [Bodish-Wu 2021+]
   - $G_2$ の highest weight projector (clasp) についての公式, triple clasp formula.
 - [Bodish-Wu 2023+]
@@ -58,7 +72,7 @@ tags: ["参考文献"]
 - [Brundan 2017+]
   - Oriented skein category という HOMFLY-PT スケインに対応するリボン圏.
 - [Fuchs-Schweigert-Yang 2023+]
-  -  pivotal bicategory に対する string-net model. 曲面上の diagrammatic 圏についての記述あり.
+  -  pivotal bicategory に対する string-net model. 曲面上のダイアグラム圏についての記述あり.
 - [JonesC 2016]
   - generic $q$ での $G_2$ web の $C^\ast$-structure, property (T), triangle presentations. $7$ 次元表現の具体的な ONB を与えている.
 - [JonesC 2021]
@@ -67,6 +81,8 @@ tags: ["参考文献"]
   - 素数 $p$ に付随する quiver を構成し, その path algebra が標数 $p$ の $SL_2$ の tilting module の圏のなす代数と同型であることを示している. mod $p$ Jones-Wenzl projector.
 - [Sutton-Tubbenhauer-Wedrich-Zhu 2023]
   - ``mixed case'' における $SL_2$ の Tilting modules の圏と Temperley-Lieb 圏.
+- [Morrison 2011]
+  - $G_2$ web を用いたブレイド群から $7$ 次元表現の tensor power への表現の全射性. [Lehrer-Zhang 2006] からも得られる結果の別証明.
 
 # Howe duality
 - [Bodish-Tubbenhauer 2023]
@@ -102,6 +118,8 @@ tags: ["参考文献"]
   - Property (T), triangle presentations.
 - [Takeuchi 2002]
   - 量子群のショートコース. HOMFLY-PT 多項式についても言及あり.
+- [Lehrer-Zhang 2006]
+  - $U_q(\mathfrak{g})$ の ``strongly multiplicity free'' な表現($\mathfrak{sl}_2$ の既約表現, $G_2$ のベクトル表現など)のテンソル冪の自己準同型環がブレイド群環の商である. Kohno の infinitesimal braid group に関する結果の量子版.
 
 # two-parameter 量子群
 - [Takeuchi 1990]
@@ -130,10 +148,19 @@ tags: ["参考文献"]
   - type $C_n$ の generalized cluster algebra と quantum loop algebra at root of unity との関係. $\mathfrak{sl}_3$ で予想がある.
 - []
 
+# Soergel bimodule
+- [Gorsky-Hogancamp-Wedrich 2022]
+  - Soerger bimodule のふたつの trace について. categorification of HOMFLY-PT modules of solid torus.
+
+
 # tilting module
 - [Fiebig 2022]
   - local Noetherian domain 上の量子群の tilting modules.
 
-# Coulomb branch
+# coulomb branch
 - [Learning seminar on Coulomb branches](https://bwebster.notion.site/Learning-seminar-on-Coulomb-branches-9232aa35a74f44cbbd5a8e0ef34c2c66)
-  - Webster が主催の勉強会, ビデオやノートがある. トポロジーに寄り添ってる ?
+  - Webster が主催の勉強会, ビデオやノートがある. トポロジーに寄り添ってる?
+
+# quantum spin chain model
+- [Martin-Webstry 1997]
+  - TL algebra を $U_q(\mathfrak{sl}_N)$ に一般化して物理的に意味をもつ性質を一般化している。今なら高階のスケイン関係式を用いてもう少しいろんなことができそう。
