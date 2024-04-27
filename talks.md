@@ -39,7 +39,7 @@ permalink: /talk/
 |[10]|Hurwitz action 6<br>*Some formulas for clasped $A_2$ web spaces.*|2016-10-02<br>Kusatsu Seminar House|
 |[9]|E-KOOK seminar 2016<br>*Some formulas for clasped $A_2$ web spaces.*|2016-08-08<br>Osaka Electro-Communication University|
 |[8]|Tohoku Knot Seminar<br>*Poisson algebras of curves on bordered surfaces and skein quantization.*|2015-10-24<br>Yamagata city Health Center|
-|[7]|MSJ Spring Meeting 2013<br>*Skein quantization and Poisson algebras of curves on bordered surfaces.*|2015-03-23<br>Meiji University|
+|[7]|MSJ Spring Meeting 2015<br>*Skein quantization and Poisson algebras of curves on bordered surfaces.*|2015-03-23<br>Meiji University|
 |[6]|Conference on Garoufalidis-Levine and Turaev<br>*Review on Sect.3 in ``Finite type 3-manifold invariants, the mapping class group and blinks''.*|2014-01-31<br>University of Tokyo|
 |[5]|Complex Analysis and Topology of Discrete Groups and Hyperbolic Spaces<br>*Hyperelliptic Goldman Lie algebra and its abelianization*|2014-01-22<br>RIMS, Kyoto University|
 |[4]|MSJ Spring Meeting 2013<br>*Hyperelliptic Goldman Lie algebra and its abelianization.*|2013-03-21<br>Kyoto University|

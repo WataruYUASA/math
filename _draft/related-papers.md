@@ -6,7 +6,7 @@ draft: true
 tags: ["参考文献"]
 ---
 
-気になった論文の備忘録. 各項目について網羅的に書いているわけではないし, 歴史的に文献を辿っているわけでもない. ただの忘れないための私的なメモ.
+気になった論文の備忘録. 各項目について網羅的に書いているわけではないし, 歴史的に文献を辿っているわけでもない. あまり詳しくない分野の内容を忘れないようにするためのメモ.
 
 # スケイン代数
 - [CottaRamusino-Rinaldi 1991a, 1991b, 1991c]
@@ -15,6 +15,14 @@ tags: ["参考文献"]
   - Heisenberg-picture field theory, skein category and factrization algebra を用いる.
 - [AlQasimi-Stokman 2021]
   - Skein category, affine TL algebra のアニュラスによる実現や [Roger-Yang 2014] のスケインとの関係が書かれている.
+- [Haioun 2022]
+  - [BenZvi-Brochier-Jordan 2018] や [Gunningham-Jordan-Safronov 2022] の internal skein algebra (skein category の free cocompletion) を boundary 付きに一般化したものと, [Costantino-Le 2019+] の stated skein algebra との対応.
+
+# Representation Variety, Character variety
+- [Hausener-Munoz-Porti 2016]
+  - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
+- [Munoz-Porti 2016]
+  - torus knot の $SL(3,\mathbb{C})$-, $GL(3,\mathbb{C})$-, $PGL(3,\mathbb{C})$-character variety 
 
 # TQFT, モノイダル圏
 - [Turaev 2016]
@@ -39,6 +47,22 @@ tags: ["参考文献"]
 # universal 量子不変量, cyclotomic 展開
 - [Habiro 2006]
   - Bottom tangle, リボンホップ代数から得られる universal invariant.
+
+# $4$-move conjecture
+- [Dabkowski-Sahi 2007]
+  - Askitas の反例候補が載っている.
+- [Askitas 1999]
+  - $4$-move conjecture の反例候補.
+- [Dabkowski-Przytycki 2004]
+  - $n>2$-components 以上の絡み目に対する link-homotopy version の $4$-move conjecture の反例.
+
+# spatial graph
+- [Jaeger 1997]
+  - Kauffman polynomial をつかった special graph の多項式不変量の構成. Bar diagram というものをつかっている. JW projector や $\mathfrak{sp}_{2n}$ web で一般化できるだろう. [Kuperberg 1997] の Higgman-Sims モデルと $\mathfrak{sp}_{4}$ spider で関係づけられているだろう.
+- [Huh 2024]
+  - $\theta$-curve の Jaeger polynomial の specialization と Jones polynomial の関係を subknots を使って記述. この specialization はたぶん $\mathfrak{sp}_4$ web から得られる. 
+- [Oshmarina-Vesnin 2024+]
+  - 完全グラフの Yamada polynomial と Jaeger polynomial と Jones polynomial の関係. Jaeger の Bar diagram と Kauffman (Dubroniv) polynomial を使った構成.
 
 # Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]
@@ -83,6 +107,8 @@ tags: ["参考文献"]
   - ``mixed case'' における $SL_2$ の Tilting modules の圏と Temperley-Lieb 圏.
 - [Morrison 2011]
   - $G_2$ web を用いたブレイド群から $7$ 次元表現の tensor power への表現の全射性. [Lehrer-Zhang 2006] からも得られる結果の別証明.
+- [Brown-Kujawa 2021]
+  - Lie superalgebra type $Q$ のウェブ圏.
 
 # Howe duality
 - [Bodish-Tubbenhauer 2023]
@@ -97,6 +123,8 @@ tags: ["参考文献"]
   - 代数群の量子群についての教科書.
 - [Fioresi-Yuncken 2024]
   - semisimple Lie group の量子群について短くまとまったノート.
+- [DeConcini-Pisa 1991]
+  - (LNM1565) Hopf代数, Azumaya 代数, 量子群, Poisson 群などについてまとまっているレクチャーノート.
 - [Levendorskii-Soibelman 1990]
   - simple compact group $G$ の Poisson structure, coordinate algebra の symplectic leves に付随する量子化. シューベルトセル.
 - [Zhang^3 2022]
@@ -146,7 +174,8 @@ tags: ["参考文献"]
   - generalized cluster algebra における seed の structure theory.
 - [Gleitz 2015]
   - type $C_n$ の generalized cluster algebra と quantum loop algebra at root of unity との関係. $\mathfrak{sl}_3$ で予想がある.
-- []
+- [Gilbert-Philbin-Wright 2023+]
+  - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない。
 
 # Soergel bimodule
 - [Gorsky-Hogancamp-Wedrich 2022]
@@ -164,3 +193,7 @@ tags: ["参考文献"]
 # quantum spin chain model
 - [Martin-Webstry 1997]
   - TL algebra を $U_q(\mathfrak{sl}_N)$ に一般化して物理的に意味をもつ性質を一般化している。今なら高階のスケイン関係式を用いてもう少しいろんなことができそう。
+
+# mathphys, hep-th
+- [Lafay-Gainutdinov-Jacobsen 2023]
+  - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
