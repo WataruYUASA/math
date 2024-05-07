@@ -54,6 +54,7 @@ header_pages:
  - publications.md
  - talks.md
  - misc.md
+ - related-paper.md
  - tikz.md
  - blog.html
 

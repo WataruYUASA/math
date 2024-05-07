@@ -1,12 +1,10 @@
 ---
-layout: post
-title: "研究に関連すると感じた論文"
-categories: math
-draft: true
-tags: ["参考文献"]
+layout: page
+title: References
+permalink: /related-papers/
 ---
 
-気になった論文の備忘録. 各項目について網羅的に書いているわけではないし, 歴史的に文献を辿っているわけでもない. あまり詳しくない分野の内容を忘れないようにするためのメモ.
+気になった文献の備忘録. 各項目について網羅的に書いているわけではないし, 歴史的に文献を辿っているわけでもない. あまり詳しくない分野の内容を忘れないようにするためのメモ.
 
 # スケイン代数
 - [CottaRamusino-Rinaldi 1991a, 1991b, 1991c]
@@ -23,6 +21,21 @@ tags: ["参考文献"]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
 - [Munoz-Porti 2016]
   - torus knot の $SL(3,\mathbb{C})$-, $GL(3,\mathbb{C})$-, $PGL(3,\mathbb{C})$-character variety 
+- [Maloni-Palesi-Yang 2021]
+  - $3$ 点穴あき射影平面の type-preserving な $PGL(2,\mathbb{R})$-表現について. [Kashaev 2005] の向き付不可能曲面に対する平坦 $PGL(2,\mathbb{R})$-接続の話が大切そう.
+
+# Quantum trace
+- [KimHK-LeTTQ-Son 2023+]
+  - [Gabbela] の [GMN] の spectral network を使った方法と [Allegretti-Kim] の [BW] の状態つきスケイン代数を使った方法の関係.
+
+# Spectral network
+- [Gaiotto-Moore-Neitzke 2013]
+  - spectral network の基本的な文献.
+- [Gaiotto-Moore-Neitzke 2014]
+  - spectral network と Fock-Goncharov の座標について. $A_{k-1}$ theory の $A_1$ theory へのリフト.
+- [Kineider-Rogozinnikov 2022+]
+  - [GMN] についてよくまとまっている. 基礎環を一般化している.
+- []
 
 # TQFT, モノイダル圏
 - [Turaev 2016]
@@ -48,6 +61,10 @@ tags: ["参考文献"]
 - [Habiro 2006]
   - Bottom tangle, リボンホップ代数から得られる universal invariant.
 
+# 量子不変量の圏化
+- [Conners 2024+]
+  - colored HOMFLY-PT homology について. [Webster–Williamson] の intrinsically-colored homology と [Elias–Hogancamp] の projector-colored homology を同一視する singular Soergel bimodules の homotopy category における functor.
+
 # $4$-move conjecture
 - [Dabkowski-Sahi 2007]
   - Askitas の反例候補が載っている.
@@ -55,6 +72,10 @@ tags: ["参考文献"]
   - $4$-move conjecture の反例候補.
 - [Dabkowski-Przytycki 2004]
   - $n>2$-components 以上の絡み目に対する link-homotopy version の $4$-move conjecture の反例.
+- [Przyticki 2006+]
+  - HOMFLY-PT 多項式と Kauffman 多項式による $t_k$-move に関する不変量.
+- [Przyticki 2016]
+  - $12$ 交点のある絡み目が $4$-move によって Hopf link に変形できることを示している. これによって $12$ 交点以下の全ての $2$ 成分の交代絡み目が Hopf link か trivial link に変形できることが確かめられた.
 
 # spatial graph
 - [Jaeger 1997]
@@ -177,6 +198,10 @@ tags: ["参考文献"]
 - [Gilbert-Philbin-Wright 2023+]
   - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない。
 
+# Askey-Wilson 代数
+- [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
+  - [Zhedanov 1991] による Askey-Wilson 代数 $\mathbf{aw}(3)$ や $\mathbf{saw}(3)$ と量子群のテンソル積, 穴開き円盤のスケイン代数との対応、それを用いた一般化についてよくまとまっていそう。
+
 # Soergel bimodule
 - [Gorsky-Hogancamp-Wedrich 2022]
   - Soerger bimodule のふたつの trace について. categorification of HOMFLY-PT modules of solid torus.
@@ -197,3 +222,16 @@ tags: ["参考文献"]
 # mathphys, hep-th
 - [Lafay-Gainutdinov-Jacobsen 2023]
   - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
+- [Edinburgh Mathematical Physics Group](https://empg.maths.ed.ac.uk/index.html)
+  - 数理物理やそれに関連する数学の過去のセミナーに関するレクチャーノートや参考文献
+
+# 機械学習
+- [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [Stanford University: Machine Learning](https://see.stanford.edu/Course/CS229)
+- [Deep Learning textbook](https://www.deeplearningbook.org/)
+- [Foundations of ML](https://cs.nyu.edu/~mohri/mlbook/)
+
+# 数学一般
+- [Birne Binegar](https://math.okstate.edu/people/binegar/)
+  - 授業用のレクチャーノート多数
