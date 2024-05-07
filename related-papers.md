@@ -6,7 +6,7 @@ permalink: /related-papers/
 
 気になった文献の備忘録. 各項目について網羅的に書いているわけではないし, 歴史的に文献を辿っているわけでもない. あまり詳しくない分野の内容を忘れないようにするためのメモ.
 
-# スケイン代数
+### スケイン代数
 - [CottaRamusino-Rinaldi 1991a, 1991b, 1991c]
   - 曲面上のスケイン代数の余代数構造や multi-parameter 量子群.
 - [JonsonFreyd 2021]
@@ -16,7 +16,7 @@ permalink: /related-papers/
 - [Haioun 2022]
   - [BenZvi-Brochier-Jordan 2018] や [Gunningham-Jordan-Safronov 2022] の internal skein algebra (skein category の free cocompletion) を boundary 付きに一般化したものと, [Costantino-Le 2019+] の stated skein algebra との対応.
 
-# Representation Variety, Character variety
+### Representation Variety, Character variety
 - [Hausener-Munoz-Porti 2016]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
 - [Munoz-Porti 2016]
@@ -24,11 +24,11 @@ permalink: /related-papers/
 - [Maloni-Palesi-Yang 2021]
   - $3$ 点穴あき射影平面の type-preserving な $PGL(2,\mathbb{R})$-表現について. [Kashaev 2005] の向き付不可能曲面に対する平坦 $PGL(2,\mathbb{R})$-接続の話が大切そう.
 
-# Quantum trace
+### Quantum trace
 - [KimHK-LeTTQ-Son 2023+]
   - [Gabbela] の [GMN] の spectral network を使った方法と [Allegretti-Kim] の [BW] の状態つきスケイン代数を使った方法の関係.
 
-# Spectral network
+### Spectral network
 - [Gaiotto-Moore-Neitzke 2013]
   - spectral network の基本的な文献.
 - [Gaiotto-Moore-Neitzke 2014]
@@ -37,7 +37,7 @@ permalink: /related-papers/
   - [GMN] についてよくまとまっている. 基礎環を一般化している.
 - []
 
-# TQFT, モノイダル圏
+### TQFT, モノイダル圏
 - [Turaev 2016]
   - 量子不変量についての基本的な教科書. モノイダル圏, $\mathscr{C}$-colored graph, coupon.
 - [Turaev-Virelizier 2017]
@@ -51,21 +51,21 @@ permalink: /related-papers/
 - [Koppen-Mulevicius-Runkel-Schweigert 2022]
   - surface defect をもつ Reshetikhin-Turaev TQFT.
 
-# non-semisimple TQFT
+### non-semisimple TQFT
 - [Seminar on non-semisimple TQFTs](https://sites.google.com/site/psafronov/notes/non-semisimple-tqfts)
   - Safronov の HPにある non-semisimple TQFTs の勉強会ノートや参考文献.
 - [Müller-Schweigert-Woike-Yang 2023]
   - non-semisimple, non-spherical な pivotal finite tensor category の string net による Turaev-Viro の一般化. Lyubashenko の modular functor が得られる.
 
-# universal 量子不変量, cyclotomic 展開
+### universal 量子不変量, cyclotomic 展開
 - [Habiro 2006]
   - Bottom tangle, リボンホップ代数から得られる universal invariant.
 
-# 量子不変量の圏化
+### 量子不変量の圏化
 - [Conners 2024+]
   - colored HOMFLY-PT homology について. [Webster–Williamson] の intrinsically-colored homology と [Elias–Hogancamp] の projector-colored homology を同一視する singular Soergel bimodules の homotopy category における functor.
 
-# $4$-move conjecture
+### $4$-move conjecture
 - [Dabkowski-Sahi 2007]
   - Askitas の反例候補が載っている.
 - [Askitas 1999]
@@ -77,7 +77,7 @@ permalink: /related-papers/
 - [Przyticki 2016]
   - $12$ 交点のある絡み目が $4$-move によって Hopf link に変形できることを示している. これによって $12$ 交点以下の全ての $2$ 成分の交代絡み目が Hopf link か trivial link に変形できることが確かめられた.
 
-# spatial graph
+### spatial graph
 - [Jaeger 1997]
   - Kauffman polynomial をつかった special graph の多項式不変量の構成. Bar diagram というものをつかっている. JW projector や $\mathfrak{sp}_{2n}$ web で一般化できるだろう. [Kuperberg 1997] の Higgman-Sims モデルと $\mathfrak{sp}_{4}$ spider で関係づけられているだろう.
 - [Huh 2024]
@@ -85,7 +85,7 @@ permalink: /related-papers/
 - [Oshmarina-Vesnin 2024+]
   - 完全グラフの Yamada polynomial と Jaeger polynomial と Jones polynomial の関係. Jaeger の Bar diagram と Kauffman (Dubroniv) polynomial を使った構成.
 
-# Temperley-Lieb 代数, Temperley-Lieb 圏
+### Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]
   - 高次の統計力学に対する代数的アプローチ. TL 代数を用いる. annulus の TL 代数らしきものが出てきている.
 - [Alvarez-Martin 2007]
@@ -95,7 +95,7 @@ permalink: /related-papers/
 - [Hazi-Martin-Parker 2021]
   - blob 代数に対して indecomposable tilting module を構成. KLR 代数も出てきている.
 
-# web 圏, ダイアグラム圏, string-net, spin network
+### web 圏, ダイアグラム圏, string-net, spin network
 - [Bodish-Wu 2021+]
   - $G_2$ の highest weight projector (clasp) についての公式, triple clasp formula.
 - [Bodish-Wu 2023+]
@@ -131,15 +131,15 @@ permalink: /related-papers/
 - [Brown-Kujawa 2021]
   - Lie superalgebra type $Q$ のウェブ圏.
 
-# Howe duality
+### Howe duality
 - [Bodish-Tubbenhauer 2023]
-  - $\mathfrak{sp}_{2n}$ と $\mathfrak{sl}_{2}$ の量子群の Howe duality.
+  - $\mathfrak{sp}_{2n}$ と $\mathfrak{sl}_2$ の量子群の Howe duality.
 
-# Hopf 代数
+### Hopf 代数
 - [Deconcini-Procesi-Reshetikhin-Rosso 2005]
   - Hopf 代数 with trace and representations, root of unity での CG-係数.
 
-# 量子座標環, 量子群, $R$ 行列
+### 量子座標環, 量子群, $R$ 行列
 - [Joseph 1995]
   - 代数群の量子群についての教科書.
 - [Fioresi-Yuncken 2024]
@@ -170,7 +170,7 @@ permalink: /related-papers/
 - [Lehrer-Zhang 2006]
   - $U_q(\mathfrak{g})$ の ``strongly multiplicity free'' な表現($\mathfrak{sl}_2$ の既約表現, $G_2$ のベクトル表現など)のテンソル冪の自己準同型環がブレイド群環の商である. Kohno の infinitesimal braid group に関する結果の量子版.
 
-# two-parameter 量子群
+### two-parameter 量子群
 - [Takeuchi 1990]
   - $GL(n)$ の two-parameter 量子群.
 - [Hu-Shi 2007]
@@ -188,7 +188,7 @@ permalink: /related-papers/
 - [Jing-Liu 2014]
   - Drinfel'd-Jimbo と FRT 構成による $GL(n)$ の二種類の two-parameter 量子群.
 
-# クラスター代数
+### クラスター代数
 - [Chekhov-Shapiro 2014]
   - generalized cluster algebra の導入. cone points のある $2$-orbifold の Teichmuller space.
 - [Nakanishi 2015]
@@ -198,34 +198,34 @@ permalink: /related-papers/
 - [Gilbert-Philbin-Wright 2023+]
   - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない。
 
-# Askey-Wilson 代数
+### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
   - [Zhedanov 1991] による Askey-Wilson 代数 $\mathbf{aw}(3)$ や $\mathbf{saw}(3)$ と量子群のテンソル積, 穴開き円盤のスケイン代数との対応、それを用いた一般化についてよくまとまっていそう。
 
-# Soergel bimodule
+### Soergel bimodule
 - [Gorsky-Hogancamp-Wedrich 2022]
   - Soerger bimodule のふたつの trace について. categorification of HOMFLY-PT modules of solid torus.
 
 
-# tilting module
+### tilting module
 - [Fiebig 2022]
   - local Noetherian domain 上の量子群の tilting modules.
 
-# coulomb branch
+### coulomb branch
 - [Learning seminar on Coulomb branches](https://bwebster.notion.site/Learning-seminar-on-Coulomb-branches-9232aa35a74f44cbbd5a8e0ef34c2c66)
   - Webster が主催の勉強会, ビデオやノートがある. トポロジーに寄り添ってる?
 
-# quantum spin chain model
+### quantum spin chain model
 - [Martin-Webstry 1997]
   - TL algebra を $U_q(\mathfrak{sl}_N)$ に一般化して物理的に意味をもつ性質を一般化している。今なら高階のスケイン関係式を用いてもう少しいろんなことができそう。
 
-# mathphys, hep-th
+### mathphys, hep-th
 - [Lafay-Gainutdinov-Jacobsen 2023]
   - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
 - [Edinburgh Mathematical Physics Group](https://empg.maths.ed.ac.uk/index.html)
   - 数理物理やそれに関連する数学の過去のセミナーに関するレクチャーノートや参考文献
 
-# 機械学習
+### 機械学習
 - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Stanford University: Machine Learning](https://see.stanford.edu/Course/CS229)
