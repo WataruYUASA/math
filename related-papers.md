@@ -57,6 +57,18 @@ permalink: /related-papers/
 - [Müller-Schweigert-Woike-Yang 2023]
   - non-semisimple, non-spherical な pivotal finite tensor category の string net による Turaev-Viro の一般化. Lyubashenko の modular functor が得られる.
 
+### 量子不変量
+- [Anghel 2021]
+  - $U_q(\mathfrak{sl}(2\vert 1))$ の centralizer algebra と Links-Gould 不変量について.
+- [Anghel 2022]
+  - 色付きジョーンズ多項式を穴開き円盤の配置空間の被覆のなかホモロジーの graded intersection paring で実現している. 色付きジョーンズ多項式のトポロジカルモデル.
+- [Anghel 2023]
+  - 色付きアレキサンダー多項式のトポロジカルモデル.
+- [Anghel 2023]
+  - 曲面の対称積の中の Lagrangians の graded intersection paring で色付きジョーンズ多項式やアレキサンダー多項式を実現している. 統一的なトポロジカルモデルの構成.
+- [Anghel 2023]
+  - WRT 不変量のトポロジカルモデル.
+
 ### universal 量子不変量, cyclotomic 展開
 - [Habiro 2006]
   - Bottom tangle, リボンホップ代数から得られる universal invariant.
