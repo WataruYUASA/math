@@ -232,6 +232,6 @@ permalink: /related-papers/
 - [Deep Learning textbook](https://www.deeplearningbook.org/)
 - [Foundations of ML](https://cs.nyu.edu/~mohri/mlbook/)
 
-# 数学一般
+### 数学一般
 - [Birne Binegar](https://math.okstate.edu/people/binegar/)
   - 授業用のレクチャーノート多数
