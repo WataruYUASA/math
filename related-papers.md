@@ -16,7 +16,7 @@ permalink: /related-papers/
 - [Haioun 2022]
   - [BenZvi-Brochier-Jordan 2018] や [Gunningham-Jordan-Safronov 2022] の internal skein algebra (skein category の free cocompletion) を boundary 付きに一般化したものと, [Costantino-Le 2019+] の stated skein algebra との対応.
 
-### Representation Variety, Character variety
+### Representation Variety, Character variety, Local systems
 - [Hausener-Munoz-Porti 2016]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
 - [Munoz-Porti 2016]
@@ -167,6 +167,8 @@ permalink: /related-papers/
   - $G_2$ の $R$ 行列, $q$-Wigner 係数.
 - [Sasaki 1993]
   - $O_q(G_2)$ のFRT構成.
+- [Fontanals 2018]
+  - (量子群ではないが) $G_2$ に関するノート.
 - [Kho-Ma 1990]
   - $E_6$ の $q$-CG 係数の計算.
 - [Kim-Kho-Ma 1991]
@@ -208,7 +210,9 @@ permalink: /related-papers/
 - [Gleitz 2015]
   - type $C_n$ の generalized cluster algebra と quantum loop algebra at root of unity との関係. $\mathfrak{sl}_3$ で予想がある.
 - [Gilbert-Philbin-Wright 2023+]
-  - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない。
+  - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない.
+- [Lamberti 2018]
+  - [Fomin-Pylyavskyy] の $SL_3$-invariant space におけるテンソルネットワークにおいて, $2$ 変数の Chebyshev 多項式を定義して, Thick (or Band), Bangle, Bracelet 操作との関係を調べている.
 
 ### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
@@ -226,6 +230,10 @@ permalink: /related-papers/
 ### coulomb branch
 - [Learning seminar on Coulomb branches](https://bwebster.notion.site/Learning-seminar-on-Coulomb-branches-9232aa35a74f44cbbd5a8e0ef34c2c66)
   - Webster が主催の勉強会, ビデオやノートがある. トポロジーに寄り添ってる?
+
+### Topological Quantum Computation
+- [Freedman-ShokrianZini-Wang 2019]
+  - octonion を使って構成した何か...
 
 ### quantum spin chain model
 - [Martin-Webstry 1997]
