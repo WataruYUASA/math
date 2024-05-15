@@ -52,6 +52,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[16]|京大数学談話会<br>*スケイン代数と量子クラスター代数*|2024-05-15<br>京都大学数理解析研究所<br>[slide](material/slide_KyotoDanwakai.pdf)|
 |[15]|Friday Seminar on Knot Theory<br>*State-clasp correpondence for skein algebras.*|2022-12-02<br>Osaka Metropolitan University|
 |[14]|南大阪代数セミナー<br>*Skein and cluster algebras of unpunctured surfaces for $\mathfrak{sp}_4$.*|2022-07-19<br>Osaka Metropolitan University<br>**(ONLINE)**<br>[slide](material/slide_Modseminar.pdf)|
 |[13]|大阪大学トポロジーセミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sp}_4$.*|2022-05-18<br>Osaka University<br>**(ONLINE)**<br>[slide](material/slide_OsakaUnivTop20220.pdf)|
