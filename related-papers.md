@@ -124,6 +124,12 @@ permalink: /related-papers/
   - $\mathfrak{gl}_n$ の basis web.
 - [Westbury 2022+]
   - $\mathbb{Q}$ 上の projective plane でパラメトライズされた web 圏 (リボン圏). $3$ projective line 上の $13$ 点において $U_q$ の invariant space から得られるリボン圏からの関手がある. 
+- [Morrison-Snyder-Thurston 2024+]
+  - 例外型の系列での $2$ 変数量子化に関するスケイン関係式.
+- [Westbury-ZinnJustin 2024+]
+  - 例外型の系列での $2$ 変数量子化と trigonometric $R$-matrix. 随伴表現 $V$ と自明表現 $I$ を考えることで $\mathrm{End}(\otimes^2 (V\oplus I))$ に $16$ 次元の代数, $\mathrm{End}(\otimes^3 (V\oplus I))$ に $287$ 次元の代数を構成している.
+- [ZinnJustin 2020+]
+  - $E_8$ の web 圏.
 - [Savage-Westbury 2022+]
   - $F_4$ の web 圏.
 - [Brundan 2017+]
