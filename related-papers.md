@@ -24,6 +24,14 @@ permalink: /related-papers/
 - [Maloni-Palesi-Yang 2021]
   - $3$ 点穴あき射影平面の type-preserving な $PGL(2,\mathbb{R})$-表現について. [Kashaev 2005] の向き付不可能曲面に対する平坦 $PGL(2,\mathbb{R})$-接続の話が大切そう.
 
+### Teichmuller space
+- [Miyachi 2024+]
+ - タイヒミュラー空間における正則二次微分の幾何学についてのまとめ.
+
+### 幾何群論
+- [Poulsen 2024+]
+  - CAT(0) 空間についての短い紹介論文.
+
 ### Quantum trace
 - [KimHK-LeTTQ-Son 2023+]
   - [Gabbela] の [GMN] の spectral network を使った方法と [Allegretti-Kim] の [BW] の状態つきスケイン代数を使った方法の関係.
@@ -56,6 +64,8 @@ permalink: /related-papers/
   - Safronov の HPにある non-semisimple TQFTs の勉強会ノートや参考文献.
 - [Müller-Schweigert-Woike-Yang 2023]
   - non-semisimple, non-spherical な pivotal finite tensor category の string net による Turaev-Viro の一般化. Lyubashenko の modular functor が得られる.
+- [Brown-Haioun 2024+]
+  - non-semisimple でのスケイン圏について.
 
 ### 量子不変量
 - [Anghel 2021]
@@ -68,6 +78,10 @@ permalink: /related-papers/
   - 曲面の対称積の中の Lagrangians の graded intersection paring で色付きジョーンズ多項式やアレキサンダー多項式を実現している. 統一的なトポロジカルモデルの構成.
 - [Anghel 2023]
   - WRT 不変量のトポロジカルモデル.
+
+### LMO 不変量
+- [Enriquez-Vera 2024+]
+  - 閉 $3$ 次元多様体の LMO 不変量についてのまとめ.
 
 ### universal 量子不変量, cyclotomic 展開
 - [Habiro 2006]
