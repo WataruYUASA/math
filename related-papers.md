@@ -24,17 +24,23 @@ permalink: /related-papers/
 - [Maloni-Palesi-Yang 2021]
   - $3$ 点穴あき射影平面の type-preserving な $PGL(2,\mathbb{R})$-表現について. [Kashaev 2005] の向き付不可能曲面に対する平坦 $PGL(2,\mathbb{R})$-接続の話が大切そう.
 
-### Teichmuller space
-- [Miyachi 2024+]
- - タイヒミュラー空間における正則二次微分の幾何学についてのまとめ.
-
-### 幾何群論
-- [Poulsen 2024+]
-  - CAT(0) 空間についての短い紹介論文.
+### $A$-多項式
+- [Cooper-Culler-Gillet-Long-Shalen 94]
+  - $A$-多項式を導入.
+- [Tran thesis]
+  - $AJ$-予想について.
 
 ### Quantum trace
 - [KimHK-LeTTQ-Son 2023+]
   - [Gabbela] の [GMN] の spectral network を使った方法と [Allegretti-Kim] の [BW] の状態つきスケイン代数を使った方法の関係.
+
+### Teichmuller space
+- [Miyachi 2024+]
+ - タイヒミュラー空間における正則二次微分の幾何学. 接空間の接空間.
+
+### 幾何群論
+- [Poulsen 2024+]
+  - CAT(0) 空間についての短い紹介論文.
 
 ### Spectral network
 - [Gaiotto-Moore-Neitzke 2013]
