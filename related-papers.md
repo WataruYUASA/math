@@ -169,6 +169,14 @@ permalink: /related-papers/
 - [Brown-Kujawa 2021]
   - Lie superalgebra type $Q$ のウェブ圏.
 
+### Legendrian surfaces, weaves, planar graphs
+- [Casals-Murphy 2019]
+  - cubic graphs にたいして, differential graded algebra (DGA) を構成している. Symplectic field theory (SFT) や constructible sheaves 由来.
+- [Casals-Zaslow 2022]
+  - weaves とよばれる $N$-graph を用いた contact $5$-manifold 内の Legendrian surface の研究.
+- [Sackel 2024]
+  - 球面上の trivalent graph から DGA を構成して, その DGA の rank $r$ 表現も構成している.
+
 ### Howe duality
 - [Bodish-Tubbenhauer 2023]
   - $\mathfrak{sp}_{2n}$ と $\mathfrak{sl}_2$ の量子群の Howe duality.
@@ -253,10 +261,6 @@ permalink: /related-papers/
 - [Fiebig 2022]
   - local Noetherian domain 上の量子群の tilting modules.
 
-### coulomb branch
-- [Learning seminar on Coulomb branches](https://bwebster.notion.site/Learning-seminar-on-Coulomb-branches-9232aa35a74f44cbbd5a8e0ef34c2c66)
-  - Webster が主催の勉強会, ビデオやノートがある. トポロジーに寄り添ってる?
-
 ### Topological Quantum Computation
 - [Freedman-ShokrianZini-Wang 2019]
   - octonion を使って構成した何か...
@@ -268,8 +272,6 @@ permalink: /related-papers/
 ### mathphys, hep-th
 - [Lafay-Gainutdinov-Jacobsen 2023]
   - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
-- [Edinburgh Mathematical Physics Group](https://empg.maths.ed.ac.uk/index.html)
-  - 数理物理やそれに関連する数学の過去のセミナーに関するレクチャーノートや参考文献
 
 ### 機械学習
 - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
@@ -278,6 +280,12 @@ permalink: /related-papers/
 - [Deep Learning textbook](https://www.deeplearningbook.org/)
 - [Foundations of ML](https://cs.nyu.edu/~mohri/mlbook/)
 
-### 数学一般
+### レクチャーノート関連
 - [Birne Binegar](https://math.okstate.edu/people/binegar/)
   - 授業用のレクチャーノート多数
+- [Kevin Sackel](https://sites.google.com/view/ksackel/home)
+  - Symplectic, contact topology 関連のレクチャーノートやセミナーノートがある.
+- [Learning seminar on Coulomb branches](https://bwebster.notion.site/Learning-seminar-on-Coulomb-branches-9232aa35a74f44cbbd5a8e0ef34c2c66)
+  - Webster が主催の勉強会, ビデオやノートがある. トポロジーに寄り添ってる?
+- [Edinburgh Mathematical Physics Group](https://empg.maths.ed.ac.uk/index.html)
+  - 数理物理やそれに関連する数学の過去のセミナーに関するレクチャーノートや参考文献
