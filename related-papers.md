@@ -247,6 +247,8 @@ permalink: /related-papers/
   - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない.
 - [Lamberti 2018]
   - [Fomin-Pylyavskyy] の $SL_3$-invariant space におけるテンソルネットワークにおいて, $2$ 変数の Chebyshev 多項式を定義して, Thick (or Band), Bangle, Bracelet 操作との関係を調べている.
+- [Bossinger-Mohammadi-NajeraChavez 2021]
+  - cluster algebra with universal coefficients.
 
 ### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
