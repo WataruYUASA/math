@@ -15,8 +15,14 @@ permalink: /related-papers/
   - Skein category, affine TL algebra のアニュラスによる実現や [Roger-Yang 2014] のスケインとの関係が書かれている.
 - [Haioun 2022]
   - [BenZvi-Brochier-Jordan 2018] や [Gunningham-Jordan-Safronov 2022] の internal skein algebra (skein category の free cocompletion) を boundary 付きに一般化したものと, [Costantino-Le 2019+] の stated skein algebra との対応.
+- [Aganagic-Ekholm-Ng-Vafa 2014]
+  - topological strings と contact homology との関係. 結び目に付随する Lagrangian の Gromov-Witten disk amplitudes とその contact homology algebra の augmentations との関係. そこから $Q$-deformed $A$-polynomial と knot contact homology の augmentation polynomial の等価性が導かれるらしい.
+- [Ekholm-Ng 2020]
+  - 結び目の conormal tori に対する Legendrian SFT の構成方法. そして, large $N$ duality に加えて Witten による open GW と CS ゲージ理論の関係を使うことでこの SFT から HOMFLY-PT 多項式が得られるらしい.
+- [Ekholm-Longhi-Nakamura 2024+]
+  - worldsheet skein $D$-module. HOMFLY-PT の recusoin relations は knot conormal 上の無限遠における holomorphic curve から定まる Legendrian knot conormal augmention variety を characteristic variety にもつ $D$-module から来ているらしい. 
 
-### Representation Variety, Character variety, Local systems
+### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
 - [Munoz-Porti 2016]
@@ -36,7 +42,9 @@ permalink: /related-papers/
 
 ### Teichmuller space
 - [Miyachi 2024+]
- - タイヒミュラー空間における正則二次微分の幾何学. 接空間の接空間.
+  - タイヒミュラー空間における正則二次微分の幾何学. 接空間の接空間.
+- [ElEman-Sagman 2024+]
+  - $SL(3,\mathbb{C})$ における Bers の同時一意化定理.
 
 ### 幾何群論
 - [Poulsen 2024+]
@@ -126,6 +134,8 @@ permalink: /related-papers/
   - $\tilde{B}$, $\tilde{D}$ 型の affine Coxeter system に対応する TL 代数に対応するダイアグラム圏を構成.  $\tilde{B}$, $\tilde{D}$ 型の blob 代数かな.
 - [Hazi-Martin-Parker 2021]
   - blob 代数に対して indecomposable tilting module を構成. KLR 代数も出てきている.
+- [Stroppel-Wojciechowski 2024+]
+  - $U_q(\mathfrak{sl}_2)$ の基本表現のテンソルの中の coideal subalgebra への制限を代数的, 図的に書いた. Jones-Webzl projector も構成. smallest quantum coideal.
 
 ### web 圏, ダイアグラム圏, string-net, spin network
 - [Bodish-Wu 2021+]
@@ -167,7 +177,9 @@ permalink: /related-papers/
 - [Morrison 2011]
   - $G_2$ web を用いたブレイド群から $7$ 次元表現の tensor power への表現の全射性. [Lehrer-Zhang 2006] からも得られる結果の別証明.
 - [Brown-Kujawa 2021]
-  - Lie superalgebra type $Q$ のウェブ圏.
+  - Lie superalgebra type $Q$ の web 圏.
+- [Song-Weng 2024+]
+  - Affine web 圏とその cyclotomic quotient 圏. また, 有限 $W$-代数との関係も記述している.
 
 ### Legendrian surfaces, weaves, planar graphs
 - [Casals-Murphy 2019]
@@ -249,6 +261,10 @@ permalink: /related-papers/
   - [Fomin-Pylyavskyy] の $SL_3$-invariant space におけるテンソルネットワークにおいて, $2$ 変数の Chebyshev 多項式を定義して, Thick (or Band), Bangle, Bracelet 操作との関係を調べている.
 - [Bossinger-Mohammadi-NajeraChavez 2021]
   - cluster algebra with universal coefficients.
+- [Qin 2024a+]
+  - common triangular basis の構成. quantum $A=U$ の証明.
+- [Qin 2024b+]
+  - freezing operator
 
 ### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
