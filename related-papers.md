@@ -21,6 +21,12 @@ permalink: /related-papers/
   - 結び目の conormal tori に対する Legendrian SFT の構成方法. そして, large $N$ duality に加えて Witten による open GW と CS ゲージ理論の関係を使うことでこの SFT から HOMFLY-PT 多項式が得られるらしい.
 - [Ekholm-Longhi-Nakamura 2024+]
   - worldsheet skein $D$-module. HOMFLY-PT の recusoin relations は knot conormal 上の無限遠における holomorphic curve から定まる Legendrian knot conormal augmention variety を characteristic variety にもつ $D$-module から来ているらしい. 
+- [Ekholm-Shende 2021+]
+  - 絡み目の HOMFLY-PT 多項式の係数を holomorpihc curves の counting で記述. これは [Ooguri-Vafa 2000] で示唆されている curve counting. boundary bubbling からくる wall crossing は framed skein relasion.
+- [Scharitzer-Shende 2023Apr+]
+  - $S^5$ 内の cubic planar graph から作られる Legendrian surfaces のクラスに対して, Legendrian boundary の任意の filling の skein-valued holomoriphic curve invariants がある skein-valued opeartor equations で零化される.
+- [Scharitzer-Shende 2023Dec+]
+  - disk surgery で関係する Legendrian surfaces に対する augumentation space の $q$-変形. クラスター変換の $q$-変形や, さらに一般に HOMFLY-PT skein-valued クラスター変換と関係している.
 
 ### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
