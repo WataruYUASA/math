@@ -110,6 +110,16 @@ permalink: /related-papers/
 ### 量子不変量の圏化
 - [Conners 2024+]
   - colored HOMFLY-PT homology について. [Webster–Williamson] の intrinsically-colored homology と [Elias–Hogancamp] の projector-colored homology を同一視する singular Soergel bimodules の homotopy category における functor.
+- [Gergle 2021]
+  - $\mathfrak{sp}_4$-web の圏化に関する thesis.
+
+### その他, 結び目の不変量
+- [Jablonowski 2024+]
+  - 交代結び目の不変量の構成. Black region と White region それぞれに関して Tait graph を 2 つ構成する. 各 edge について交点の正負で weight ($2$ 変数) を assign する. 長さ $l$ の各 cycle について weight の積をとって足し合わせると $2$ 変数多項式が得られて, 不変量になっている. いくつかの kont で HOMFLY-PT や Kauffman polynomial などが得られることが確かめられている.
+
+### 結び目の局所変形 (unknotting operation)
+- [Aida 1992] 
+  - 上下が交互に並んだ多角形領域における交差交換. この $n$-gon move は unknotting operation.
 
 ### $4$-move conjecture
 - [Dabkowski-Sahi 2007]
@@ -217,7 +227,7 @@ permalink: /related-papers/
   - [Inoue-Kuniba-Sun-Terashima-Yagi 2024] との関係とかは ?
 - [Kuniba 1990]
   - $G_2$ の $R$ 行列, $q$-Wigner 係数.
-- [Sasaki 1993]
+- [Sasaki 1993, 1995]
   - $O_q(G_2)$ のFRT構成.
 - [Fontanals 2018]
   - (量子群ではないが) $G_2$ に関するノート.
@@ -235,6 +245,8 @@ permalink: /related-papers/
   - 量子群のショートコース. HOMFLY-PT 多項式についても言及あり.
 - [Lehrer-Zhang 2006]
   - $U_q(\mathfrak{g})$ の ``strongly multiplicity free'' な表現($\mathfrak{sl}_2$ の既約表現, $G_2$ のベクトル表現など)のテンソル冪の自己準同型環がブレイド群環の商である. Kohno の infinitesimal braid group に関する結果の量子版.
+- [Kuniba 2022]
+  - 量子座標環の生成元と関係式が例外型を含めて明示的に書かれている本. 量子反射方程式など.
 
 ### two-parameter 量子群
 - [Takeuchi 1990]
