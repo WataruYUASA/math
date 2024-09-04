@@ -11,6 +11,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[36]|拡大KOOKセミナー2024<br>*Stated and clasped skein algebras for $G_2$*|2024-08-21<br>あいめっせホール(兵庫県姫路市)|
 |[35]|Advances in Cluster Algebras 2024<br>*Skein and cluster algebras with coefficients for unpunctured surfaces*|2024-03-13<br>Nagoya University|
 |[34]|Geometry, Algebra and Physics Seminar at KIAS<br>*State-clasp correspondence of skein algebras*|2023-06-29<br>KIAS (**ONLINE**)|
 |[33]|Skein Algebra and related topics <br>*Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$*|2023-06-18<br>Premier Residences Phu Quoc Emerald Bay (Phu Quoc Island)|
