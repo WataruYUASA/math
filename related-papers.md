@@ -28,6 +28,10 @@ permalink: /related-papers/
 - [Scharitzer-Shende 2023Dec+]
   - disk surgery で関係する Legendrian surfaces に対する augumentation space の $q$-変形. クラスター変換の $q$-変形や, さらに一般に HOMFLY-PT skein-valued クラスター変換と関係している.
 
+### 写像類群
+- [Aramayone-Vlamis 2020]
+   - Big mapping class group に関するまとめ. 曲面が有限型でないとき, quasi-conformal mapping class group と big maping class group は一致しない. どれくらい差があるのか気になる.
+
 ### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
@@ -35,6 +39,8 @@ permalink: /related-papers/
   - torus knot の $SL(3,\mathbb{C})$-, $GL(3,\mathbb{C})$-, $PGL(3,\mathbb{C})$-character variety 
 - [Maloni-Palesi-Yang 2021]
   - $3$ 点穴あき射影平面の type-preserving な $PGL(2,\mathbb{R})$-表現について. [Kashaev 2005] の向き付不可能曲面に対する平坦 $PGL(2,\mathbb{R})$-接続の話が大切そう.
+- [Brumfiel-Hilden 1995]
+  - 有限生成群の指標多様体について. 特に自由群の自己同型群などで参考になる教科書. 最後の方に結び目群の場合に $A$-多項式の話なども書いている.
 
 ### $A$-多項式
 - [Cooper-Culler-Gillet-Long-Shalen 94]
