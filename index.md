@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-(update:2024-09-13)
+(update:2024-10-09)
 
 **Wataru Yuasa**
 
@@ -51,6 +51,17 @@ Quatnum Topology, Knot theory, Mapping class groups, etc.
 |2019-04 -- 2023-03|Grant-in-Aid for Early-Career Scientists [19K14528](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14528/)|
 |2019-04 -- 2022-03|Grant-in-Aid for JSPS Research Fellow [19J00252](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J00252/)|
 |2012-04 -- 2015-03|Grant-in-Aid for JSPS Research Fellow [12J01252](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-12J01252/)|
+
+## 研究集会運営など
+
+|||
+|:--|:--|
+|2024-10-26 -- 2024-10-28|研究集会「スケイン代数とその周辺 (I-site なんば)」 (世話人)|
+|2024-02-19 -- 2024-02-22|研究集会「The 19 th East Asian Conference on Geometric Topology (京都大学数理解析研究所)」(世話人)|
+|2022-06 -- 2023-04|RIMS共同研究の運営補助 (数理解析研究所拠点担当研究員)|
+|2021-05-19 -- 2024-05-21|研究集会「Intelligence of Low-dimensional Topology (京都大学数理解析研究所)」 (協力スタッフ)|
+|2020-05-13 -- 2023-05-15|研究集会「Intelligence of Low-dimensional Topology (京都大学数理解析研究所)」 (協力スタッフ)|
+|2017-09-21|勉強会「$4$ 次元多様体の Trisection 勉強会 (東京工業大学)」 (世話人)|
 
 ## 教育活動
 

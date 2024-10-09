@@ -272,6 +272,10 @@ permalink: /related-papers/
 - [Jing-Liu 2014]
   - Drinfel'd-Jimbo と FRT 構成による $GL(n)$ の二種類の two-parameter 量子群.
 
+###　リー群, リー代数の表現論
+- [Gruber-Mancini 2024+]
+  - 正標数の代数閉体 $\mathbb{k}$ 上の単純代数群の multiplicity free, completely reducible な表現について. $SL_3(\mathbb{k})$, $Sp_4(\mathbb{k})$ について完全な解決を与えている.
+
 ### クラスター代数
 - [Chekhov-Shapiro 2014]
   - generalized cluster algebra の導入. cone points のある $2$-orbifold の Teichmuller space.
@@ -289,6 +293,8 @@ permalink: /related-papers/
   - common triangular basis の構成. quantum $A=U$ の証明.
 - [Qin 2024b+]
   - freezing operator
+- [Banaian-Kang-Kelley 2024+]
+  - punctured surface の場合に exchange relation で成り立つスケイン関係式について記述している。スネーク公式を利用している。[IKY] の仕事を一部含んでいるはず。また、[IKY] の punctured surface version でもっとスッキリ処理できるはず。
 
 ### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
