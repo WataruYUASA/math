@@ -27,6 +27,13 @@ permalink: /related-papers/
   - $S^5$ 内の cubic planar graph から作られる Legendrian surfaces のクラスに対して, Legendrian boundary の任意の filling の skein-valued holomoriphic curve invariants がある skein-valued opeartor equations で零化される.
 - [Scharitzer-Shende 2023Dec+]
   - disk surgery で関係する Legendrian surfaces に対する augumentation space の $q$-変形. クラスター変換の $q$-変形や, さらに一般に HOMFLY-PT skein-valued クラスター変換と関係している.
+- [Molander 2024+]
+  -  Index $4$ の affine $A$ subfactor planar algebras の図的な generator と relation を表示している.
+
+### Goldman Lie 代数
+
+- [Gekhtman-Rogozinnikov 2024+]
+  - marked surface の framed fundamental group の群環上で定義された double quasi-Poisson bracket. Goldman Lie algebra の non-commutative generalization.
 
 ### 写像類群
 - [Aramayone-Vlamis 2020]
@@ -122,6 +129,10 @@ permalink: /related-papers/
 ### その他, 結び目の不変量
 - [Jablonowski 2024+]
   - 交代結び目の不変量の構成. Black region と White region それぞれに関して Tait graph を 2 つ構成する. 各 edge について交点の正負で weight ($2$ 変数) を assign する. 長さ $l$ の各 cycle について weight の積をとって足し合わせると $2$ 変数多項式が得られて, 不変量になっている. いくつかの kont で HOMFLY-PT や Kauffman polynomial などが得られることが確かめられている.
+- [Eisermann-Lamm 2011]
+  - symmetric union についての Jones 多項式の refinment を Kauffman bracket を用いて構成している.
+- [TanakaT 2022]
+  - symmetric union の Jones 多項式の公式. 系として root of unity における Jones 多項式の積への分解公式が得られる. 
 
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
