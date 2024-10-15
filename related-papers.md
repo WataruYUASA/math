@@ -306,6 +306,8 @@ permalink: /related-papers/
   - freezing operator
 - [Banaian-Kang-Kelley 2024+]
   - punctured surface の場合に exchange relation で成り立つスケイン関係式について記述している。スネーク公式を利用している。[IKY] の仕事を一部含んでいるはず。また、[IKY] の punctured surface version でもっとスッキリ処理できるはず。
+- [Greenberg-Kaufman-Niemeyer-Wienhard 2024+]
+  - polygonal cluster algebra という cluster algebra の non-commutative generalization. 単純な $A_1$ の場合は向きのついた triangulation の flip に関して exchange relation が成り立っている. exchange relaiton によって対角辺が Z 型の edge の積（flip後の対角辺が Z の真ん中） $2$ 通りに和として分けられる. スケイン的な言い換えができるかかなり気になる。
 
 ### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
