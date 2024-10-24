@@ -123,7 +123,7 @@ permalink: /related-papers/
 - [TanakaT 2022]
   - symmetric union の Jones 多項式の公式. 系として root of unity における Jones 多項式の積への分解公式が得られる. 
 - [Cherednik 2024+]
-  - algebraic knot の motivic superpolynomial について. $A_1$ の場合は DAHA-Jones polynomial. plane curve singularity の $L$-functions などに関係している. [Cherednik 2017 et.al.] や [Cherednik-Danilenko] など DAHA-Jones polynomial に関する内容もまとまっていそう.
+  - algebraic knot の motivic superpolynomial について. $A_1$ の場合は DAHA-Jones polynomial. plane curve singularity の $L$-functions などに関係している. [Cherednik 2013,2015,2018] や [Cherednik-Danilenko 2016, 2017+] [Cherednik-Eliot] など DAHA-Jones polynomial に関する内容もまとまっていそう.
 
 ### LMO 不変量
 - [Enriquez-Vera 2024+]
