@@ -76,7 +76,8 @@ permalink: /related-papers/
   - spectral network と Fock-Goncharov の座標について. $A_{k-1}$ theory の $A_1$ theory へのリフト.
 - [Kineider-Rogozinnikov 2022+]
   - [GMN] についてよくまとまっている. 基礎環を一般化している.
-- []
+- [Kineider_thesis 2023]
+  - local system の abelianization に関して勉強になりそう.
 
 ### TQFT, モノイダル圏
 - [Turaev 2016]
@@ -100,6 +101,12 @@ permalink: /related-papers/
 - [Brown-Haioun 2024+]
   - non-semisimple でのスケイン圏について.
 
+### Lattice gauge theory
+- [Meusburger 2017]
+  - Hopf algebra valued lattice gauge theory. Hopf algebra $H$ について, $H$-$\mathrm{Mod}$ に対する Turaev-Viro TQFT と Dorinfeld double $D(H)$ に対する Reshetikhin-Turaev TQFT との関係の Hamiltonian analogue が $H$ に対する Kitaev model と $D(H)$ に対する Chern-Simons gauge theory の combinatorial quantisation. Kitaev model の protected space の作用素のなす代数と quantum moduli algebra が同型である.
+- [Meusburger-Wise 2021]
+  - ribbon graph の Hopf algebra gauge theory. 面白そう. Wise による [講演動画](https://pirsa.org/17080001) がある.
+
 ### 量子不変量
 - [Anghel 2021]
   - $U_q(\mathfrak{sl}(2\vert 1))$ の centralizer algebra と Links-Gould 不変量について.
@@ -111,6 +118,12 @@ permalink: /related-papers/
   - 曲面の対称積の中の Lagrangians の graded intersection paring で色付きジョーンズ多項式やアレキサンダー多項式を実現している. 統一的なトポロジカルモデルの構成.
 - [Anghel 2023]
   - WRT 不変量のトポロジカルモデル.
+- [Eisermann-Lamm 2011]
+  - symmetric union についての Jones 多項式の refinment を Kauffman bracket を用いて構成している.
+- [TanakaT 2022]
+  - symmetric union の Jones 多項式の公式. 系として root of unity における Jones 多項式の積への分解公式が得られる. 
+- [Cherednik 2024+]
+  - algebraic knot の motivic superpolynomial について. $A_1$ の場合は DAHA-Jones polynomial. plane curve singularity の $L$-functions などに関係している. [Cherednik 2017 et.al.] や [Cherednik-Danilenko] など DAHA-Jones polynomial に関する内容もまとまっていそう.
 
 ### LMO 不変量
 - [Enriquez-Vera 2024+]
@@ -129,10 +142,10 @@ permalink: /related-papers/
 ### その他, 結び目の不変量
 - [Jablonowski 2024+]
   - 交代結び目の不変量の構成. Black region と White region それぞれに関して Tait graph を 2 つ構成する. 各 edge について交点の正負で weight ($2$ 変数) を assign する. 長さ $l$ の各 cycle について weight の積をとって足し合わせると $2$ 変数多項式が得られて, 不変量になっている. いくつかの kont で HOMFLY-PT や Kauffman polynomial などが得られることが確かめられている.
-- [Eisermann-Lamm 2011]
-  - symmetric union についての Jones 多項式の refinment を Kauffman bracket を用いて構成している.
-- [TanakaT 2022]
-  - symmetric union の Jones 多項式の公式. 系として root of unity における Jones 多項式の積への分解公式が得られる. 
+
+### 結び目の多項式不変量と他の対象との関係
+- [GorskyM-Haiden 2024]
+  - Legendrian link にたいして rotation number から入る grading を考えたとき, $\mathbb{Z}/2m\mathbb{Z}$-graded Legendrian link $L$ の不変量である ruling polynomial と $\mathbb{F}_q$ 上の $L$ の augumentation category の明示的な関係式を与えている.
 
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
@@ -214,13 +227,15 @@ permalink: /related-papers/
 - [Song-Weng 2024+]
   - Affine web 圏とその cyclotomic quotient 圏. また, 有限 $W$-代数との関係も記述している.
 
-### Legendrian surfaces, weaves, planar graphs
+### symplectic, Legendrian surfaces, weaves, planar graphs
 - [Casals-Murphy 2019]
   - cubic graphs にたいして, differential graded algebra (DGA) を構成している. Symplectic field theory (SFT) や constructible sheaves 由来.
 - [Casals-Zaslow 2022]
   - weaves とよばれる $N$-graph を用いた contact $5$-manifold 内の Legendrian surface の研究.
 - [Sackel 2024]
   - 球面上の trivalent graph から DGA を構成して, その DGA の rank $r$ 表現も構成している.
+- [Casals-Li 2024+]
+  - Lagrangian fillings の moduli 空間の上で local microlocal holonomies が global に regular になる geometric criterion を与えている.
 
 ### Howe duality
 - [Bodish-Tubbenhauer 2023]
@@ -306,8 +321,12 @@ permalink: /related-papers/
   - freezing operator
 - [Banaian-Kang-Kelley 2024+]
   - punctured surface の場合に exchange relation で成り立つスケイン関係式について記述している。スネーク公式を利用している。[IKY] の仕事を一部含んでいるはず。また、[IKY] の punctured surface version でもっとスッキリ処理できるはず。
+- [Berenstein-Retakh 2018]
+  - marked surface に対して non-commutative な代数を定義している. [Gelfamd-Retakh 1997] の non-commutative quasi-Plucker coordinate の Ptolemy identity が基礎になっている. non-commutative Laurent phenomenon など non-commutative な cluster theory を行っている.
 - [Greenberg-Kaufman-Niemeyer-Wienhard 2024+]
-  - polygonal cluster algebra という cluster algebra の non-commutative generalization. 単純な $A_1$ の場合は向きのついた triangulation の flip に関して exchange relation が成り立っている. exchange relaiton によって対角辺が Z 型の edge の積（flip後の対角辺が Z の真ん中） $2$ 通りに和として分けられる. スケイン的な言い換えができるかかなり気になる。
+  - [Berenstein-Retakh 2018] に続く仕事. polygonal cluster algebra という cluster algebra の non-commutative generalization. 単純な $A_1$ の場合は向きのついた triangulation の flip に関して exchange relation が成り立っている. exchange relaiton によって対角辺が Z 型の edge の積と N 型の edge の積（flip後の対角辺が真ん中） $2$ 通りに和として分けられる. スケイン的な言い換えができるかかなり気になる。
+- [Casals-GorskyE-GorskyM-Le-Shen-Simental 2024+]
+  - simple Lie group の Braid variety のクラスター構造の構成. weave を使う. Soergel calculus についても少し記述がある.
 
 ### Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
