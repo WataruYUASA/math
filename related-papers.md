@@ -48,6 +48,10 @@ permalink: /related-papers/
   - $3$ 点穴あき射影平面の type-preserving な $PGL(2,\mathbb{R})$-表現について. [Kashaev 2005] の向き付不可能曲面に対する平坦 $PGL(2,\mathbb{R})$-接続の話が大切そう.
 - [Brumfiel-Hilden 1995]
   - 有限生成群の指標多様体について. 特に自由群の自己同型群などで参考になる教科書. 最後の方に結び目群の場合に $A$-多項式の話なども書いている.
+- [Boyer 2002]
+  - 有限生成群の $SL(2,\mathbb{C})$-character variety の reducible character の smoothness を保証する cocycle condition が書かれている.
+- [Manon 2015]
+  - connected reductive group $G$ について, 有限生成群の $G$-character variety の Newton-Okounkov polyhedra を 考えている.
 
 ### $A$-多項式
 - [Cooper-Culler-Gillet-Long-Shalen 94]
@@ -328,9 +332,13 @@ permalink: /related-papers/
 - [Casals-GorskyE-GorskyM-Le-Shen-Simental 2024+]
   - simple Lie group の Braid variety のクラスター構造の構成. weave を使う. Soergel calculus についても少し記述がある.
 
-### Askey-Wilson 代数
+### DAHA, Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
-  - [Zhedanov 1991] による Askey-Wilson 代数 $\mathbf{aw}(3)$ や $\mathbf{saw}(3)$ と量子群のテンソル積, 穴開き円盤のスケイン代数との対応、それを用いた一般化についてよくまとまっていそう。
+  - [Zhedanov 1991] による Askey-Wilson 代数 $\mathbf{aw}(3)$ や $\mathbf{saw}(3)$ と量子群のテンソル積, 穴開き円盤のスケイン代数との対応, それを用いた一般化についてよくまとまっていそう.
+- [Arthamonov-Shakirov 2023+]
+  - $A_1$ spherical DAHA の elliptic generalization.
+- [Arthamonov 2023+]
+  - [Arthamonov-Shakirov 2019] の genus $2$ の閉曲面 $\Sigma$ のスケイン代数の one-parameter deformation $\mathcal{A_{q,t}}$ ($q=t$ で通常のスケイン代数となる) が flat であることを示している. さらに, $q=1$ は $\Sigma$ の $SL(2,\mathbb{C})$-character variety の one-parameter flat Poisson deformaion となる. 多項式表現や写像類群の作用なども書いている.
 
 ### Soergel bimodule
 - [Gorsky-Hogancamp-Wedrich 2022]
