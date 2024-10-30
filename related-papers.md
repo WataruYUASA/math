@@ -33,7 +33,7 @@ permalink: /related-papers/
 ### Goldman Lie 代数
 
 - [Gekhtman-Rogozinnikov 2024+]
-  - marked surface の framed fundamental group の群環上で定義された double quasi-Poisson bracket. Goldman Lie algebra の non-commutative generalization.
+  - marked surface の framed fundamental groupoid の亜群環上で定義された double quasi-Poisson bracket. marked point が一点の場合は [Massuyeau-Turaev 2014] のもの. Goldman Lie algebra の non-commutative generalization. non-commutative cluster algebra とも関係がある.
 
 ### 写像類群
 - [Aramayone-Vlamis 2020]
