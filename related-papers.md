@@ -1,6 +1,6 @@
 ---
 layout: page
-title: References
+title: Papers in interest
 permalink: /related-papers/
 ---
 
@@ -52,6 +52,8 @@ permalink: /related-papers/
   - 有限生成群の $SL(2,\mathbb{C})$-character variety の reducible character の smoothness を保証する cocycle condition が書かれている.
 - [Manon 2015]
   - connected reductive group $G$ について, 有限生成群の $G$-character variety の Newton-Okounkov polyhedra を 考えている.
+- [Esnault 2023]
+  - 数論的な local systems に関するレクチャーノート.
 
 ### $A$-多項式
 - [Cooper-Culler-Gillet-Long-Shalen 94]
@@ -331,6 +333,8 @@ permalink: /related-papers/
   - [Berenstein-Retakh 2018] に続く仕事. polygonal cluster algebra という cluster algebra の non-commutative generalization. 単純な $A_1$ の場合は向きのついた triangulation の flip に関して exchange relation が成り立っている. exchange relaiton によって対角辺が Z 型の edge の積と N 型の edge の積（flip後の対角辺が真ん中） $2$ 通りに和として分けられる. スケイン的な言い換えができるかかなり気になる。
 - [Casals-GorskyE-GorskyM-Le-Shen-Simental 2024+]
   - simple Lie group の Braid variety のクラスター構造の構成. weave を使う. Soergel calculus についても少し記述がある.
+- [Alessandrini-Guichard-Rogozinnikov-Wienhard 2024]
+  - AMS memoirs. 曲面の $Sp(2n,\mathbb{R})$-local systems の moduli space の話. lambda length の一般化. non-commutative cluster algebra.
 
 ### DAHA, Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
@@ -356,6 +360,14 @@ permalink: /related-papers/
 ### quantum spin chain model
 - [Martin-Webstry 1997]
   - TL algebra を $U_q(\mathfrak{sl}_N)$ に一般化して物理的に意味をもつ性質を一般化している。今なら高階のスケイン関係式を用いてもう少しいろんなことができそう。
+
+### Sandpile model
+- [Jarai 2018]
+  - Sandpile model (砂山モデル・砂山くずしモデル) の survey.
+- [Babai-Toumpakari 2010]
+  - (グラフの) Sandpile model の semigroup を扱っている. はじめの方に Sandpile model の定義や基本事項が簡潔にまとまっていそう.
+- [石川 H29]
+  - 代数学基礎Bの講義ノート. Sandpile model について書いている箇所あり.
 
 ### mathphys, hep-th
 - [Lafay-Gainutdinov-Jacobsen 2023]
