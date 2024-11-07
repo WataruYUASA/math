@@ -232,6 +232,8 @@ permalink: /related-papers/
   - Lie superalgebra type $Q$ の web 圏.
 - [Song-Weng 2024+]
   - Affine web 圏とその cyclotomic quotient 圏. また, 有限 $W$-代数との関係も記述している.
+- [Kenyon-Wu 2024+]
+  - $Sp(2n)$-web の $2n$-valent vertex と determinant の関係について. pants や torus の基底（？）を考えている. $Sp(4)$ の Dehn-Thuston coordinate を考えるときに使えそう.
 
 ### symplectic, Legendrian surfaces, weaves, planar graphs
 - [Casals-Murphy 2019]
@@ -304,7 +306,7 @@ permalink: /related-papers/
 - [Jing-Liu 2014]
   - Drinfel'd-Jimbo と FRT 構成による $GL(n)$ の二種類の two-parameter 量子群.
 
-###　リー群, リー代数の表現論
+### リー群, リー代数の表現論
 - [Gruber-Mancini 2024+]
   - 正標数の代数閉体 $\mathbb{k}$ 上の単純代数群の multiplicity free, completely reducible な表現について. $SL_3(\mathbb{k})$, $Sp_4(\mathbb{k})$ について完全な解決を与えている.
 
