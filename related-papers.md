@@ -29,6 +29,12 @@ permalink: /related-papers/
   - disk surgery で関係する Legendrian surfaces に対する augumentation space の $q$-変形. クラスター変換の $q$-変形や, さらに一般に HOMFLY-PT skein-valued クラスター変換と関係している.
 - [Molander 2024+]
   -  Index $4$ の affine $A$ subfactor planar algebras の図的な generator と relation を表示している.
+- [Gaiotto-Verlinde 2024+]
+  - double scaled SYK models における operator algebra からスケイン代数が現れるらしい。class 4d $\mathcal{N}=2$ SYM theory における Wilson-'t Hooft loops のなす代数がスケイン代数で記述できる話 [Gaiotto-Teschner 2024+, Kapustin-Saulina 2009,  Alday-Gaiotto-Gukov-Tachikawa-Verlinde 2010, Tachikawa-Watanabe 2015] の SYK サイドの話として DSSYK 相関関数とスケイン代数の話 [Verlinde 2024+] があるらしい。
+- [Banaian-Kang-Kelley 2024+] 
+  - [Canakci-Schiffler 2023] [Musiker-Williams 2013] におけるスケイン関係式を使った公式や snake graph を使った Matrix formula を穴開き曲面の場合へ一般化している。タグ付き arc を扱っている。
+- [Cremaschi-Douglas 2024+] 
+  - Annulus の $SL(n)$-スケイン代数が $n-1$ 変数多項式環と同型であることを示している。生成元は $i$ と $n-i$ で色付けされた $2$ 点付きの loop. $q$ はある程度 order が大きな root of unity でも OK.
 
 ### Goldman Lie 代数
 
@@ -85,7 +91,7 @@ permalink: /related-papers/
 - [Kineider_thesis 2023]
   - local system の abelianization に関して勉強になりそう.
 
-### TQFT, モノイダル圏
+### TQFT, モノイダル圏, line operator
 - [Turaev 2016]
   - 量子不変量についての基本的な教科書. モノイダル圏, $\mathscr{C}$-colored graph, coupon.
 - [Turaev-Virelizier 2017]
@@ -98,6 +104,10 @@ permalink: /related-papers/
   - Hopf monad という Hopf 代数の一般化である autonomous 圏 (monoidal with dual) の基本.
 - [Koppen-Mulevicius-Runkel-Schweigert 2022]
   - surface defect をもつ Reshetikhin-Turaev TQFT.
+- [Dimofte-Niu 2024+]
+  - TQFT における line operator のなす圏を表す Hopf 代数の構成. spark algebra. cobordism, foam のようなものを使っていてとても面白そう.
+- [Gaiotto-LopezRaven-Silverans-Zeng 2024+]
+  - $4$-dim $\mathcal{N}=2$ superconformal quiver gauge theory に付随する chairal algebra の 't Hooft expansion とかなんとか. 何もわからない.
 
 ### non-semisimple TQFT
 - [Seminar on non-semisimple TQFTs](https://sites.google.com/site/psafronov/notes/non-semisimple-tqfts)
@@ -130,6 +140,10 @@ permalink: /related-papers/
   - symmetric union の Jones 多項式の公式. 系として root of unity における Jones 多項式の積への分解公式が得られる. 
 - [Cherednik 2024+]
   - algebraic knot の motivic superpolynomial について. $A_1$ の場合は DAHA-Jones polynomial. plane curve singularity の $L$-functions などに関係している. [Cherednik 2013,2015,2018] や [Cherednik-Danilenko 2016, 2017+] [Cherednik-Eliot] など DAHA-Jones polynomial に関する内容もまとまっていそう.
+
+### 量子不変量の漸近展開, 体積予想
+- [Chen-Zhu 2024+]
+  - twist knots $K_p$ に沿った整数係数の $q$-手術から得られる $3$-manifolds  $M,{p,q}$ の Reshetikhin-Turaev 不変量について $t=\exp(4\pi\sqrt{-1}/r)$ with odd $r$ で漸近展開を鞍点法により調べている. 系として $\lim_{r\to\infty} (4\pi/r)\log RT_r(M_{p,q};t)=\mathrm{Vol}(M_{p,q})+\sqrt{-1}\mathrm{CS}(M_{p,q}) \mod \pi^2\sqrt{-1}\mathbb{Z}$ が示されている.
 
 ### LMO 不変量
 - [Enriquez-Vera 2024+]
@@ -235,6 +249,16 @@ permalink: /related-papers/
 - [Kenyon-Wu 2024+]
   - $Sp(2n)$-web の $2n$-valent vertex と determinant の関係について. pants や torus の基底（？）を考えている. $Sp(4)$ の Dehn-Thuston coordinate を考えるときに使えそう.
 
+## web bases for symmetric groups
+- [Russell-Tymoczko 2011]
+  - Khovanov Springer variety の Springer 表現.
+- [Housley-Russell-Tymoczko 2015]
+  - $A_2$-web bases について. Khovanov-Kuperberg との関係も書いている.
+- [Heard-Kujawa 2024]
+  - standard tableaux と web basis の全単射を構成して, 何かしらの positivity を示している。
+- [Petersen-Pylyavskyy-Rhoades 2008]
+  - 2, 3 行の rectangular Young tableaux が対応するウェブと cyclic sieving について.
+
 ### symplectic, Legendrian surfaces, weaves, planar graphs
 - [Casals-Murphy 2019]
   - cubic graphs にたいして, differential graded algebra (DGA) を構成している. Symplectic field theory (SFT) や constructible sheaves 由来.
@@ -315,6 +339,8 @@ permalink: /related-papers/
   - generalized cluster algebra の導入. cone points のある $2$-orbifold の Teichmuller space.
 - [Nakanishi 2015]
   - generalized cluster algebra における seed の structure theory.
+- [Nakanishi-Rupel]
+  - generalized cluster algebra の $c$-vectors, $g$-vectors, $F$-polynomials など基本的なことが書いてそう.
 - [Gleitz 2015]
   - type $C_n$ の generalized cluster algebra と quantum loop algebra at root of unity との関係. $\mathfrak{sl}_3$ で予想がある.
 - [Gilbert-Philbin-Wright 2023+]
@@ -337,6 +363,8 @@ permalink: /related-papers/
   - simple Lie group の Braid variety のクラスター構造の構成. weave を使う. Soergel calculus についても少し記述がある.
 - [Alessandrini-Guichard-Rogozinnikov-Wienhard 2024]
   - AMS memoirs. 曲面の $Sp(2n,\mathbb{R})$-local systems の moduli space の話. lambda length の一般化. non-commutative cluster algebra.
+- [Fock-Goncharov 2006+]
+  - $G_2$ の cluster $\mathcal{X}$-variety について詳しい. two-component link の基本群が $G_2$ の braid 群と同型という話が出てくる.
 
 ### DAHA, Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
@@ -345,6 +373,10 @@ permalink: /related-papers/
   - $A_1$ spherical DAHA の elliptic generalization.
 - [Arthamonov 2023+]
   - [Arthamonov-Shakirov 2019] の genus $2$ の閉曲面 $\Sigma$ のスケイン代数の one-parameter deformation $\mathcal{A_{q,t}}$ ($q=t$ で通常のスケイン代数となる) が flat であることを示している. さらに, $q=1$ は $\Sigma$ の $SL(2,\mathbb{C})$-character variety の one-parameter flat Poisson deformaion となる. 多項式表現や写像類群の作用なども書いている.
+- [Etingof-Gan-Oblomkov 2006]
+  - $C^{\vee}C_n$ 型 DAHA で Koornwinder polynomials に関する Macdonald の予想. generalized DAHA (GDAHA) ($\tilde{D}_4$, $\tilde{E}_6$,$\tilde{E}_7$, $\tilde{E}_8$) に関して. $\tilde{D}_4$ のときに braid 群の quotient としての実現を行っている. 色々と書いている.
+- [Chalykh-Ryan 2024+]
+  - $C^{\vee}C_n$ 型 DAHA $\mathcal{H}_{q,\tau}$ の spherical subalgebra $e_{\tau}\mathcal{H}_{q,\tau}e_{\tau}$ について $4$-punctured sphere 上の flat $GL_{2n}(\mathbb{C})$-local system のモジュライ $\mathcal{M}_n$ の関数環との同型 $e_{\tau}\mathcal{H}_{1,\tau}e_{\tau}\cong\mathbb{C}[\mathcal{M}_n]$ を示した. スケイン代数を使ったら $q$ でいけそう. [Etingof-Gan-Oblomkov 2006] も参照.
 
 ### Soergel bimodule
 - [Gorsky-Hogancamp-Wedrich 2022]
@@ -358,6 +390,10 @@ permalink: /related-papers/
 ### Topological Quantum Computation
 - [Freedman-ShokrianZini-Wang 2019]
   - octonion を使って構成した何か...
+
+### WZW models
+- [Mazzucchelli 2024+]
+  - $\mathfrak{su}(2)_{-1}$ WZW model について. Free field representations や character などについて色々書いている.
 
 ### quantum spin chain model
 - [Martin-Webstry 1997]
