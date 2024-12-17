@@ -40,10 +40,14 @@ permalink: /related-papers/
 
 - [Gekhtman-Rogozinnikov 2024+]
   - marked surface の framed fundamental groupoid の亜群環上で定義された double quasi-Poisson bracket. marked point が一点の場合は [Massuyeau-Turaev 2014] のもの. Goldman Lie algebra の non-commutative generalization. non-commutative cluster algebra とも関係がある.
+- [Fairon's homepage](https://mfairon.perso.math.cnrs.fr/DoubleBrackets.html)
+  - Double bracket　に関する文献がまとめられている.
 
-### 写像類群
+### 写像類群, 自由群, 自由 Lie 代数
 - [Aramayone-Vlamis 2020]
    - Big mapping class group に関するまとめ. 曲面が有限型でないとき, quasi-conformal mapping class group と big maping class group は一致しない. どれくらい差があるのか気になる.
+- [Neretin 2024+]
+  - 実自由 Lie 代数とその BCH series から得られるリー群について, その稠密な部分群を考えている.
 
 ### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
@@ -90,6 +94,8 @@ permalink: /related-papers/
   - [GMN] についてよくまとまっている. 基礎環を一般化している.
 - [Kineider_thesis 2023]
   - local system の abelianization に関して勉強になりそう.
+- [Kineider-Kydonakis-Togozinnikov-Tatitscheff-Thomas 2024]
+  - Spectral network, higer Teichmuller theory への入門書. 約 350 pages. とても勉強になりそう. 
 
 ### TQFT, モノイダル圏, line operator
 - [Turaev 2016]
@@ -152,6 +158,8 @@ permalink: /related-papers/
 ### 量子不変量の漸近展開, 体積予想
 - [Chen-Zhu 2024+]
   - twist knots $K_p$ に沿った整数係数の $q$-手術から得られる $3$-manifolds  $M,{p,q}$ の Reshetikhin-Turaev 不変量について $t=\exp(4\pi\sqrt{-1}/r)$ with odd $r$ で漸近展開を鞍点法により調べている. 系として $\lim_{r\to\infty} (4\pi/r)\log RT_r(M_{p,q};t)=\mathrm{Vol}(M_{p,q})+\sqrt{-1}\mathrm{CS}(M_{p,q}) \mod \pi^2\sqrt{-1}\mathbb{Z}$ が示されている.
+- [Garoufalidis-Scholze-Wheeler-Zagier 2024+]
+  - Garoufalidis-Zagier の一連の仕事の延長っぽい. 葉廣環, Kontsevich-Soibelman series, Donaldson-Thomas invariants.
 
 ### Vol-Det 予想
 - [Egorov-Vesnin 2024+]
@@ -172,10 +180,14 @@ permalink: /related-papers/
   - colored HOMFLY-PT homology について. [Webster–Williamson] の intrinsically-colored homology と [Elias–Hogancamp] の projector-colored homology を同一視する singular Soergel bimodules の homotopy category における functor.
 - [Gergle 2021]
   - $\mathfrak{sp}_4$-web の圏化に関する thesis.
+- [Gepner-Im-Khovanov-Kitchloo 2024+]
+  - foam cobordism と algebraic $K$-theory について.
 
 ### Khovanov arc algebra
 - [Heidersdorf-Nehme-Stroppel 2024+]
   - Khovanov arc algebra of type $B$.
+- [Ehrig-Stroppel 2017]
+  - $OSP(r\vert 2n)$ の有限次元表現の圏について. type $D$ Khovanov algebra と関係がある.
 
 ### その他, 結び目の不変量
 - [Jablonowski 2024+]
@@ -220,6 +232,8 @@ permalink: /related-papers/
   - blob 代数に対して indecomposable tilting module を構成. KLR 代数も出てきている.
 - [Stroppel-Wojciechowski 2024+]
   - $U_q(\mathfrak{sl}_2)$ の基本表現のテンソルの中の coideal subalgebra への制限を代数的, 図的に書いた. Jones-Webzl projector も構成. smallest quantum coideal.
+- [Brundan-Stroppel 2024]
+  - Memoirs of the AMS. highest weight categories と quansi-hereditary algebra について. 6 章に Temperley-Lieb の話が出てきており, stated skein を使えば整理して higher にできる話があるようにも思える.
 
 ### web 圏, ダイアグラム圏, string-net, spin network
 - [Bodish-Wu 2021+]
@@ -266,6 +280,8 @@ permalink: /related-papers/
   - Affine web 圏とその cyclotomic quotient 圏. また, 有限 $W$-代数との関係も記述している.
 - [Kenyon-Wu 2024+]
   - $Sp(2n)$-web の $2n$-valent vertex と determinant の関係について. pants や torus の基底（？）を考えている. $Sp(4)$ の Dehn-Thuston coordinate を考えるときに使えそう.
+- [Lafay-Gainutdinov-Jacobsen 2023]
+  - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
 
 ## web bases for symmetric groups
 - [Russell-Tymoczko 2011]
@@ -385,6 +401,8 @@ permalink: /related-papers/
   - AMS memoirs. 曲面の $Sp(2n,\mathbb{R})$-local systems の moduli space の話. lambda length の一般化. non-commutative cluster algebra.
 - [Fock-Goncharov 2006+]
   - $G_2$ の cluster $\mathcal{X}$-variety について詳しい. two-component link の基本群が $G_2$ の braid 群と同型という話が出てくる.
+- [Grabowski-Pressland 2024+]
+  - 表現論に現れるクラスター構造について, cluster ensemble, tolopical duality, cluster character などがまとまっている. 勉強するのによそさう.
 
 ### DAHA, Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
@@ -418,7 +436,11 @@ permalink: /related-papers/
 
 ### quantum spin chain model
 - [Martin-Webstry 1997]
-  - TL algebra を $U_q(\mathfrak{sl}_N)$ に一般化して物理的に意味をもつ性質を一般化している。今なら高階のスケイン関係式を用いてもう少しいろんなことができそう。
+  - TL algebra を $U_q(\mathfrak{sl}_N)$ に一般化して物理的に意味をもつ性質を一般化している. 今なら高階のスケイン関係式を用いてもう少しいろんなことができそう.
+
+### quantum gravity
+- [Basile-Buoninfante-Filippo-Knorr-Platania-Tokareva 2024]
+  - Lectures in Quantum Gravity. YouTube の講義動画へのリンクもある.
 
 ### Sandpile model
 - [Jarai 2018]
@@ -429,8 +451,8 @@ permalink: /related-papers/
   - 代数学基礎Bの講義ノート. Sandpile model について書いている箇所あり.
 
 ### mathphys, hep-th
-- [Lafay-Gainutdinov-Jacobsen 2023]
-  - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
+- [Giotopoulos-Sati-Schreiber 2024+]
+  - Super-Lie ${}_{\infty}$ T-duality and M-theory というタイトルだが, 自分には何もわからない. いろいろな duality があって面白そうというだけ.
 
 ### 機械学習
 - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
