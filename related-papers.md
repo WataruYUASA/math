@@ -141,13 +141,27 @@ permalink: /related-papers/
 - [Cherednik 2024+]
   - algebraic knot の motivic superpolynomial について. $A_1$ の場合は DAHA-Jones polynomial. plane curve singularity の $L$-functions などに関係している. [Cherednik 2013,2015,2018] や [Cherednik-Danilenko 2016, 2017+] [Cherednik-Eliot] など DAHA-Jones polynomial に関する内容もまとまっていそう.
 
+### Harer-Zagier formula
+- [Morozov-Popliton-Shakirov 2021]
+  - knot matrix model から得られる量子不変量 (qauntum $\mathfrak{sl}_N$ invarinats の母関数) の有理関数による因数分解. torus knot のみで考えられている? 何らかの character が knot polynomial になっているという思想.
+- [Hikami-Petorou 2023+]
+  - ``twisted hyperbolic knot'' で Harer-Zagier formula を与えている.
+- [Hikami-Petrou 2024+]
+  - Jucys-Murphy's braid を挟む operation についての Harer-Zagier formula. この factorization を通した HOMFLY-PT polynomial と Kauffman polynomial の関係についての予想.
+
 ### 量子不変量の漸近展開, 体積予想
 - [Chen-Zhu 2024+]
   - twist knots $K_p$ に沿った整数係数の $q$-手術から得られる $3$-manifolds  $M,{p,q}$ の Reshetikhin-Turaev 不変量について $t=\exp(4\pi\sqrt{-1}/r)$ with odd $r$ で漸近展開を鞍点法により調べている. 系として $\lim_{r\to\infty} (4\pi/r)\log RT_r(M_{p,q};t)=\mathrm{Vol}(M_{p,q})+\sqrt{-1}\mathrm{CS}(M_{p,q}) \mod \pi^2\sqrt{-1}\mathbb{Z}$ が示されている.
 
-### LMO 不変量
+### Vol-Det 予想
+- [Egorov-Vesnin 2024+]
+  - twisted alternating knot についての Vol-Det conjecture.
+
+### LMO 不変量, Jacobi diagram
 - [Enriquez-Vera 2024+]
   - 閉 $3$ 次元多様体の LMO 不変量についてのまとめ.
+- [Khudoteplov-Lanina-Sleptsov 2024+]
+  - Vogel algebra, Lie algebra weight system を乗せたときの Kernel を調べている.
 
 ### universal 量子不変量, cyclotomic 展開
 - [Habiro 2006]
@@ -158,6 +172,10 @@ permalink: /related-papers/
   - colored HOMFLY-PT homology について. [Webster–Williamson] の intrinsically-colored homology と [Elias–Hogancamp] の projector-colored homology を同一視する singular Soergel bimodules の homotopy category における functor.
 - [Gergle 2021]
   - $\mathfrak{sp}_4$-web の圏化に関する thesis.
+
+### Khovanov arc algebra
+- [Heidersdorf-Nehme-Stroppel 2024+]
+  - Khovanov arc algebra of type $B$.
 
 ### その他, 結び目の不変量
 - [Jablonowski 2024+]
@@ -311,6 +329,8 @@ permalink: /related-papers/
   - $U_q(\mathfrak{g})$ の ``strongly multiplicity free'' な表現($\mathfrak{sl}_2$ の既約表現, $G_2$ のベクトル表現など)のテンソル冪の自己準同型環がブレイド群環の商である. Kohno の infinitesimal braid group に関する結果の量子版.
 - [Kuniba 2022]
   - 量子座標環の生成元と関係式が例外型を含めて明示的に書かれている本. 量子反射方程式など.
+- [Clercq-Reshetikhin-Stokmn 2024, 2024+]
+  - Quantum vertex operator の図的計算法.
 
 ### two-parameter 量子群
 - [Takeuchi 1990]
@@ -377,6 +397,7 @@ permalink: /related-papers/
   - $C^{\vee}C_n$ 型 DAHA で Koornwinder polynomials に関する Macdonald の予想. generalized DAHA (GDAHA) ($\tilde{D}_4$, $\tilde{E}_6$,$\tilde{E}_7$, $\tilde{E}_8$) に関して. $\tilde{D}_4$ のときに braid 群の quotient としての実現を行っている. 色々と書いている.
 - [Chalykh-Ryan 2024+]
   - $C^{\vee}C_n$ 型 DAHA $\mathcal{H}_{q,\tau}$ の spherical subalgebra $e_{\tau}\mathcal{H}_{q,\tau}e_{\tau}$ について $4$-punctured sphere 上の flat $GL_{2n}(\mathbb{C})$-local system のモジュライ $\mathcal{M}_n$ の関数環との同型 $e_{\tau}\mathcal{H}_{1,\tau}e_{\tau}\cong\mathbb{C}[\mathcal{M}_n]$ を示した. スケイン代数を使ったら $q$ でいけそう. [Etingof-Gan-Oblomkov 2006] も参照.
+
 
 ### Soergel bimodule
 - [Gorsky-Hogancamp-Wedrich 2022]
