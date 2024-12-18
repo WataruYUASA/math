@@ -234,6 +234,8 @@ permalink: /related-papers/
   - $U_q(\mathfrak{sl}_2)$ の基本表現のテンソルの中の coideal subalgebra への制限を代数的, 図的に書いた. Jones-Webzl projector も構成. smallest quantum coideal.
 - [Brundan-Stroppel 2024]
   - Memoirs of the AMS. highest weight categories と quansi-hereditary algebra について. 6 章に Temperley-Lieb の話が出てきており, stated skein を使えば整理して higher にできる話があるようにも思える.
+- [Devello-Tubbenhauer 2024+]
+  - $SU(2)$ の type $D$ subgroup である dycyclic group の複素表現に関して図的表記を与えている. Temperley-Lieb 代数の拡張.
 
 ### web 圏, ダイアグラム圏, string-net, spin network
 - [Bodish-Wu 2021+]
