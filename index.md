@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-(update:2024-12-17)
+(update:2024-12-24)
 
 **Wataru Yuasa**
 

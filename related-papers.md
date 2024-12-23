@@ -35,6 +35,8 @@ permalink: /related-papers/
   - [Canakci-Schiffler 2023] [Musiker-Williams 2013] におけるスケイン関係式を使った公式や snake graph を使った Matrix formula を穴開き曲面の場合へ一般化している。タグ付き arc を扱っている。
 - [Cremaschi-Douglas 2024+] 
   - Annulus の $SL(n)$-スケイン代数が $n-1$ 変数多項式環と同型であることを示している。生成元は $i$ と $n-i$ で色付けされた $2$ 点付きの loop. $q$ はある程度 order が大きな root of unity でも OK.
+- [Ekholm-Longhi-Shende 2024+]
+  - topological vertex の HOMFLY-PT skein module を使った幾何的な解釈に関する skein-valued mirror を考えている. Calabi-Yau $3$-fold $X$ の中の Lagrangian boundary condition $L$ を満たす holomorphic curve の数え上げの全ての種数に関する分配関数 $Z_{X,L}$ が $L$ の HOMFLY-PT skein module の完備化に値を取る関数として定義される. この分配関数を零化する operator $A_{X,L}$ を $\partial L\times\mathbb{R}$ のスケイン代数の中で考える. これを skein-valued mirror と読んでいる. $AJ$ 予想における $A$ 多項式. [Ekholm-Shende] の共著の流れ.
 
 ### Goldman Lie 代数
 
