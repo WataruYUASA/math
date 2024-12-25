@@ -191,13 +191,15 @@ permalink: /related-papers/
 - [Ehrig-Stroppel 2017]
   - $OSP(r\vert 2n)$ の有限次元表現の圏について. type $D$ Khovanov algebra と関係がある.
 
-### その他, 結び目の不変量
+### その他, 結び目やその類似の多項式不変量など
 - [Jablonowski 2024+]
   - 交代結び目の不変量の構成. Black region と White region それぞれに関して Tait graph を 2 つ構成する. 各 edge について交点の正負で weight ($2$ 変数) を assign する. 長さ $l$ の各 cycle について weight の積をとって足し合わせると $2$ 変数多項式が得られて, 不変量になっている. いくつかの kont で HOMFLY-PT や Kauffman polynomial などが得られることが確かめられている.
-
-### 結び目の多項式不変量と他の対象との関係
 - [GorskyM-Haiden 2024]
   - Legendrian link にたいして rotation number から入る grading を考えたとき, $\mathbb{Z}/2m\mathbb{Z}$-graded Legendrian link $L$ の不変量である ruling polynomial と $\mathbb{F}_q$ 上の $L$ の augumentation category の明示的な関係式を与えている.
+- [Baldridge-McCarty 2023+]
+  - グラフの彩色問題にたいする TQFT 的なアプローチ. ある bracket によってグラフに関する多項式不変量を定義して, その圏化を与えている.
+- [Baldridge-McCarty 2024+]
+  - $n$-color vertex polynomial という多項式の圏化を与えている. $n=3$ のときはペンローズ多項式と呼ばれるもの. だいたい, 上の論文のグラフの彩色数の母関数の圏化.
 
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
