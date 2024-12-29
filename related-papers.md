@@ -200,6 +200,10 @@ permalink: /related-papers/
   - グラフの彩色問題にたいする TQFT 的なアプローチ. ある bracket によってグラフに関する多項式不変量を定義して, その圏化を与えている.
 - [Baldridge-McCarty 2024+]
   - $n$-color vertex polynomial という多項式の圏化を与えている. $n=3$ のときはペンローズ多項式と呼ばれるもの. だいたい, 上の論文のグラフの彩色数の母関数の圏化.
+- [Niebrzydowski-Przytycki 2013]
+  - entropic magma という link や graph の不変量を定義している. Kauffman bracket の一般化として Kauffman bracket magma, Tutte 多項式の一般化として Tutte magma を定義している. magma $(A,\ast)$ と $A$ の Reidemeister moves に対応する関係式を満たす数列 $(a_n)$ を指定することで定義される. Skein tree に演算が対応しており, state から得られる loop の disjoint union に $(a_n)$ が対応する.
+- [Choi-Kim 2022]
+  - surface link に関する不変量を marked diagram を用いて Kauffman bracket magma を用いて構成している. 
 
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
