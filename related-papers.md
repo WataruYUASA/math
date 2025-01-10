@@ -427,9 +427,15 @@ permalink: /related-papers/
   - $C^{\vee}C_n$ 型 DAHA $\mathcal{H}_{q,\tau}$ の spherical subalgebra $e_{\tau}\mathcal{H}_{q,\tau}e_{\tau}$ について $4$-punctured sphere 上の flat $GL_{2n}(\mathbb{C})$-local system のモジュライ $\mathcal{M}_n$ の関数環との同型 $e_{\tau}\mathcal{H}_{1,\tau}e_{\tau}\cong\mathbb{C}[\mathcal{M}_n]$ を示した. スケイン代数を使ったら $q$ でいけそう. [Etingof-Gan-Oblomkov 2006] も参照.
 
 
-### Soergel bimodule
+### Soergel bimodule, Soergel calculus
 - [Gorsky-Hogancamp-Wedrich 2022]
   - Soerger bimodule のふたつの trace について. categorification of HOMFLY-PT modules of solid torus.
+- [Elias-Williamson 2016]
+  - Soergel bimodule の diagrammatic 圏. Soergel calculus と呼ばれる. Libedinsky の light leaves によって morphism space の基底が与えられる.
+- [Andersen-Tubbenhauer 2016]
+  - root of unity における $U_q(\mathfrak{sl}_2)$-tilting module の diagrammatic 圏. [Elias 2016] の dihedral cathedral $\mathfrak{D}(\infty)$ を主に扱っている. $3$ 次元多様体の不変量への応用を見込んでいる.
+- [ZhangV 2023]
+  - Soergel calculus を用いて $\mathfrak{sl}_2$ の category $\mathcal{O}$ や $\mathrm{Tilt}(\mathfrak{sl}_2)$ を記述.
 
 
 ### tilting module
