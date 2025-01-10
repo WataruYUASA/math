@@ -67,6 +67,10 @@ permalink: /related-papers/
 - [Esnault 2023]
   - 数論的な local systems に関するレクチャーノート.
 
+### Quandle, Rack, 圭
+- [Andruskiewitsch-Grana 2003]
+  - rack や その extension が現れる. Alexander quandle の一般化に用いられる Alexander pairing に対応するものが定義されているらしい. この論文では pointed Hopf algebra を調べるために braided vector space の 有限次元 Nicolas algebra を扱っている. braided vector space を作る際に rack で生成されるベクトル空間を $2$-cocyle で捻ったものをつかう.
+
 ### $A$-多項式
 - [Cooper-Culler-Gillet-Long-Shalen 94]
   - $A$-多項式を導入.
