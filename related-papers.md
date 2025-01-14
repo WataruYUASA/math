@@ -9,12 +9,6 @@ permalink: /related-papers/
 ### スケイン代数
 - [CottaRamusino-Rinaldi 1991a, 1991b, 1991c]
   - 曲面上のスケイン代数の余代数構造や multi-parameter 量子群.
-- [JonsonFreyd 2021]
-  - Heisenberg-picture field theory, skein category and factrization algebra を用いる.
-- [AlQasimi-Stokman 2021]
-  - Skein category, affine TL algebra のアニュラスによる実現や [Roger-Yang 2014] のスケインとの関係が書かれている.
-- [Haioun 2022]
-  - [BenZvi-Brochier-Jordan 2018] や [Gunningham-Jordan-Safronov 2022] の internal skein algebra (skein category の free cocompletion) を boundary 付きに一般化したものと, [Costantino-Le 2019+] の stated skein algebra との対応.
 - [Aganagic-Ekholm-Ng-Vafa 2014]
   - topological strings と contact homology との関係. 結び目に付随する Lagrangian の Gromov-Witten disk amplitudes とその contact homology algebra の augmentations との関係. そこから $Q$-deformed $A$-polynomial と knot contact homology の augmentation polynomial の等価性が導かれるらしい.
 - [Ekholm-Ng 2020]
@@ -39,17 +33,26 @@ permalink: /related-papers/
   - topological vertex の HOMFLY-PT skein module を使った幾何的な解釈に関する skein-valued mirror を考えている. Calabi-Yau $3$-fold $X$ の中の Lagrangian boundary condition $L$ を満たす holomorphic curve の数え上げの全ての種数に関する分配関数 $Z_{X,L}$ が $L$ の HOMFLY-PT skein module の完備化に値を取る関数として定義される. この分配関数を零化する operator $A_{X,L}$ を $\partial L\times\mathbb{R}$ のスケイン代数の中で考える. これを skein-valued mirror と読んでいる. $AJ$ 予想における $A$ 多項式. [Ekholm-Shende] の共著の流れ.
 
 ### Goldman Lie 代数
-
 - [Gekhtman-Rogozinnikov 2024+]
   - marked surface の framed fundamental groupoid の亜群環上で定義された double quasi-Poisson bracket. marked point が一点の場合は [Massuyeau-Turaev 2014] のもの. Goldman Lie algebra の non-commutative generalization. non-commutative cluster algebra とも関係がある.
 - [Fairon's homepage](https://mfairon.perso.math.cnrs.fr/DoubleBrackets.html)
-  - Double bracket　に関する文献がまとめられている.
+  - Double bracket に関する文献がまとめられている.
+- [Riegel 2024+]
+  - chaing level での Chas-Sullivan product について.
 
 ### 写像類群, 自由群, 自由 Lie 代数
 - [Aramayone-Vlamis 2020]
    - Big mapping class group に関するまとめ. 曲面が有限型でないとき, quasi-conformal mapping class group と big maping class group は一致しない. どれくらい差があるのか気になる.
 - [Neretin 2024+]
   - 実自由 Lie 代数とその BCH series から得られるリー群について, その稠密な部分群を考えている.
+
+### braid 群, Coxeter 群
+- [Davis 2008]
+  - Coxeter 群の教科書. 約 600 pages.
+- [Cohen 2008]
+  - Coxeter 群のレクチャーノート.
+- [Elias-Williamson 2017]
+  - Coxeter 群の図による表示. Soergel bimodule と関係する.
 
 ### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
@@ -274,14 +277,12 @@ permalink: /related-papers/
   - $E_8$ の web 圏.
 - [Savage-Westbury 2022+]
   - $F_4$ の web 圏.
-- [Brundan 2017+]
-  - Oriented skein category という HOMFLY-PT スケインに対応するリボン圏.
 - [Fuchs-Schweigert-Yang 2023+]
   -  pivotal bicategory に対する string-net model. 曲面上のダイアグラム圏についての記述あり.
 - [JonesC 2016]
   - generic $q$ での $G_2$ web の $C^\ast$-structure, property (T), triangle presentations. $7$ 次元表現の具体的な ONB を与えている.
 - [JonesC 2021]
-  - $SL_n^{-}$ の　web 圏と $SL_n$ の tilting module. $\mathrm{Web}(SL_n^{-})$ と $\mathrm{Web}(SL_n^{+})$ は cap との対応で $(-1)$ のズレがある. (Frobenius-Schur indicator とか?)
+  - $SL_n^{-}$ の web 圏と $SL_n$ の tilting module. $\mathrm{Web}(SL_n^{-})$ と $\mathrm{Web}(SL_n^{+})$ は cap との対応で $(-1)$ のズレがある. (Frobenius-Schur indicator とか?)
 - [Tubbenhauer-Wedrich 2021]
   - 素数 $p$ に付随する quiver を構成し, その path algebra が標数 $p$ の $SL_2$ の tilting module の圏のなす代数と同型であることを示している. mod $p$ Jones-Wenzl projector.
 - [Sutton-Tubbenhauer-Wedrich-Zhu 2023]
@@ -290,12 +291,30 @@ permalink: /related-papers/
   - $G_2$ web を用いたブレイド群から $7$ 次元表現の tensor power への表現の全射性. [Lehrer-Zhang 2006] からも得られる結果の別証明.
 - [Brown-Kujawa 2021]
   - Lie superalgebra type $Q$ の web 圏.
-- [Song-Weng 2024+]
+- [Song-Weng 2024a+]
   - Affine web 圏とその cyclotomic quotient 圏. また, 有限 $W$-代数との関係も記述している.
+- [Song-Weng 2024b+]
+  - Affine web 圏と affine Schur 圏について. cyclotomic quotient などとの対応もある.
 - [Kenyon-Wu 2024+]
   - $Sp(2n)$-web の $2n$-valent vertex と determinant の関係について. pants や torus の基底（？）を考えている. $Sp(4)$ の Dehn-Thuston coordinate を考えるときに使えそう.
 - [Lafay-Gainutdinov-Jacobsen 2023]
   - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
+- [Bodish-RobertLH-Wagner 2025+]
+  - type $D$ の web (MOY) の生成元と関係式.
+
+### スケイン圏
+- [JonsonFreyd 2021]
+  - Heisenberg-picture field theory, skein category and factrization algebra を用いる.
+- [AlQasimi-Stokman 2021]
+  - Skein category, affine TL algebra のアニュラスによる実現や [Roger-Yang 2014] のスケインとの関係が書かれている.
+- [Haioun 2022]
+  - [BenZvi-Brochier-Jordan 2018] や [Gunningham-Jordan-Safronov 2022] の internal skein algebra (skein category の free cocompletion) を boundary 付きに一般化したものと, [Costantino-Le 2019+] の stated skein algebra との対応.
+- [Brundan 2017+]
+  - Oriented skein category という HOMFLY-PT スケインに対応するリボン圏.
+- [Brown-Haioun 2024+]
+  - non-semisimple でのスケイン圏について.
+- [Araujo-Guu-Hudson 2025+]
+  - 代数上のテンソルを圏化した balanced tensor product (Deligne tensor product の一般化) の topological な構成を skein category を用いて行っている.
 
 ## web bases for symmetric groups
 - [Russell-Tymoczko 2011]
@@ -429,6 +448,10 @@ permalink: /related-papers/
   - $C^{\vee}C_n$ 型 DAHA で Koornwinder polynomials に関する Macdonald の予想. generalized DAHA (GDAHA) ($\tilde{D}_4$, $\tilde{E}_6$,$\tilde{E}_7$, $\tilde{E}_8$) に関して. $\tilde{D}_4$ のときに braid 群の quotient としての実現を行っている. 色々と書いている.
 - [Chalykh-Ryan 2024+]
   - $C^{\vee}C_n$ 型 DAHA $\mathcal{H}_{q,\tau}$ の spherical subalgebra $e_{\tau}\mathcal{H}_{q,\tau}e_{\tau}$ について $4$-punctured sphere 上の flat $GL_{2n}(\mathbb{C})$-local system のモジュライ $\mathcal{M}_n$ の関数環との同型 $e_{\tau}\mathcal{H}_{1,\tau}e_{\tau}\cong\mathbb{C}[\mathcal{M}_n]$ を示した. スケイン代数を使ったら $q$ でいけそう. [Etingof-Gan-Oblomkov 2006] も参照.
+- [Huang-Nawata-Zhang-Zhuang 2024+]
+  - $C^{\vee}C_1$ 型の spherical DAHA の表現について brane quantization を用いて調べている.
+- [HuangHW 2024+]
+  - root of unity における universal Askey-Wilson algebra の有限次元 Verma module について.
 
 
 ### Soergel bimodule, Soergel calculus
