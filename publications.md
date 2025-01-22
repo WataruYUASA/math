@@ -12,7 +12,7 @@ permalink: /pub/
 
 |||||
 |--:|:--|:--:|:--:|
-|[12]|*Skein and cluster algebras with coefficients for unpunctured surfaces* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"} and [Shunsuke Kano](https://sites.google.com/view/shunsuke-kano){:target="_blank"})|submitted|[arXiv](https://arxiv.org/abs/2312.02861){:target="_blank"}|
+|[12]|*Skein and cluster algebras with coefficients for unpunctured surfaces* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"} and [Shunsuke Kano](https://sites.google.com/view/shunsuke-kano){:target="_blank"})|to appear in International Mathematics Research Notices|[arXiv](https://arxiv.org/abs/2312.02861){:target="_blank"}|
 |[11]|*Skein and cluster algebras of unpunctured surfaces for $\mathfrak{sp}_{4}$* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"})|submitted|[arXiv](https://arxiv.org/abs/2207.01540){:target="_blank"}|
 |[10]|*Skein and cluster algebras of unpunctured surfaces for $\mathfrak{sl}_{3}$* (with [Tsukasa Ishibashi](https://sites.google.com/view/tsukasa-ishibashi/home){:target="_blank"})|[Mathematische Zeitschrift (2023)](https://link.springer.com/article/10.1007/s00209-023-03208-7){:target="_blank"}|[arXiv](https://arxiv.org/abs/2101.00643){:target="_blank"}|
 |[9]|*The zero stability for the one-row colored $\mathfrak{sl} _ 3$ Jones polynomial.*|to appear in Algebra & Geometric Topology|[arXiv](https://arxiv.org/abs/2007.15621){:target="_blank"}|
