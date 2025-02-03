@@ -35,8 +35,7 @@ Quantum Topology, Knot theory, Mapping class groups, etc.
 |2018-04 -- 2019-03|Part-time researcher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara [15H05739](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05739/))*|
 |2018-04 -- 2019-03|Assistant Teaching Staff, *Department of Mathematics, Graduate School of Science, Kyoto University*|
 |2017-10 -- 2018-03|Tokyo Institute of Technology postdoctoral researcher, *Department of Mathematics, School of Science, Tokyo Institute of Technology*|
-|2012-04 -- 2015-03|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|  
-
+|2012-04 -- 2015-03|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|
 
 |||
 |:--|:--|
