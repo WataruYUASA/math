@@ -20,7 +20,7 @@ Program-Specific Assistant Professor at [Graduate School of Science, Division of
 ---
 
 ## Research Interests
-Quatnum Topology, Knot theory, Mapping class groups, etc.
+Quantum Topology, Knot theory, Mapping class groups, etc.
 
 ## Bio
 
