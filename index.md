@@ -11,7 +11,7 @@ layout: home
 
 **Wataru Yuasa**
 
-Program-Specific Assistant Professor at [Graduate School of Science, Division of Mathematics and Mathematical Sciences](https://www.math.kyoto-u.ac.jp/en), Kyoto University
+Program-Specific Assistant Professor at [Graduate School of Science, Department of Mathematics](https://www.math.kyoto-u.ac.jp/en), Kyoto University
 
 *mail*: yuasa.wataru.6m(at)kyoto-u.ac.jp  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1215568),
@@ -26,13 +26,14 @@ Quantum Topology, Knot theory, Mapping class groups, etc.
 
 |||
 |:--|:--|
-|2023-05 -- present| Program-Specific Assistant Professor, *Graduate School of Science, Division of Mathematics and Mathematical Sciences, Kyoto University*|
+|2023-05 -- present| Program-Specific Assistant Professor, *Graduate School of Science, Department of Mathematics, Kyoto University*|
 |2022-04 -- present| Postdoctoral researcher (additional post member), *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
-|2023-04 -- 2023-04| Part-time researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
-|2022-06 -- 2023-04| Part-time researcher (拠点担当), *Research Institute of  Mathematical Sciences, Kyoto University*|
+|2023-04 -- 2023-04| Program-Specific Researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
+|2022-06 -- 2023-04| Program-Specific Researcher (拠点担当), *Research Institute of  Mathematical Sciences, Kyoto University*|
 |2022-04 -- 2022-05| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
 |2019-04 -- 2022-03|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
 |2018-04 -- 2019-03|Part-time researcher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara [15H05739](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05739/))*|
+|2018-04 -- 2019-03|Assistant Teaching Staff, *Department of Mathematics, Graduate School of Science, Kyoto University*|
 |2017-10 -- 2018-03|Tokyo Institute of Technology postdoctoral researcher, *Department of Mathematics, School of Science, Tokyo Institute of Technology*|
 |2012-04 -- 2015-03|Japan Society for the Promotion of Science research fellow (DC1), *Department of Mathematics, Tokyo Institute of Technology, (Mentor: Hisaaki Endo)*|  
 
