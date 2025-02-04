@@ -54,6 +54,10 @@ permalink: /related-papers/
 - [Elias-Williamson 2017]
   - Coxeter 群の図による表示. Soergel bimodule と関係する.
 
+### 結び目群, $3$ 次元多様体の基本群
+- [MontesinosAmilibia-Lozano 2021]
+  - entries が代数的数からなる指数有限部分群にもつ行列群. Orbifolds の基本群など.
+
 ### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
