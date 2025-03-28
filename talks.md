@@ -11,6 +11,8 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[38]|微分トポロジー'25<br>*線形スケイン理論 2.*|2025-03-09<br>立命館大学|
+|[37]|Random topics on Teichm\"uller theory III<br>*曲面の高階スケイン代数.*|2025-01-15<br>武蔵野美術大学|
 |[36]|拡大KOOKセミナー2024<br>*Stated and clasped skein algebras for $G_2$*|2024-08-21<br>あいめっせホール(兵庫県姫路市)|
 |[35]|Advances in Cluster Algebras 2024<br>*Skein and cluster algebras with coefficients for unpunctured surfaces*|2024-03-13<br>Nagoya University|
 |[34]|Geometry, Algebra and Physics Seminar at KIAS<br>*State-clasp correspondence of skein algebras*|2023-06-29<br>KIAS (**ONLINE**)|
@@ -53,7 +55,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[16]|京大数学談話会<br>*スケイン代数と量子クラスター代数*|2024-05-15<br>京都大学数理解析研究所<br>[slide](material/slide_KyotoDanwakai.pdf)|
+|[16]|京大数学談話会<br>*高階スケイン代数と量子クラスター代数*|2024-05-15<br>京都大学数理解析研究所<br>[slide](material/slide_KyotoDanwakai.pdf)|
 |[15]|Friday Seminar on Knot Theory<br>*State-clasp correpondence for skein algebras.*|2022-12-02<br>Osaka Metropolitan University|
 |[14]|南大阪代数セミナー<br>*Skein and cluster algebras of unpunctured surfaces for $\mathfrak{sp}_4$.*|2022-07-19<br>Osaka Metropolitan University<br>**(ONLINE)**<br>[slide](material/slide_Modseminar.pdf)|
 |[13]|大阪大学トポロジーセミナー<br>*Skein and cluster algebras of marked surfaces without punctures for $\mathfrak{sp}_4$.*|2022-05-18<br>Osaka University<br>**(ONLINE)**<br>[slide](material/slide_OsakaUnivTop20220.pdf)|
