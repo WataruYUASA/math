@@ -7,13 +7,13 @@
 #
 layout: home
 ---
-(update:2025-2-1)
+(update:2025-4-1)
 
 **Wataru Yuasa**
 
-Program-Specific Assistant Professor at [Graduate School of Science, Department of Mathematics](https://www.math.kyoto-u.ac.jp/en), Kyoto University
+Postdoctoral researcher at [Osaka Central Advanced Mathematical Institute (OCAMI)](https://www.omu.ac.jp/orp/ocami-en/), Osaka Metropolitan University
 
-*mail*: yuasa.wataru.6m(at)kyoto-u.ac.jp  
+*mail*: w.yuasa@gmail.com  
 [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1215568),
 [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=WXyFD1wAAAAJ)
 
@@ -26,8 +26,8 @@ Quantum Topology, Knot theory, Mapping class groups, etc.
 
 |||
 |:--|:--|
-|2023-05 -- present| Program-Specific Assistant Professor, *Graduate School of Science, Department of Mathematics, Kyoto University*|
-|2022-04 -- present| Postdoctoral researcher (additional post member), *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
+|2025-04 -- present| Postdoctoral researcher, *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
+|2023-05 -- 2025-03| Program-Specific Assistant Professor, *Graduate School of Science, Department of Mathematics, Kyoto University*|
 |2023-04 -- 2023-04| Program-Specific Researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
 |2022-06 -- 2023-04| Program-Specific Researcher (拠点担当), *Research Institute of  Mathematical Sciences, Kyoto University*|
 |2022-04 -- 2022-05| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
