@@ -7,31 +7,33 @@
 #
 layout: home
 ---
-(update:2025-4-26)
+(update:2025-5-2)
 
 **Wataru Yuasa**
 
-Postdoctoral researcher at [Osaka Central Advanced Mathematical Institute (OCAMI)](https://www.omu.ac.jp/orp/ocami-en/), Osaka Metropolitan University
+Postdoctoral researcher at [International Institute for Sustainabilitywith Knotted Chiral Meta Matter (SKCM2)](https://www.omu.ac.jp/orp/ocami-en/), Hiroshima University
 
-*mail*: w.yuasa@gmail.com  
+*mail*: w.yuasa@gmail.com, wyuasa@hiroshima-u.ac.jp
+
 [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1215568),
 [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=WXyFD1wAAAAJ)
 
 ---
 
 ## Research Interests
-Quantum Topology, Knot theory, Mapping class groups, etc.
+Quantum Topology, Skein theory, Knot theory, Mapping class groups, Knotoids etc.
 
 ## Bio
 
 |||
 |:--|:--|
-|2025-04 -- present| Postdoctoral researcher, *OCAMI, Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
+|2025-04 -- 2025-04| Postdoctoral researcher, *International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2), Hiroshima University, (Mentor: Yuka Kotorii)*|
+|2025-04 -- 2025-04| Postdoctoral researcher, *Osaka Central Advanced Mathematical Institute (OCAMI), Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
 |2023-05 -- 2025-03| Program-Specific Assistant Professor, *Graduate School of Science, Department of Mathematics, Kyoto University*|
 |2023-04 -- 2023-04| Program-Specific Researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
-|2022-06 -- 2023-04| Program-Specific Researcher (拠点担当), *Research Institute of  Mathematical Sciences, Kyoto University*|
-|2022-04 -- 2022-05| Part-time researcher, *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
-|2019-04 -- 2022-03|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences, Kyoto University, (Mentor: Tomotada Ohtsuki)*|
+|2022-06 -- 2023-04| Program-Specific Researcher (拠点担当), *Research Institute of  Mathematical Sciences (RIMS), Kyoto University*|
+|2022-04 -- 2022-05| Part-time researcher, *Research Institute of  Mathematical Sciences (RIMS), Kyoto University, (Mentor: Tomotada Ohtsuki [16H02145](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02145/))*|
+|2019-04 -- 2022-03|Japan Society for the Promotion of Science research fellow (PD), *Research Institute of  Mathematical Sciences (RIMS), Kyoto University, (Mentor: Tomotada Ohtsuki)*|
 |2018-04 -- 2019-03|Part-time researcher, *Department of Mathematics, Graduate School of Science, Kyoto University, (Mentor: Koji Fujiwara [15H05739](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05739/))*|
 |2018-04 -- 2019-03|Assistant Teaching Staff, *Department of Mathematics, Graduate School of Science, Kyoto University*|
 |2017-10 -- 2018-03|Tokyo Institute of Technology postdoctoral researcher, *Department of Mathematics, School of Science, Tokyo Institute of Technology*|
