@@ -11,7 +11,7 @@ layout: home
 
 **Wataru Yuasa**
 
-Postdoctoral researcher at [International Institute for Sustainabilitywith Knotted Chiral Meta Matter (SKCM2)](https://www.omu.ac.jp/orp/ocami-en/), Hiroshima University
+Postdoctoral researcher at [International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2)](https://www.omu.ac.jp/orp/ocami-en/), Hiroshima University
 
 *mail*: w.yuasa@gmail.com, wyuasa@hiroshima-u.ac.jp
 
