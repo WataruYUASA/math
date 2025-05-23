@@ -31,6 +31,10 @@ permalink: /related-papers/
   - Annulus の $SL(n)$-スケイン代数が $n-1$ 変数多項式環と同型であることを示している。生成元は $i$ と $n-i$ で色付けされた $2$ 点付きの loop. $q$ はある程度 order が大きな root of unity でも OK.
 - [Ekholm-Longhi-Shende 2024+]
   - topological vertex の HOMFLY-PT skein module を使った幾何的な解釈に関する skein-valued mirror を考えている. Calabi-Yau $3$-fold $X$ の中の Lagrangian boundary condition $L$ を満たす holomorphic curve の数え上げの全ての種数に関する分配関数 $Z_{X,L}$ が $L$ の HOMFLY-PT skein module の完備化に値を取る関数として定義される. この分配関数を零化する operator $A_{X,L}$ を $\partial L\times\mathbb{R}$ のスケイン代数の中で考える. これを skein-valued mirror と読んでいる. $AJ$ 予想における $A$ 多項式. [Ekholm-Shende] の共著の流れ.
+- [Brown-Jordan 2025+]
+  - Parabolic skein module. surface defect をもつ 3 次元多様体のスケイン加群を導入している. Jordan たちが定義していた quantum character stack の一般化？ 各領域でそれぞれスケイン関係式が定義されている. quantum $A$-polynomial に関係する結び目の不変量も定義しているらしい.
+- [Costantino-Faitg 2025+]
+  - braided category $\mathcal{C}$ にたいして, half braided algebra とその bimodule の圏を与えている. $\mathcal{C}$ として ribbon Hopf algebra 上の加群の圏を取ると, stated skein algebra が TQFT として書ける.
 
 ### Goldman Lie 代数
 - [Gekhtman-Rogozinnikov 2024+]
@@ -320,7 +324,7 @@ permalink: /related-papers/
 - [Araujo-Guu-Hudson 2025+]
   - 代数上のテンソルを圏化した balanced tensor product (Deligne tensor product の一般化) の topological な構成を skein category を用いて行っている.
 
-## web bases for symmetric groups
+### web bases for symmetric groups
 - [Russell-Tymoczko 2011]
   - Khovanov Springer variety の Springer 表現.
 - [Housley-Russell-Tymoczko 2015]
@@ -347,6 +351,8 @@ permalink: /related-papers/
 ### Hopf 代数
 - [Deconcini-Procesi-Reshetikhin-Rosso 2005]
   - Hopf 代数 with trace and representations, root of unity での CG-係数.
+- [Kashaev-Mangazeev 2025+]
+  - 外積代数に braided Hopf algebra の構造の one-parameter family を定義している. この構造は Nichols algebra との同一視から与えられる. Kuperberg の rank 2 spider や MOY graph calculus に inspire されている. ここで構成された $R$ 行列を用いて long knot の不変量を構成すると, $U_q(\mathfrak{gl}(N|1))$ から構成される Links-Gould invariant が得られるという予想がある.
 
 ### 量子座標環, 量子群, $R$ 行列
 - [Joseph 1995]
