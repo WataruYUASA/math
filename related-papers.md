@@ -35,6 +35,8 @@ permalink: /related-papers/
   - Parabolic skein module. surface defect をもつ 3 次元多様体のスケイン加群を導入している. Jordan たちが定義していた quantum character stack の一般化？ 各領域でそれぞれスケイン関係式が定義されている. quantum $A$-polynomial に関係する結び目の不変量も定義しているらしい.
 - [Costantino-Faitg 2025+]
   - braided category $\mathcal{C}$ にたいして, half braided algebra とその bimodule の圏を与えている. $\mathcal{C}$ として ribbon Hopf algebra 上の加群の圏を取ると, stated skein algebra が TQFT として書ける.
+- [Garoufalidis-Harper-Kashaev-Kohli-Song-Tahar 2025+]
+  - Links-Gould 多項式に関するスケイン理論. [Marin-Wagner 13] の仕事を拡張するもの. 3つのスケイン関係式からなるが, 3つ目が非常に複雑で80項以上ある. [Ishii 04 Proc.~AMS] のスケイン関係式も参照.
 
 ### Goldman Lie 代数
 - [Gekhtman-Rogozinnikov 2024+]
@@ -49,6 +51,8 @@ permalink: /related-papers/
    - Big mapping class group に関するまとめ. 曲面が有限型でないとき, quasi-conformal mapping class group と big maping class group は一致しない. どれくらい差があるのか気になる.
 - [Neretin 2024+]
   - 実自由 Lie 代数とその BCH series から得られるリー群について, その稠密な部分群を考えている.
+- [Hamenstädt 2025+]
+  - 写像類群の境界の構成. torsion free 有限生成群に対して $Z$-structure というものを考えており, この境界は写像類群の torsion free 有限指数部分群の $Z$-structure の境界.
 
 ### braid 群, Coxeter 群
 - [Davis 2008]
@@ -87,6 +91,10 @@ permalink: /related-papers/
   - $A$-多項式を導入.
 - [Tran thesis]
   - $AJ$-予想について.
+- [Galakhov-Morozov 2024+]
+  - Chern-Simons theory における Ward 恒等式（結び目の言葉では quantum $A$-多項式, quantum $C$-多項式）の幾何的構成.
+- [Galakhov-Morozov 2025+]
+  - [Galakhov-Morozov 2024+] の続き. Kuperberg bracket を用いた $A$-多項式の幾何的構成. なんとなく [Murakami-VanDerVeen] の結び目の量子指標多様体の構成と似ている絵がある. 
 
 ### Quantum trace
 - [KimHK-LeTTQ-Son 2023+]
@@ -157,6 +165,8 @@ permalink: /related-papers/
   - 曲面の対称積の中の Lagrangians の graded intersection paring で色付きジョーンズ多項式やアレキサンダー多項式を実現している. 統一的なトポロジカルモデルの構成.
 - [Anghel 2023]
   - WRT 不変量のトポロジカルモデル.
+- [Anghel 2025+]
+  - $ADO$ invariant と Jones 多項式を統一する universal link invariant の幾何的な構成.
 - [Eisermann-Lamm 2011]
   - symmetric union についての Jones 多項式の refinment を Kauffman bracket を用いて構成している.
 - [TanakaT 2022]
@@ -188,9 +198,13 @@ permalink: /related-papers/
 - [Khudoteplov-Lanina-Sleptsov 2024+]
   - Vogel algebra, Lie algebra weight system を乗せたときの Kernel を調べている.
 
-### universal 量子不変量, cyclotomic 展開
+### universal 量子不変量, cyclotomic 展開, Habiro ring
 - [Habiro 2006]
   - Bottom tangle, リボンホップ代数から得られる universal invariant.
+- [Garoufalidis-Scholze-Wheeler-Zagier 2024+]
+  - Number field の Habiro ring.
+- [Garoufalidis-Wheeler 2025+]
+  - Habiro cohomology. $3D$-index, $D$-module とか色々関係しているようで難しそう.
 
 ### 量子不変量の圏化
 - [Conners 2024+]
