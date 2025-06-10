@@ -66,6 +66,10 @@ permalink: /related-papers/
 - [MontesinosAmilibia-Lozano 2021]
   - entries が代数的数からなる指数有限部分群にもつ行列群. Orbifolds の基本群など.
 
+### その他, トポロジーに関係する群
+- [Sakasai-Tadokoro-Tanaka 2025+]
+  - Kim-Munturov によって定義された群 $\Gamma_n^4$ のリフト $\hat{\Gamma}_n^4$ を調べている. $\Gamma_n^{4}$ は多角形のフリップで生成される群で五角関係式などがある. $\hat{\Gamma}_n^{4}$ はフリップに向きを入れて考えることで「非可換化」をしている. 最小の生成集合やコホモロジーの計算など. これは $\mathfrak{sl}_2$ の曲面に付随するクラスター代数における exchange graph から作られる群だと思うので, 一般のリー群に関しても同じような群が定義できるだろう. ハットバージョンは非可換クラスター代数に対応してると面白そうだが.
+
 ### Representation Variety, Character variety, Moduli space of Local systems
 - [Hausener-Munoz-Porti 2016]
   - Figure eight knot の $SL(3,\mathbb{C})$-character vartiety.
@@ -81,6 +85,10 @@ permalink: /related-papers/
   - connected reductive group $G$ について, 有限生成群の $G$-character variety の Newton-Okounkov polyhedra を 考えている.
 - [Esnault 2023]
   - 数論的な local systems に関するレクチャーノート.
+
+### Painlevé VI
+- [Cantat-Loray 2007+, 2009]
+  - 4 点穴開き球面について, 写像類群の (elliptic involution に関係する) ある部分群の character variety への作用を調べることで, Painlevé VI equatoin の irreducibility を示している.
 
 ### Quandle, Rack, 圭
 - [Andruskiewitsch-Grana 2003]
@@ -237,6 +245,8 @@ permalink: /related-papers/
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
   - 上下が交互に並んだ多角形領域における交差交換. この $n$-gon move は unknotting operation.
+- [Cheng-Song 2025+] 
+  - unorientable surface 上の link diagrams を up to region crossing change で分類している.
 
 ### $4$-move conjecture
 - [Dabkowski-Sahi 2007]
