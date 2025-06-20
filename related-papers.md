@@ -93,6 +93,8 @@ permalink: /related-papers/
 ### Quandle, Rack, 圭
 - [Andruskiewitsch-Grana 2003]
   - rack や その extension が現れる. Alexander quandle の一般化に用いられる Alexander pairing に対応するものが定義されているらしい. この論文では pointed Hopf algebra を調べるために braided vector space の 有限次元 Nicolas algebra を扱っている. braided vector space を作る際に rack で生成されるベクトル空間を $2$-cocyle で捻ったものをつかう.
+- [Akita-Shikata 2025+]
+  - symmetric quandle の associated group について.
 
 ### $A$-多項式
 - [Cooper-Culler-Gillet-Long-Shalen 94]
@@ -113,6 +115,8 @@ permalink: /related-papers/
   - タイヒミュラー空間における正則二次微分の幾何学. 接空間の接空間.
 - [ElEman-Sagman 2024+]
   - $SL(3,\mathbb{C})$ における Bers の同時一意化定理.
+- [ElEman-Sagman 2025+]
+  - rank $2$ における higer Teichmuller theory についての複素解析的な理論.
 
 ### 幾何群論
 - [Poulsen 2024+]
@@ -156,6 +160,10 @@ permalink: /related-papers/
 - [Brown-Haioun 2024+]
   - non-semisimple でのスケイン圏について.
 
+### Chern-Simons 理論
+- [Guadagnini-Martellini-Mintchev 1989]
+  - 2点相関関数から linking number と関係しているという話が気になって教えてもらった. [Polyakov 1988] の $(2+1)$-次元可換ゲージ理論の論文を見るべきらしいが手元にない.
+
 ### Lattice gauge theory
 - [Meusburger 2017]
   - Hopf algebra valued lattice gauge theory. Hopf algebra $H$ について, $H$-$\mathrm{Mod}$ に対する Turaev-Viro TQFT と Dorinfeld double $D(H)$ に対する Reshetikhin-Turaev TQFT との関係の Hamiltonian analogue が $H$ に対する Kitaev model と $D(H)$ に対する Chern-Simons gauge theory の combinatorial quantisation. Kitaev model の protected space の作用素のなす代数と quantum moduli algebra が同型である.
@@ -181,6 +189,8 @@ permalink: /related-papers/
   - symmetric union の Jones 多項式の公式. 系として root of unity における Jones 多項式の積への分解公式が得られる. 
 - [Cherednik 2024+]
   - algebraic knot の motivic superpolynomial について. $A_1$ の場合は DAHA-Jones polynomial. plane curve singularity の $L$-functions などに関係している. [Cherednik 2013,2015,2018] や [Cherednik-Danilenko 2016, 2017+] [Cherednik-Eliot] など DAHA-Jones polynomial に関する内容もまとまっていそう.
+- [Weitsman 2024+]
+  - $\mathbb{R}^3$ 上の Chern-Simons ゲージ理論において, formal functional integral の明示的な計算を行っている. $G=U(1)$ のときに linking number が出てきたり, $G=SU(2)$ のときに Jones 多項式に関連するスケイン関係式（たぶん Dubrovnik 多項式のスケイン関係式）が出てきたりしているらしい. わかりたい.
 
 ### Harer-Zagier formula
 - [Morozov-Popliton-Shakirov 2021]
@@ -195,6 +205,8 @@ permalink: /related-papers/
   - twist knots $K_p$ に沿った整数係数の $q$-手術から得られる $3$-manifolds  $M,{p,q}$ の Reshetikhin-Turaev 不変量について $t=\exp(4\pi\sqrt{-1}/r)$ with odd $r$ で漸近展開を鞍点法により調べている. 系として $\lim_{r\to\infty} (4\pi/r)\log RT_r(M_{p,q};t)=\mathrm{Vol}(M_{p,q})+\sqrt{-1}\mathrm{CS}(M_{p,q}) \mod \pi^2\sqrt{-1}\mathbb{Z}$ が示されている.
 - [Garoufalidis-Scholze-Wheeler-Zagier 2024+]
   - Garoufalidis-Zagier の一連の仕事の延長っぽい. 葉廣環, Kontsevich-Soibelman series, Donaldson-Thomas invariants.
+- [Ibarra-Mcquire-Purcell 2025+]
+  - Turaev-Viro に関する体積予想を octahedral fully augumented links について解決している.
 
 ### Vol-Det 予想
 - [Egorov-Vesnin 2024+]
@@ -333,6 +345,8 @@ permalink: /related-papers/
   - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
 - [Bodish-RobertLH-Wagner 2025+]
   - type $D$ の web (MOY) の生成元と関係式.
+- [Amarasinghe 2025+]
+  - $\mathfrak{sl}_3$-web の圏の rigid monoidal category としての表示.
 
 ### スケイン圏
 - [JonsonFreyd 2021]
