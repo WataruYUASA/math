@@ -410,7 +410,7 @@ permalink: /related-papers/
 - [Deconcini-Procesi-Reshetikhin-Rosso 2005]
   - Hopf 代数 with trace and representations, root of unity での CG-係数.
 - [Kashaev-Mangazeev 2025+]
-  - 外積代数に braided Hopf algebra の構造の one-parameter family を定義している. この構造は Nichols algebra との同一視から与えられる. Kuperberg の rank 2 spider や MOY graph calculus に inspire されている. ここで構成された $R$ 行列を用いて long knot の不変量を構成すると, $U_q(\mathfrak{gl}{(N|1)})$ から構成される Links-Gould invariant が得られるという予想がある.
+  - 外積代数に braided Hopf algebra の構造の one-parameter family を定義している. この構造は Nichols algebra との同一視から与えられる. Kuperberg の rank 2 spider や MOY graph calculus に inspire されている. ここで構成された $R$ 行列を用いて long knot の不変量を構成すると, $U_q(\mathfrak{gl}(N\mid 1))$ から構成される Links-Gould invariant が得られるという予想がある.
 
 ### 量子座標環, 量子群, $R$ 行列
 - [Joseph 1995]
