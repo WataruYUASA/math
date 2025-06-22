@@ -240,7 +240,7 @@ permalink: /related-papers/
 - [Ehrig-Stroppel 2017]
   - $OSP(r\vert 2n)$ の有限次元表現の圏について. type $D$ Khovanov algebra と関係がある.
 
-### その他, 結び目やその類似の多項式不変量など
+### その他, 結び目の多項式不変量など
 - [Jablonowski 2024+]
   - 交代結び目の不変量の構成. Black region と White region それぞれに関して Tait graph を 2 つ構成する. 各 edge について交点の正負で weight ($2$ 変数) を assign する. 長さ $l$ の各 cycle について weight の積をとって足し合わせると $2$ 変数多項式が得られて, 不変量になっている. いくつかの kont で HOMFLY-PT や Kauffman polynomial などが得られることが確かめられている.
 - [GorskyM-Haiden 2024]
@@ -279,6 +279,26 @@ permalink: /related-papers/
   - $\theta$-curve の Jaeger polynomial の specialization と Jones polynomial の関係を subknots を使って記述. この specialization はたぶん $\mathfrak{sp}_4$ web から得られる. 
 - [Oshmarina-Vesnin 2024+]
   - 完全グラフの Yamada polynomial と Jaeger polynomial と Jones polynomial の関係. Jaeger の Bar diagram と Kauffman (Dubroniv) polynomial を使った構成.
+
+### knotoid などの knot の一般化
+- [Turaev 2012]
+  - knotoid の導入. knotoid の性質と knot との基本的な対応について.
+- [Gugumcu-Lambropoulou 2021]
+  - braidoid の導入. braidoid の closure を定義し, braidoid に対する Alexander の定理と Markov の定理を証明している.
+- [Kodokostas-Lambropoulou 2019]
+  - knotoid に対する幾何的対象である rail knotoid の定義.
+- [Kodokostas-Lambropoulou 2021+]
+  - knot の不変量の拡張となる rail knotoids の不変量の定義.
+- [Gugumucu-Kauffman-Pongtanapaisan 2024]
+  - spatial graphoid の導入. 1 価頂点を 2 つ持つ spatial graph であり, その 1 価頂点については arc の擦り抜けを禁止している. virtual crossing をもつ対象や, Yamada 多項式の一般化なども定義している.
+- [Adams-Bonat-Chande-Chen-Jiang-Romrell-Santiago-Shapiro-Woodruff 2022+]
+  - spatial graphoid のさらなる一般化. こちらは graph の頂点について arc を擦り抜けていい頂点とそうでない頂点の 2 種類を導入して spatial graphoid を考えている. 1 価頂点を 2 つに制限する理由が分からないので, こちらの一般化の方が自然に思える.
+- [Adams-Devadoss-Elhamdadi-Mashaghi 2020]
+  - knot theory for proteins と題しているが, singular knot とその変種について, 対応する quandle (singquandle, bondle) などを導入している.
+- [Chmutov-Deng-Monaghan-Lando-Moltmaker 2024+]
+  - knotoids や linkoids に対する Thistlethwaite theorem. knot における Jones polynomial と Tutte polynomial の対応を一般化した, knotoid における arrow polynomial と Bollobas-Riordan polynomial の対応関係.
+
+### knot theory の応用
 
 ### Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]
