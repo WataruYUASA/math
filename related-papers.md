@@ -151,6 +151,10 @@ permalink: /related-papers/
   - TQFT における line operator のなす圏を表す Hopf 代数の構成. spark algebra. cobordism, foam のようなものを使っていてとても面白そう.
 - [Gaiotto-LopezRaven-Silverans-Zeng 2024+]
   - $4$-dim $\mathcal{N}=2$ superconformal quiver gauge theory に付随する chairal algebra の 't Hooft expansion とかなんとか. 何もわからない.
+- [Zucchini 2022, 2023]
+  - Wilson surface の QFT representation に関する二部作.
+- [Tubbenhauer 2025+]
+  - Quantum topology without topology というレクチャーノート. 基本的な圏論的事項をまとめた上で quantum invariants について図的なアプローチを紹介している.
 
 ### non-semisimple TQFT
 - [Seminar on non-semisimple TQFTs](https://sites.google.com/site/psafronov/notes/non-semisimple-tqfts)
@@ -251,8 +255,6 @@ permalink: /related-papers/
   - $n$-color vertex polynomial という多項式の圏化を与えている. $n=3$ のときはペンローズ多項式と呼ばれるもの. だいたい, 上の論文のグラフの彩色数の母関数の圏化.
 - [Niebrzydowski-Przytycki 2013]
   - entropic magma という link や graph の不変量を定義している. Kauffman bracket の一般化として Kauffman bracket magma, Tutte 多項式の一般化として Tutte magma を定義している. magma $(A,\ast)$ と $A$ の Reidemeister moves に対応する関係式を満たす数列 $(a_n)$ を指定することで定義される. Skein tree に演算が対応しており, state から得られる loop の disjoint union に $(a_n)$ が対応する.
-- [Choi-Kim 2022]
-  - surface link に関する不変量を marked diagram を用いて Kauffman bracket magma を用いて構成している. 
 
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
@@ -271,6 +273,14 @@ permalink: /related-papers/
   - HOMFLY-PT 多項式と Kauffman 多項式による $t_k$-move に関する不変量.
 - [Przyticki 2016]
   - $12$ 交点のある絡み目が $4$-move によって Hopf link に変形できることを示している. これによって $12$ 交点以下の全ての $2$ 成分の交代絡み目が Hopf link か trivial link に変形できることが確かめられた.
+
+### surface knot, link
+- [Choi-Kim 2022]
+  - surface link に関する不変量を marked diagram を用いて Kauffman bracket magma を用いて構成している. 
+- [Zucchini 2016]
+  - higher gauge theory における holonomy invariant とその higer Chern-Simons theory への応用についての二部作. I ではsurface knot の flat $2$-connection にたいして $2$-holonomy を定義している. II では crossed module 上の trace を考えている. Quandle crossed module の話もある.
+- [Zucchini 2019]
+  - Higer gauge theory における Wilson surface の holonomy から Surface knots に対する不変量を構成している？ 使っているのは quandle とその crossed module の理論.
 
 ### spatial graph
 - [Jaeger 1997]
@@ -299,6 +309,12 @@ permalink: /related-papers/
   - knotoids や linkoids に対する Thistlethwaite theorem. knot における Jones polynomial と Tutte polynomial の対応を一般化した, knotoid における arrow polynomial と Bollobas-Riordan polynomial の対応関係.
 
 ### knot theory の応用
+- [Alexander-Taylor-Dennis 2017]
+  - open curve を protein のモデルとして扱う. $S^2$ の normal vector をパラメータとする平面上へ open curve の射影が得られる. この射影の端点を結び、現れた交差を virtual crossing とすることで $S^2$ 上の virtual knots の geography が考えられる. ここでは virtual knots の分布と protein の関係を調べている.
+- [Barbensi-Goundaroulis 2021]
+  - $S^2$ 上の knotoid diagram に対してそれを theta graph の真ん中の edge とするような theta curve を構成している. そして, 付け加えた二辺で分岐するように strongly invertible knot を構成している. この構成の上で knotoind の forbidden move が knot のどういう操作に対応しているかを考察している. forbidden move distance (f-distance) と $H_2$-Gordian distance の比較などをして, 最後の protein への応用に少し触れている.
+- [Barbensi-Klotz-Gkountaroulis 2025+]
+  - knotoid の forbidden move を何回したら trivial になるかという unraveling number と open curve に対する $S^2$ 上の knotods の分布から得られる $\mathrm{AUN}$ という complexity を定義している. これはあまり正確に complexity を反映していないが, knotoid の short intervals でさらに $\mathrm{AUN}$ を積分して得られる $\mathrm{TUN}$ というものを考えると良いだろうという結果を得ている.
 
 ### Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]
