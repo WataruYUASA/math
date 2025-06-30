@@ -314,7 +314,10 @@ permalink: /related-papers/
 - [Barbensi-Goundaroulis 2021]
   - $S^2$ 上の knotoid diagram に対してそれを theta graph の真ん中の edge とするような theta curve を構成している. そして, 付け加えた二辺で分岐するように strongly invertible knot を構成している. この構成の上で knotoind の forbidden move が knot のどういう操作に対応しているかを考察している. forbidden move distance (f-distance) と $H_2$-Gordian distance の比較などをして, 最後の protein への応用に少し触れている.
 - [Barbensi-Klotz-Gkountaroulis 2025+]
-  - knotoid の forbidden move を何回したら trivial になるかという unraveling number と open curve に対する $S^2$ 上の knotods の分布から得られる $\mathrm{AUN}$ という complexity を定義している. これはあまり正確に complexity を反映していないが, knotoid の short intervals でさらに $\mathrm{AUN}$ を積分して得られる $\mathrm{TUN}$ というものを考えると良いだろうという結果を得ている.
+  - knotoid の forbidden move を何回したら trivial になるかという unravelling number と open curve に対する $S^2$ 上の knotods の分布から得られる avarage unravelling number $\mathrm{AUN}$ という complexity を定義している. これはあまり正確に complexity を反映していないが, open curve の任意の short intervals への制限で $\mathrm{AUN}$ を積分して得られる total unravelling number$\mathrm{TUN}$ というものを考えると良いだろうという結果を得ている. 結構、実験値との比較もしているように見える.
+- [Barkataki-Panagiotou 2025+]
+  - open/closed curves の Jones polynomial の計算時間を減らすようなアルゴリズム
+- []
 
 ### Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]
