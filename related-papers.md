@@ -155,6 +155,8 @@ permalink: /related-papers/
   - Wilson surface の QFT representation に関する二部作.
 - [Tubbenhauer 2025+]
   - Quantum topology without topology というレクチャーノート. 基本的な圏論的事項をまとめた上で quantum invariants について図的なアプローチを紹介している.
+- [Aamand-Kaufman 2024]
+  - 3d Chern-Simons theory における Wilson line について, Goncharov-Shen の局所系の moduli space との関係を調べている.
 
 ### non-semisimple TQFT
 - [Seminar on non-semisimple TQFTs](https://sites.google.com/site/psafronov/notes/non-semisimple-tqfts)
@@ -163,10 +165,6 @@ permalink: /related-papers/
   - non-semisimple, non-spherical な pivotal finite tensor category の string net による Turaev-Viro の一般化. Lyubashenko の modular functor が得られる.
 - [Brown-Haioun 2024+]
   - non-semisimple でのスケイン圏について.
-
-### Chern-Simons 理論
-- [Guadagnini-Martellini-Mintchev 1989]
-  - 2点相関関数から linking number と関係しているという話が気になって教えてもらった. [Polyakov 1988] の $(2+1)$-次元可換ゲージ理論の論文を見るべきらしいが手元にない.
 
 ### Lattice gauge theory
 - [Meusburger 2017]
@@ -216,11 +214,31 @@ permalink: /related-papers/
 - [Egorov-Vesnin 2024+]
   - twisted alternating knot についての Vol-Det conjecture.
 
-### LMO 不変量, Jacobi diagram
+### LMO 不変量, 有限型不変量, Vassiliev 不変量, Kontsevich 積分, 配置空間積分
 - [Enriquez-Vera 2024+]
   - 閉 $3$ 次元多様体の LMO 不変量についてのまとめ.
 - [Khudoteplov-Lanina-Sleptsov 2024+]
   - Vogel algebra, Lie algebra weight system を乗せたときの Kernel を調べている.
+- [Ferrari-Zhao 2014+]
+  - Monte Carlo 法を用いて degree $2$ の Vassiliev knot invariant を計算する手法が与えられている.
+- [DuninBarkowski-Sleptsov-Smirnov 2013]
+  - QFT による Kontsevich 積分を通した結び目理論へのアプローチに関する review. Vassiliev invariants や Kontsevich integral の係数について計算機による計算実験. writhe number に一般化にあたる colored (higher) writhe number について.
+- [Cappell-Lee-Miller 2002]
+  - $SU(3)$ における摂動展開から得られる Casson invariant について.
+- [Alvarez-Labastida 1995]
+  - いくつかの Jacobi diagram に対応する摂動展開の geometrical factor の積分表示が具体的に与えられている. これを引用している [delaCruzMoreno-GarciaCompean-LopezGonzalez 2021] の方がまとまっていて見やすい.
+- [delaCruzMoreno-GarciaCompean-LopezGonzalez 2021]
+  - Bott-Taubes integrals と Chern-Simons perturbative amplitudes の間の翻訳を $3$ 次の項まで行っている. Dylan Thurston の仕事の一部分の拡張になっている.
+- [ThurstonD 1999]
+  - Vassiliev knot invariants の積分表示について書かれた Dylan Thurston の thesis.
+
+### Chern-Simons 理論
+- [Guadagnini-Martellini-Mintchev 1989]
+  - 2点相関関数から linking number と関係しているという話が気になって教えてもらった. [Polyakov 1988] の $(2+1)$-次元可換ゲージ理論の論文を見るべきらしいが手元にない.
+- [Lanina-Sleptsov-Tselousov 2021]
+  - $SU(N)$ gauge group での Wilson loop の摂動展開を調べている. Universal enveloping algebra の中心の基底を与えている. この中心元による application によって higer order の Vassiliev invariants を計算導かれた colored HOMFLY 多項式の対称性に関する予想 tug-the-hook symmetry が証明されたという経緯がある.
+- [Moore 2019]
+  - TASI school の lecture note. Introduction to Chern-Simons theory.
 
 ### universal 量子不変量, cyclotomic 展開, Habiro ring
 - [Habiro 2006]
@@ -307,6 +325,14 @@ permalink: /related-papers/
   - knot theory for proteins と題しているが, singular knot とその変種について, 対応する quandle (singquandle, bondle) などを導入している.
 - [Chmutov-Deng-Monaghan-Lando-Moltmaker 2024+]
   - knotoids や linkoids に対する Thistlethwaite theorem. knot における Jones polynomial と Tutte polynomial の対応を一般化した, knotoid における arrow polynomial と Bollobas-Riordan polynomial の対応関係.
+- [Manousos-Lambropoulou-Kauffman 2021]
+  - knotoid の finite type invariants を knot closure を取る方法と, singular knotoid を考えることで定義している.
+- [Moltmaker 2022]
+  - framed spherical knotoids の定義と Reshetikhin-Turaev type の不変量の構成.
+- [Moltmaker-VanDerVeen 2023]
+  - knot measure という open curves からの function を定義している. これは端点が一致するときに, ある knot の不変量へと収束する. また, biframed knotoids に対して ribbon Hopf 代数から構成される universal quantum invariant を定義している.
+- [Tarkaev 2021]
+  - Knotoid に対する Casson 型の不変量の構成. [Polyak-Viro 2001] の構成を参考にしている.
 
 ### knot theory の応用
 - [Alexander-Taylor-Dennis 2017]
