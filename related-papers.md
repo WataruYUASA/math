@@ -222,7 +222,7 @@ permalink: /related-papers/
 - [Ferrari-Zhao 2014+]
   - Monte Carlo 法を用いて degree $2$ の Vassiliev knot invariant を計算する手法が与えられている.
 - [DuninBarkowski-Sleptsov-Smirnov 2013]
-  - QFT による Kontsevich 積分を通した結び目理論へのアプローチに関する review. Vassiliev invariants や Kontsevich integral の係数について計算機による計算実験. writhe number に一般化にあたる colored (higher) writhe number について.
+  - QFT による Kontsevich 積分を通した結び目理論へのアプローチに関する review. Vassiliev invariants や Kontsevich integral の係数について計算機による計算実験. writhe number の一般化 colored writhe number (chordに向きをつけたもの)や higher writhe number について書いている.
 - [Cappell-Lee-Miller 2002]
   - $SU(3)$ における摂動展開から得られる Casson invariant について.
 - [Alvarez-Labastida 1995]
@@ -231,6 +231,12 @@ permalink: /related-papers/
   - Bott-Taubes integrals と Chern-Simons perturbative amplitudes の間の翻訳を $3$ 次の項まで行っている. Dylan Thurston の仕事の一部分の拡張になっている.
 - [ThurstonD 1999]
   - Vassiliev knot invariants の積分表示について書かれた Dylan Thurston の thesis.
+- [Lin-Wang 1996]
+  - $v_2$ の積分表示を与えて, Jacobi diagram $Y$ に対応するこの積分が plane curve の積分幾何で現れる Crofton formula の $3$ 次元への拡張であることを示した. Crofton formula については [田崎 2005] の積分幾何学の集中講義ノートが参考になりそう.
+- [Labastida-Perez 1998]
+  - singular knot に対して gauge invariant operator を定義して, Kontsevich 積分を定義している.
+- [Labastida-Perez 2000]
+  - Wilson loop の真空期待値の摂動展開を解析して Vassiliev invariant の kernel が Vassiliev invariant を復元することを予想している. そして, order $4$ まで具体例を見ている. chord diagram による具体的な表示がある.
 
 ### Chern-Simons 理論
 - [Guadagnini-Martellini-Mintchev 1989]
@@ -239,6 +245,8 @@ permalink: /related-papers/
   - $SU(N)$ gauge group での Wilson loop の摂動展開を調べている. Universal enveloping algebra の中心の基底を与えている. この中心元による application によって higer order の Vassiliev invariants を計算導かれた colored HOMFLY 多項式の対称性に関する予想 tug-the-hook symmetry が証明されたという経緯がある.
 - [Moore 2019]
   - TASI school の lecture note. Introduction to Chern-Simons theory.
+- [Labastida 2001]
+  - Chern-Simons gauge 理論と Knot invariants の関係についてのレビュー. 対応関係の表がある. Configuration space integral が Landau gauge, Kontsevich integral が Light-cone gauge に対応している. Temporal gauge に対応する不変量が何かという問いがあるらしい. Temporal gauge については [Cattaneo-CottaRamusino-Frohlich-Martellini 1995] や [Labastida-Perez 2000] を見よ.
 
 ### universal 量子不変量, cyclotomic 展開, Habiro ring
 - [Habiro 2006]
@@ -343,7 +351,14 @@ permalink: /related-papers/
   - knotoid の forbidden move を何回したら trivial になるかという unravelling number と open curve に対する $S^2$ 上の knotods の分布から得られる avarage unravelling number $\mathrm{AUN}$ という complexity を定義している. これはあまり正確に complexity を反映していないが, open curve の任意の short intervals への制限で $\mathrm{AUN}$ を積分して得られる total unravelling number$\mathrm{TUN}$ というものを考えると良いだろうという結果を得ている. 結構、実験値との比較もしているように見える.
 - [Barkataki-Panagiotou 2025+]
   - open/closed curves の Jones polynomial の計算時間を減らすようなアルゴリズム
-- []
+- [Rogen-Karlsson 2008]
+  - proteins の model として space curves を考えて, geometric measure を定義した. この measure は co-writhe を用いて定義されており protein の secondary structure がどれだけ平行化を捉えている.
+- [Rogen-Bohr 2003]
+  - Vassiliev invariant の積分公式から作った protein の分類に用いられる measure を構成している. writhe (self-linking integral) の一般化にあたる $n$ 本の単純な chord からなる Jacobi diagram に対応する積分を使って measure を定義している. second Vassiliev invariant の話もあるので [Panagiotou-Kauffman 2021] とも関係していそう.
+- [Rogen-Fain 2003]
+  - [Rogen-Bohr 2003] の仕事と似たようなことをしている.
+- [Saha-Isto-Latombe 2008]
+  - ロープのような変形する線形の対象 (Deformable linear objacts, DLOs) に関して knot theory を用いて motion planning を行っている.
 
 ### Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]

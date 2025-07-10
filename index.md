@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-(update:2025-6-23)
+(update:2025-7-10)
 
 **Wataru Yuasa**
 
