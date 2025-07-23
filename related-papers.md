@@ -37,6 +37,8 @@ permalink: /related-papers/
   - braided category $\mathcal{C}$ にたいして, half braided algebra とその bimodule の圏を与えている. $\mathcal{C}$ として ribbon Hopf algebra 上の加群の圏を取ると, stated skein algebra が TQFT として書ける.
 - [Garoufalidis-Harper-Kashaev-Kohli-Song-Tahar 2025+]
   - Links-Gould 多項式に関するスケイン理論. [Marin-Wagner 13] の仕事を拡張するもの. 3つのスケイン関係式からなるが, 3つ目が非常に複雑で80項以上ある. [Ishii 04 Proc.~AMS] のスケイン関係式も参照.
+- [AyilliathKutteri-FarajzadehTehrani-Frohman 2025+]
+  - Dehn-Thuston compactification, $P=W$ conjecture, filtered and graded skein algebra.
 
 ### Goldman Lie 代数
 - [Gekhtman-Rogozinnikov 2024+]
@@ -247,6 +249,8 @@ permalink: /related-papers/
   - TASI school の lecture note. Introduction to Chern-Simons theory.
 - [Labastida 2001]
   - Chern-Simons gauge 理論と Knot invariants の関係についてのレビュー. 対応関係の表がある. Configuration space integral が Landau gauge, Kontsevich integral が Light-cone gauge に対応している. Temporal gauge に対応する不変量が何かという問いがあるらしい. Temporal gauge については [Cattaneo-CottaRamusino-Frohlich-Martellini 1995] や [Labastida-Perez 2000] を見よ.
+- [Dimofte-Gukov-Lenells-Zagier 2009]
+  - 複素 gauge group の Chern-Simons 理論における摂動展開について, Vassiliev invariant とは異なる不変量が出てくるという話.
 
 ### universal 量子不変量, cyclotomic 展開, Habiro ring
 - [Habiro 2006]
@@ -281,6 +285,8 @@ permalink: /related-papers/
   - $n$-color vertex polynomial という多項式の圏化を与えている. $n=3$ のときはペンローズ多項式と呼ばれるもの. だいたい, 上の論文のグラフの彩色数の母関数の圏化.
 - [Niebrzydowski-Przytycki 2013]
   - entropic magma という link や graph の不変量を定義している. Kauffman bracket の一般化として Kauffman bracket magma, Tutte 多項式の一般化として Tutte magma を定義している. magma $(A,\ast)$ と $A$ の Reidemeister moves に対応する関係式を満たす数列 $(a_n)$ を指定することで定義される. Skein tree に演算が対応しており, state から得られる loop の disjoint union に $(a_n)$ が対応する.
+- [Hsieh 2018]
+  - non-HOMFLY knot invariants というものを考えている. 自分にはよくわかっていない.
 
 ### 結び目の局所変形 (unknotting operation)
 - [Aida 1992] 
@@ -316,7 +322,7 @@ permalink: /related-papers/
 - [Oshmarina-Vesnin 2024+]
   - 完全グラフの Yamada polynomial と Jaeger polynomial と Jones polynomial の関係. Jaeger の Bar diagram と Kauffman (Dubroniv) polynomial を使った構成.
 
-### knotoid などの knot の一般化
+### knotoid
 - [Turaev 2012]
   - knotoid の導入. knotoid の性質と knot との基本的な対応について.
 - [Gugumcu-Lambropoulou 2021]
@@ -342,6 +348,15 @@ permalink: /related-papers/
 - [Tarkaev 2021]
   - Knotoid に対する Casson 型の不変量の構成. [Polyak-Viro 2001] の構成を参考にしている.
 
+### ideal knot
+- [Katritch-Bednar-Michoud-Scharein-Dubochet-Stasiak 1996]
+  - ideal knots に関する提唱された論文？ global writhe や average crossing number などを具体的に計算機で計算している.
+- [Stasiak-Katritch-Kauffman 1998]
+  - ideal knots とう教科書. 中身は見ていないので知らない. いろんな記事が集められている.
+- [Pieranski 1998]
+  - writhe などを中心に knot theory の初歩から ideal knots について歴史や応用の視点から解説している.
+
+
 ### knot theory の応用
 - [Alexander-Taylor-Dennis 2017]
   - open curve を protein のモデルとして扱う. $S^2$ の normal vector をパラメータとする平面上へ open curve の射影が得られる. この射影の端点を結び、現れた交差を virtual crossing とすることで $S^2$ 上の virtual knots の geography が考えられる. ここでは virtual knots の分布と protein の関係を調べている.
@@ -359,6 +374,8 @@ permalink: /related-papers/
   - [Rogen-Bohr 2003] の仕事と似たようなことをしている.
 - [Saha-Isto-Latombe 2008]
   - ロープのような変形する線形の対象 (Deformable linear objacts, DLOs) に関して knot theory を用いて motion planning を行っている.
+- [Moffatt-Ricca 1992]
+  - writhe と helicity について書いている. 特に積分表示について丁寧に説明されている.
 
 ### Temperley-Lieb 代数, Temperley-Lieb 圏
 - [Murtin-Saleur 1993]
@@ -427,6 +444,8 @@ permalink: /related-papers/
   - type $D$ の web (MOY) の生成元と関係式.
 - [Amarasinghe 2025+]
   - $\mathfrak{sl}_3$-web の圏の rigid monoidal category としての表示.
+- [Salmasian-Savage-Shen 2025+]
+  - orhosymplectic Lie superalgebra に対応する quantum symmetric pairs に関する diagrammatic aproach. disoriented skein category という framed HOMFLY-PT category の module category を考えている. そして, この圏が iquantum Brauer category と同値であることを示している.
 
 ### スケイン圏
 - [JonsonFreyd 2021]
@@ -591,7 +610,8 @@ permalink: /related-papers/
   - root of unity における $U_q(\mathfrak{sl}_2)$-tilting module の diagrammatic 圏. [Elias 2016] の dihedral cathedral $\mathfrak{D}(\infty)$ を主に扱っている. $3$ 次元多様体の不変量への応用を見込んでいる.
 - [ZhangV 2023]
   - Soergel calculus を用いて $\mathfrak{sl}_2$ の category $\mathcal{O}$ や $\mathrm{Tilt}(\mathfrak{sl}_2)$ を記述.
-
+-[RyomHansen 2020]
+  - Coxeter group に付随する Sergel bimodule の diagrammatic calculus を用いて Jucys-Murphy 元を構成している.
 
 ### tilting module
 - [Fiebig 2022]
