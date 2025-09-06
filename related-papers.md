@@ -314,6 +314,12 @@ permalink: /related-papers/
 - [Zucchini 2019]
   - Higer gauge theory における Wilson surface の holonomy から Surface knots に対する不変量を構成している？ 使っているのは quandle とその crossed module の理論.
 
+### polygonal knots
+- [Banchoff 1976]
+  - polygonal knot や link について Gauss linking integral や self-linking number の有限和公式を与えている.
+- [Klenin-Langowski 2000]
+  - writhe, Gauss linking integral, twists についての有限和公式. supercoiled DNA のモデルとして knots を扱う際に使うことを想定している.
+
 ### spatial graph
 - [Jaeger 1997]
   - Kauffman polynomial をつかった special graph の多項式不変量の構成. Bar diagram というものをつかっている. JW projector や $\mathfrak{sp}_{2n}$ web で一般化できるだろう. [Kuperberg 1997] の Higgman-Sims モデルと $\mathfrak{sp}_{4}$ spider で関係づけられているだろう.
