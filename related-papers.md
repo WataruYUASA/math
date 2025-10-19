@@ -267,6 +267,10 @@ permalink: /related-papers/
   - $\mathfrak{sp}_4$-web の圏化に関する thesis.
 - [Gepner-Im-Khovanov-Kitchloo 2024+]
   - foam cobordism と algebraic $K$-theory について.
+- [Boozer 2025]
+  - annulus 内の $1$-tangle diagram に対して chain complex を構成して, その homology を考えている. これにより端点を overpass/underpass arc で繋いでできる knot の reduced Khovanov homology が得られることを示している. これは knotoids の Khovanov homology 理論に該当するだろう.
+- [Boozer 2025+]
+  - lens space 内の knot に対する reduced Khovanov homology の構成に関する論文. $2$ 点穴開きトーラスの traceless $SU(2)$ character variety の深谷圏に関する(conjecturalな)手法を用いているらしい. ここでも, knotoid における $1$-tangle の closure を取る構成が現れる.
 
 ### Khovanov arc algebra
 - [Heidersdorf-Nehme-Stroppel 2024+]
@@ -353,6 +357,21 @@ permalink: /related-papers/
   - knot measure という open curves からの function を定義している. これは端点が一致するときに, ある knot の不変量へと収束する. また, biframed knotoids に対して ribbon Hopf 代数から構成される universal quantum invariant を定義している.
 - [Tarkaev 2021]
   - Knotoid に対する Casson 型の不変量の構成. [Polyak-Viro 2001] の構成を参考にしている.
+- [KnotProt](https://knotprot.cent.uw.edu.pl/)
+  - proteins の knots, slipknots, knotoid に関するデータベース.
+- [Linov 2020+]
+  - knotoids の height に関する論文. height は Turaev の意味での complexity. shortcut と knotoids の交点に対して, その sign は local intersection number によって定義される. ${+}$ の height と ${-}$ の height の和が通常の height になる.
+- [Korablev-Tarkaev 2021]
+  - $2\operatorname{height}(K)\leq \operatorname{cr}(K)$ を示している. the extended bracket polynomial, the affine index polynomial, the arrow polynomial を使って下からの bound が得られる.
+- [Goundaroulis-Dorier-Stasiak 2019+]
+  - up to $5$ crossings までの planar knotoids を分類している. また既存の $S^{2}$ 上の knotoids を拡張して, $6$ crossing までの完全なリストを得た.
+- [Bartholomew's Mathematics Page](https://www.layer8.co.uk/maths/knotoids/index.htm)
+  - Knotoids の table とその extended bracket polynomials.
+- [Cazet 2022+]
+  - knotoid の quandle cocycle invariant を定義して knotoid の chirality の判定をしている. 無限個の knotoid について, mirror と異なることを示している.
+- [Elhamdadi-Moltmaker-Saito 2025]
+  - Cazet 2022+ と同じような感じ. symmetry, invertibility などについて議論している.
+
 
 ### ideal knot
 - [Katritch-Bednar-Michoud-Scharein-Dubochet-Stasiak 1996]
