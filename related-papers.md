@@ -39,6 +39,10 @@ permalink: /related-papers/
   - Links-Gould 多項式に関するスケイン理論. [Marin-Wagner 13] の仕事を拡張するもの. 3つのスケイン関係式からなるが, 3つ目が非常に複雑で80項以上ある. [Ishii 04 Proc.~AMS] のスケイン関係式も参照.
 - [AyilliathKutteri-FarajzadehTehrani-Frohman 2025+]
   - Dehn-Thuston compactification, $P=W$ conjecture, filtered and graded skein algebra.
+- [Karuo-Korinman 2025+]
+  - スケイン代数の Azumaya loci について. [FKL] による non-semisimple TQFT から得られる Torelli group の射影表現の別定義を与えている.
+- [Karuo-Wang 2025+]
+  - $SL(n)$-スケイン代数の中心と Azumaya locus について.
 
 ### Goldman Lie 代数
 - [Gekhtman-Rogozinnikov 2024+]
@@ -87,6 +91,8 @@ permalink: /related-papers/
   - connected reductive group $G$ について, 有限生成群の $G$-character variety の Newton-Okounkov polyhedra を 考えている.
 - [Esnault 2023]
   - 数論的な local systems に関するレクチャーノート.
+- [Korinman 2025+]
+  - ある odd root of unity $\zeta$ で $3$ 次元多様体 $M$ のスケイン加群 $S_{\zeta}(M)$ を考えると Frobenius map を使うことで $S_{1}(M)$-module となる. $M$ のスピン構造を固定することで $SL_2$-character scheme $X_{SL_2}(M)$ について, 同型 $\mathcal{O}[X_{SL_2}(M)]\cong S_{1}(M)$ が得られ, $S_{\zeta}(M)$ は $\mathcal{O}[X_{SL_2}(M)]$ 上で有限生成となる. このとき, character scheme が reduced なら, 得られる $X_{SL_2}(M)$ 上の coherent sheaf は line bundle であることを示している.
 
 ### Painlevé VI
 - [Cantat-Loray 2007+, 2009]
@@ -111,6 +117,10 @@ permalink: /related-papers/
 ### Quantum trace
 - [KimHK-LeTTQ-Son 2023+]
   - [Gabbela] の [GMN] の spectral network を使った方法と [Allegretti-Kim] の [BW] の状態つきスケイン代数を使った方法の関係.
+- [Panitch-Park 2025+]
+  - stated skein module を使って [AGLR22+] で存在が予想されていた $3d$ quantum trace map を構成している.
+- [Agarwal-Gang-Lee-Romo 2022+]
+  - 3次元双曲多様体に対して quantum operator を KBSM の元に assign する quantum trace map を導入. length conjecture を考え, figure-eight knot について確認している.
 
 ### Teichmuller space
 - [Miyachi 2024+]
@@ -239,6 +249,8 @@ permalink: /related-papers/
   - singular knot に対して gauge invariant operator を定義して, Kontsevich 積分を定義している.
 - [Labastida-Perez 2000]
   - Wilson loop の真空期待値の摂動展開を解析して Vassiliev invariant の kernel が Vassiliev invariant を復元することを予想している. そして, order $4$ まで具体例を見ている. chord diagram による具体的な表示がある.
+- [Moskovich 2004]
+  - Gauss self-linking number の補正項について.
 
 ### Chern-Simons 理論
 - [Guadagnini-Martellini-Mintchev 1989]
@@ -297,6 +309,8 @@ permalink: /related-papers/
   - 上下が交互に並んだ多角形領域における交差交換. この $n$-gon move は unknotting operation.
 - [Cheng-Song 2025+] 
   - unorientable surface 上の link diagrams を up to region crossing change で分類している.
+- [Kanenobu 2014]
+  - $SH(3)$-move とその他の局所変形との関係を議論している. その上で, 多項式不変量を用いてた $SH(3)$-move, $SH(3)$-Gordian distance の 評価を与えた. また $SH(3)$-unknotting number を 9 交点の結び目まで求めている. 
 
 ### $4$-move conjecture
 - [Dabkowski-Sahi 2007]
@@ -310,13 +324,15 @@ permalink: /related-papers/
 - [Przyticki 2016]
   - $12$ 交点のある絡み目が $4$-move によって Hopf link に変形できることを示している. これによって $12$ 交点以下の全ての $2$ 成分の交代絡み目が Hopf link か trivial link に変形できることが確かめられた.
 
-### surface knot, link
+###  $2$-knot, surface knot
 - [Choi-Kim 2022]
   - surface link に関する不変量を marked diagram を用いて Kauffman bracket magma を用いて構成している. 
 - [Zucchini 2016]
   - higher gauge theory における holonomy invariant とその higer Chern-Simons theory への応用についての二部作. I ではsurface knot の flat $2$-connection にたいして $2$-holonomy を定義している. II では crossed module 上の trace を考えている. Quandle crossed module の話もある.
 - [Zucchini 2019]
   - Higer gauge theory における Wilson surface の holonomy から Surface knots に対する不変量を構成している？ 使っているのは quandle とその crossed module の理論.
+- [Cattaneo 2025+]
+  -  nonabelian 4 次元 BF 理論における surface observable with a cosmological term を導入することで, Alexander 不変量の拡張となる $2$-knot 不変量を構成した.
 
 ### polygonal knots
 - [Banchoff 1976]
@@ -425,6 +441,10 @@ permalink: /related-papers/
   - quantum orthogonal group の web 圏.
 - [Bodish-Tubbenhauer 2024]
   - orthogonal group の web 圏と tilting 表現の圏との同値性.
+- [Bodish-RobertLH-Wagner 2025+]
+  - type $D$ の MOY type の web を定義して計算をしている. 平面グラフについて $\mathbb{Z}_{\geq 0}[q,q^{-1}]$ に値を取る. この web で計算して得られる結び目不変量と $U_{q}(\mathfrak{so}(2N))$ の RT invariant は $q$ を $-q$ に変換することで一致する.
+- [Bodish-Elias-Rose-Tatham 2021+]
+  - type $C$ の web を定義して $U_{q}(\mathfrak{sp}_{2n})$ の有限次元表現の full subcategory と同値であることを示した.
 - [Snyder-Tingley 2009]
   - half ribbon element をもつ Hopf 代数 $U_q(\mathfrak{g})$.
 - [Westbury 2007]
@@ -465,8 +485,6 @@ permalink: /related-papers/
   - $Sp(2n)$-web の $2n$-valent vertex と determinant の関係について. pants や torus の基底（？）を考えている. $Sp(4)$ の Dehn-Thuston coordinate を考えるときに使えそう.
 - [Lafay-Gainutdinov-Jacobsen 2023]
   - rank $2$ web を使った web の lattice models. 表現など色々具体的に書いてある.
-- [Bodish-RobertLH-Wagner 2025+]
-  - type $D$ の web (MOY) の生成元と関係式.
 - [Amarasinghe 2025+]
   - $\mathfrak{sl}_3$-web の圏の rigid monoidal category としての表示.
 - [Salmasian-Savage-Shen 2025+]
@@ -576,38 +594,42 @@ permalink: /related-papers/
   - 正標数の代数閉体 $\mathbb{k}$ 上の単純代数群の multiplicity free, completely reducible な表現について. $SL_3(\mathbb{k})$, $Sp_4(\mathbb{k})$ について完全な解決を与えている.
 
 ### クラスター代数
-- [Chekhov-Shapiro 2014]
-  - generalized cluster algebra の導入. cone points のある $2$-orbifold の Teichmuller space.
-- [Nakanishi 2015]
-  - generalized cluster algebra における seed の structure theory.
-- [Nakanishi-Rupel]
-  - generalized cluster algebra の $c$-vectors, $g$-vectors, $F$-polynomials など基本的なことが書いてそう.
-- [Gleitz 2015]
-  - type $C_n$ の generalized cluster algebra と quantum loop algebra at root of unity との関係. $\mathfrak{sl}_3$ で予想がある.
-- [Gilbert-Philbin-Wright 2023+]
-  - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない.
-- [Lamberti 2018]
-  - [Fomin-Pylyavskyy] の $SL_3$-invariant space におけるテンソルネットワークにおいて, $2$ 変数の Chebyshev 多項式を定義して, Thick (or Band), Bangle, Bracelet 操作との関係を調べている.
+- [Alessandrini-Guichard-Rogozinnikov-Wienhard 2024]
+  - AMS memoirs. 曲面の $Sp(2n,\mathbb{R})$-local systems の moduli space の話. lambda length の一般化. non-commutative cluster algebra.
 - [Bossinger-Mohammadi-NajeraChavez 2021]
   - cluster algebra with universal coefficients.
-- [Qin 2024a+]
-  - common triangular basis の構成. quantum $A=U$ の証明.
-- [Qin 2024b+]
-  - freezing operator
 - [Banaian-Kang-Kelley 2024+]
   - punctured surface の場合に exchange relation で成り立つスケイン関係式について記述している。スネーク公式を利用している。[IKY] の仕事を一部含んでいるはず。また、[IKY] の punctured surface version でもっとスッキリ処理できるはず。
 - [Berenstein-Retakh 2018]
   - marked surface に対して non-commutative な代数を定義している. [Gelfamd-Retakh 1997] の non-commutative quasi-Plucker coordinate の Ptolemy identity が基礎になっている. non-commutative Laurent phenomenon など non-commutative な cluster theory を行っている.
-- [Greenberg-Kaufman-Niemeyer-Wienhard 2024+]
-  - [Berenstein-Retakh 2018] に続く仕事. polygonal cluster algebra という cluster algebra の non-commutative generalization. 単純な $A_1$ の場合は向きのついた triangulation の flip に関して exchange relation が成り立っている. exchange relaiton によって対角辺が Z 型の edge の積と N 型の edge の積（flip後の対角辺が真ん中） $2$ 通りに和として分けられる. スケイン的な言い換えができるかかなり気になる。
 - [Casals-GorskyE-GorskyM-Le-Shen-Simental 2024+]
   - simple Lie group の Braid variety のクラスター構造の構成. weave を使う. Soergel calculus についても少し記述がある.
-- [Alessandrini-Guichard-Rogozinnikov-Wienhard 2024]
-  - AMS memoirs. 曲面の $Sp(2n,\mathbb{R})$-local systems の moduli space の話. lambda length の一般化. non-commutative cluster algebra.
+- [Chekhov-Shapiro 2014]
+  - generalized cluster algebra の導入. cone points のある $2$-orbifold の Teichmuller space.
 - [Fock-Goncharov 2006+]
   - $G_2$ の cluster $\mathcal{X}$-variety について詳しい. two-component link の基本群が $G_2$ の braid 群と同型という話が出てくる.
+- [Fu-Zhang 2025+]
+  - 量子群 $U_{v}^{+}$ から対応する係数付き量子クラスター代数 $\mathcal{A}_{q}$ への準同型を構成した. initial cluster から一回の mutation で得られるクラスター変数が quantum Serre relation を満たすことを示した.
+- [Gleitz 2015]
+  - type $C_n$ の generalized cluster algebra と quantum loop algebra at root of unity との関係. $\mathfrak{sl}_3$ で予想がある.
+- [Gilbert-Philbin-Wright 2023+]
+  - quasi-cluster algebra への matrix formula と Musiker-Williams の意味でのスケイン関係式の一般化. このスケイン関係式は交差が自己交差とそうでないときで変わってくるのでよく理解していない.
 - [Grabowski-Pressland 2024+]
   - 表現論に現れるクラスター構造について, cluster ensemble, tolopical duality, cluster character などがまとまっている. 勉強するのによそさう.
+- [Greenberg-Kaufman-Niemeyer-Wienhard 2024+]
+  - [Berenstein-Retakh 2018] に続く仕事. polygonal cluster algebra という cluster algebra の non-commutative generalization. 単純な $A_1$ の場合は向きのついた triangulation の flip に関して exchange relation が成り立っている. exchange relaiton によって対角辺が Z 型の edge の積と N 型の edge の積（flip後の対角辺が真ん中） $2$ 通りに和として分けられる. スケイン的な言い換えができるかかなり気になる。
+- [Lamberti 2018]
+  - [Fomin-Pylyavskyy] の $SL_3$-invariant space におけるテンソルネットワークにおいて, $2$ 変数の Chebyshev 多項式を定義して, Thick (or Band), Bangle, Bracelet 操作との関係を調べている.
+- [Nakanishi 2015]
+  - generalized cluster algebra における seed の structure theory.
+- [Nakanishi-Rupel]
+  - generalized cluster algebra の $c$-vectors, $g$-vectors, $F$-polynomials など基本的なことが書いてそう.
+- [Qin 2024a+]
+  - common triangular basis の構成. quantum $A=U$ の証明.
+- [Qin 2024b+]
+  - freezing operator
+- [Zhang-Zhou 2025+]
+  - quasimap quantum cohomology について.
 
 ### DAHA, Askey-Wilson 代数
 - [Crampe-Frappat-Gaboriaud-dAndecy-Ragoucy-Vinet 2021]
@@ -624,6 +646,8 @@ permalink: /related-papers/
   - $C^{\vee}C_1$ 型の spherical DAHA の表現について brane quantization を用いて調べている.
 - [HuangHW 2024+]
   - root of unity における universal Askey-Wilson algebra の有限次元 Verma module について.
+- [Matson-Samuelson 2025+]
+  - $1$-boundary torus の stated skein algebra と DAHA について. これを参考に higher-rank analogue を考えるべき?
 
 
 ### Soergel bimodule, Soergel calculus
@@ -637,6 +661,10 @@ permalink: /related-papers/
   - Soergel calculus を用いて $\mathfrak{sl}_2$ の category $\mathcal{O}$ や $\mathrm{Tilt}(\mathfrak{sl}_2)$ を記述.
 -[RyomHansen 2020]
   - Coxeter group に付随する Sergel bimodule の diagrammatic calculus を用いて Jucys-Murphy 元を構成している.
+
+### $K$-theory
+- [Khan 2022]
+  - algebraic $K$- and $G$-theory について.
 
 ### tilting module
 - [Fiebig 2022]
@@ -678,6 +706,8 @@ permalink: /related-papers/
 - [Foundations of ML](https://cs.nyu.edu/~mohri/mlbook/)
 
 ### レクチャーノート関連
+- [A Mathematical Introduction to Geometric Quantization](https://arxiv.org/abs/2512.03171)
+  - シンプレクティック幾何から説明している geometric quantization のレクチャーノート.
 - [Birne Binegar](https://math.okstate.edu/people/binegar/)
   - 授業用のレクチャーノート多数
 - [Kevin Sackel](https://sites.google.com/view/ksackel/home)
