@@ -6,6 +6,8 @@ permalink: /related-papers/
 
 気になった文献の備忘録. 各項目について網羅的に書いているわけではないし, 歴史的に文献を辿っているわけでもない. あまり詳しくない分野の内容を忘れないようにするためのメモ. (2024 年から作成.)
 
+__2026年時点で ChatGPT, Claude などの生成 AI の発展によりこのメモは不要になったと思われますが思い出として残しておきます.__
+
 ### スケイン代数
 - [CottaRamusino-Rinaldi 1991a, 1991b, 1991c]
   - 曲面上のスケイン代数の余代数構造や multi-parameter 量子群.
@@ -252,6 +254,9 @@ permalink: /related-papers/
 - [Moskovich 2004]
   - Gauss self-linking number の補正項について.
 
+### State integral
+- [McPhailSnyder-Reshetikhin 2025+] a root of unity $\xi$ において, $\mathcal{U}_{\xi}(\mathfrak{sl}_2)$ における holonomy $R$-matrix を $4$ つの quantum holonomy dilogarithms へ因数分解する話.
+
 ### Chern-Simons 理論
 - [Guadagnini-Martellini-Mintchev 1989]
   - 2点相関関数から linking number と関係しているという話が気になって教えてもらった. [Polyakov 1988] の $(2+1)$-次元可換ゲージ理論の論文を見るべきらしいが手元にない.
@@ -347,6 +352,15 @@ permalink: /related-papers/
   - $\theta$-curve の Jaeger polynomial の specialization と Jones polynomial の関係を subknots を使って記述. この specialization はたぶん $\mathfrak{sp}_4$ web から得られる. 
 - [Oshmarina-Vesnin 2024+]
   - 完全グラフの Yamada polynomial と Jaeger polynomial と Jones polynomial の関係. Jaeger の Bar diagram と Kauffman (Dubroniv) polynomial を使った構成.
+
+### virtual knot
+- [Kauffman 99]
+  - virtual crossing を持つ結び目 virtual knot のレビュー. Jones 多項式, Parity bracket 多項式, arrow 多項式, Khovanov homology などについて紹介している.
+- [Kauffman 2013]
+  - virtual knot の不変量 Affine index polynomial を定義している. 彩色によって交点$c$ に対して定義される $\pm$-weight $w_{\pm}(c)$ を使い $\sum_{c}(t^{w_{\pm}}-1)$ によって定義される. 交点の正負で weight の正負を選ぶ. 
+- [Petit 2020]
+  - Affine index polynoimal の 多変数 version. 次数 1 の有限型不変量になっている.
+
 
 ### knotoid
 - [Turaev 2012]
