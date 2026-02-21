@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-(update:2026-2-21)
+(update: {{ site.time | date: "%Y-%m-%d" }})
 
 **Wataru Yuasa**
 
