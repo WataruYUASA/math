@@ -11,9 +11,9 @@ layout: home
 
 **Wataru Yuasa**
 
-Postdoctoral researcher at [International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2)](https://www.omu.ac.jp/orp/ocami-en/), Hiroshima University
+Specially Appointed Assistant Professor at [International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2)](https://wpi-skcm2.hiroshima-u.ac.jp/), Hiroshima University
 
-*mail*: w.yuasa@gmail.com, wyuasa@hiroshima-u.ac.jp
+*mail*: wyuasa@hiroshima-u.ac.jp, w.yuasa@gmail.com
 
 [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1215568),
 [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=WXyFD1wAAAAJ)
@@ -27,7 +27,8 @@ Quantum Topology, Skein theory, Knot theory, Mapping class groups, Knotoids etc.
 
 |||
 |:--|:--|
-|2025-04 -- 2025-04| Postdoctoral researcher, *International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2), Hiroshima University, (Mentor: Yuka Kotorii)*|
+|2026-04 -- | Specially Appointed Assistant Professor, *International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2), Hiroshima University, (Mentor: Yuka Kotorii)*|
+|2025-04 -- 2026-03| Postdoctoral researcher, *International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2), Hiroshima University, (Mentor: Yuka Kotorii)*|
 |2025-04 -- 2025-04| Postdoctoral researcher, *Osaka Central Advanced Mathematical Institute (OCAMI), Osaka Metropolitan University, (Mentor: Hirotaka Akiyoshi)*|
 |2023-05 -- 2025-03| Program-Specific Assistant Professor, *Graduate School of Science, Department of Mathematics, Kyoto University*|
 |2023-04 -- 2023-04| Program-Specific Researcher (KTGU), *Center for the Promotion of Interdisciplinary Education and Research, Kyoto University*|
