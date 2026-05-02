@@ -57,6 +57,7 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
+|[18]|広島大学 トポロジー・幾何セミナー<br>*State--clasp correspondence for skein algebras*|2026-04-21<br>広島大学|
 |[17]|微分トポロジーセミナー<br>*Higher-rank skein algebras and their graded quotients*|2025-04-15<br>京都大学|
 |[16]|京大数学談話会<br>*高階スケイン代数と量子クラスター代数*|2024-05-15<br>京都大学数理解析研究所<br>[slide](material/slide_KyotoDanwakai.pdf)|
 |[15]|Friday Seminar on Knot Theory<br>*State-clasp correpondence for skein algebras.*|2022-12-02<br>Osaka Metropolitan University|
