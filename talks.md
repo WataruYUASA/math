@@ -11,8 +11,10 @@ permalink: /talk/
 
 ||||
 |--:|:--|:--:|
-|[38]|微分トポロジー'25<br>*線形スケイン理論 2.*|2025-03-09<br>立命館大学|
-|[37]|Random topics on Teichm\"uller theory III<br>*曲面の高階スケイン代数.*|2025-01-15<br>武蔵野美術大学|
+|[40]|数学と諸分野の連携に向けた若手数学者交流会（第7回）2026 <br>*ノットイドを用いた空間内の曲線のトポロジカルキラリティ*|2026-03-21<br>ビジョンセンター西新宿|
+|[39]|結び目の数理VIII <br>*$(2,m)$-トーラス絡み目の色付き $\mathfrak{sp}_4$ 不変量の安定性*|2025-12-16<br>日本大学|
+|[38]|微分トポロジー'25<br>*線形スケイン理論 2*|2025-04-15<br>京都大学|
+|[37]|Random topics on Teichm\"uller theory III<br>*曲面の高階スケイン代数*|2025-01-15<br>武蔵野美術大学|
 |[36]|拡大KOOKセミナー2024<br>*Stated and clasped skein algebras for $G_2$*|2024-08-21<br>あいめっせホール(兵庫県姫路市)|
 |[35]|Advances in Cluster Algebras 2024<br>*Skein and cluster algebras with coefficients for unpunctured surfaces*|2024-03-13<br>Nagoya University|
 |[34]|Geometry, Algebra and Physics Seminar at KIAS<br>*State-clasp correspondence of skein algebras*|2023-06-29<br>KIAS (**ONLINE**)|
